@@ -1,0 +1,1432 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 生成 EventLoopThread.svg Page-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="39.3386in" height="22.8858in"
+		viewBox="0 0 2832.38 1647.78" xml:space="preserve" color-interpolation-filters="sRGB" class="st79">
+	<v:documentProperties v:langID="2052" v:metric="true" v:viewMarkup="false">
+		<v:userDefs>
+			<v:ud v:nameU="msvNoAutoConnect" v:val="VT0(1):26"/>
+		</v:userDefs>
+	</v:documentProperties>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st2 {fill:#ff0000;font-family:宋体;font-size:1.00001em;font-weight:bold}
+		.st3 {fill:#000000;font-family:微软雅黑;font-size:1em}
+		.st4 {fill:#804000;font-family:Courier New;font-size:0.83333em;font-weight:normal}
+		.st5 {fill:#0000ff;font-family:Courier New;font-size:0.83333em}
+		.st6 {fill:#000000;font-family:Courier New;font-size:0.83333em;font-weight:normal}
+		.st7 {fill:#000080;font-family:Courier New;font-size:0.83333em}
+		.st8 {fill:#8000ff;font-family:Courier New;font-size:0.83333em;font-weight:normal}
+		.st9 {fill:#808080;font-family:Courier New;font-size:0.83333em;font-weight:normal}
+		.st10 {fill:#008000;font-family:Courier New;font-size:0.83333em;font-weight:normal}
+		.st11 {fill:#008000;font-family:微软雅黑;font-size:0.83333em;font-weight:normal}
+		.st12 {fill:#ff8000;font-family:Courier New;font-size:0.83333em;font-weight:normal}
+		.st13 {fill:#000000;font-family:Calibri;font-size:1em}
+		.st14 {font-family:Calibri;font-size:1em}
+		.st15 {fill:#000000;font-family:Microsoft Sans Serif;font-size:1em}
+		.st16 {font-family:微软雅黑;font-size:1em}
+		.st17 {font-family:Microsoft Sans Serif;font-size:1em}
+		.st18 {fill:#ff0000;font-family:Courier New;font-size:1.00001em;font-weight:bold}
+		.st19 {font-size:1em}
+		.st20 {fill:#000000;font-size:0.83333em;font-weight:normal}
+		.st21 {fill:#000080;font-size:0.83333em}
+		.st22 {fill:#808080;font-size:0.83333em;font-weight:normal}
+		.st23 {fill:#000000;font-family:Courier New;font-size:0.666664em}
+		.st24 {fill:#0000ff;font-size:1em;font-weight:bold}
+		.st25 {fill:#000080;font-size:1em;font-weight:bold}
+		.st26 {fill:#8000ff;font-size:1em}
+		.st27 {font-size:1.25001em}
+		.st28 {fill:#000080;font-size:1.25001em;font-weight:bold}
+		.st29 {fill:#8000ff;font-size:1.25001em}
+		.st30 {fill:#0000ff;font-size:1.25001em;font-weight:bold}
+		.st31 {fill:#000080;font-family:微软雅黑;font-size:1em;font-weight:bold}
+		.st32 {fill:#8000ff;font-family:Courier New;font-size:0.833336em}
+		.st33 {fill:#000000;font-size:1em}
+		.st34 {fill:#000080;font-size:0.799995em;font-weight:bold}
+		.st35 {fill:#000080;font-family:微软雅黑;font-size:0.799995em;font-weight:bold}
+		.st36 {fill:#000000;font-size:0.799995em}
+		.st37 {fill:#008000;font-size:1em}
+		.st38 {fill:#000000;font-family:Courier New;font-size:0.833336em}
+		.st39 {font-size:0.799995em}
+		.st40 {fill:#000080;font-family:宋体;font-size:0.799995em;font-weight:bold}
+		.st41 {marker-start:url(#mrkr1-1112);stroke:#00b0f0;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st42 {fill:#00b0f0;fill-opacity:1;stroke:#00b0f0;stroke-opacity:1;stroke-width:0.22935779816514}
+		.st43 {marker-end:url(#mrkr1-1125);marker-start:url(#mrkr1-1112);stroke:#00b0f0;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st44 {fill:#ff0000;font-size:0.799995em;font-weight:bold}
+		.st45 {fill:#ff0000;font-family:微软雅黑;font-size:0.799995em;font-weight:bold}
+		.st46 {fill:#000000;font-size:0.899997em}
+		.st47 {fill:#000000;font-family:微软雅黑;font-size:0.899997em}
+		.st48 {fill:#ff0000;font-family:宋体;font-size:0.833336em;font-weight:bold}
+		.st49 {fill:#000000;font-family:Courier New;font-size:1em;font-weight:normal}
+		.st50 {fill:#000080;font-family:Courier New;font-size:1em}
+		.st51 {fill:#0000ff;font-family:Courier New;font-size:1em}
+		.st52 {fill:#000000;font-family:Courier New;font-size:0.799995em;font-weight:normal}
+		.st53 {fill:#000080;font-family:Courier New;font-size:0.799995em}
+		.st54 {fill:#000000;font-family:Courier New;font-size:1em}
+		.st55 {fill:#ff8000;font-family:Courier New;font-size:1em;font-weight:normal}
+		.st56 {fill:#8000ff;font-family:Courier New;font-size:1em;font-weight:normal}
+		.st57 {font-family:Courier New;font-size:1em}
+		.st58 {fill:#000080;font-family:微软雅黑;font-size:0.799995em}
+		.st59 {fill:#808080;font-family:Courier New;font-size:1em;font-weight:normal}
+		.st60 {fill:#008000;font-family:Courier New;font-size:1em}
+		.st61 {fill:#ff0000;font-size:1em}
+		.st62 {fill:#ff0000;font-size:1em;font-weight:bold}
+		.st63 {fill:#ff0000;font-family:微软雅黑;font-size:1em;font-weight:bold}
+		.st64 {fill:#ff8000;font-size:1em}
+		.st65 {fill:#808080;font-size:1em}
+		.st66 {fill:#ffffff;stroke:none;stroke-linecap:butt;stroke-width:7.2}
+		.st67 {fill:#ff0000;font-family:宋体;font-size:0.666664em;font-weight:bold}
+		.st68 {fill:#ff0000;font-family:Courier New;font-size:0.666664em;font-weight:bold}
+		.st69 {font-family:宋体;font-size:1em}
+		.st70 {fill:#8000ff;font-size:1.25001em;font-weight:normal}
+		.st71 {fill:#000000;font-size:1.25001em;font-weight:normal}
+		.st72 {fill:#000080;font-size:1.25001em}
+		.st73 {fill:#0000ff;font-size:1.25001em}
+		.st74 {fill:#ff8000;font-size:1.25001em;font-weight:normal}
+		.st75 {font-size:1.25001em;font-weight:normal}
+		.st76 {fill:#000000;font-family:宋体;font-size:1.50002em}
+		.st77 {marker-end:url(#mrkr1-1125);stroke:#00b0f0;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st78 {fill:#ff0000;font-family:Microsoft Sans Serif;font-size:1.00001em;font-weight:bold}
+		.st79 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Markers">
+		<g id="lend1">
+			<path d="M 1 -1 L 0 0 L 1 1 " style="stroke-linecap:round;stroke-linejoin:round;fill:none"/>
+		</g>
+		<marker id="mrkr1-1112" class="st42" v:arrowType="1" v:arrowSize="2" orient="auto" markerUnits="strokeWidth"
+				overflow="visible">
+			<use xlink:href="#lend1" transform="scale(4.36) "/>
+		</marker>
+		<marker id="mrkr1-1125" class="st42" v:arrowType="1" v:arrowSize="2" orient="auto" markerUnits="strokeWidth"
+				overflow="visible">
+			<use xlink:href="#lend1" transform="scale(-4.36,-4.36) "/>
+		</marker>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>页-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<v:layer v:name="连接线" v:index="0"/>
+		<g id="group114-1" transform="translate(18,-437.386)" v:mID="114" v:groupContext="group">
+			<title>工作表.114</title>
+			<g id="shape1-2" v:mID="1" v:groupContext="shape" transform="translate(0,-261.638)">
+				<title>工作表.1</title>
+				<desc>前面的两个level都只是EventLoop在创建线程中调用的案例接下来就通过一个案例来分析EventLoop的跨线程调用...</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+				<v:textRect cx="355.677" cy="1182.4" width="711.36" height="930.756"/>
+				<rect x="0" y="717.024" width="711.354" height="930.756" class="st1"/>
+				<text x="4" y="731.82" class="st2" v:langID="2052"><v:paragraph/><v:tabList/>前面的两个level都只是EventLoop在创建线程中调用的案例，接下来就通过一个案例来分析EventLoop的跨线程调用<v:newlineChar/><v:newlineChar/><tspan
+							x="4" dy="2.412em" class="st3">看这个案例</tspan><tspan class="st3">：<v:newlineChar/><v:newlineChar/><v:paragraph
+								v:bulletSize="0.166667"/></tspan><tspan x="4" dy="2.705em" class="st4" v:langID="1033">#</tspan><tspan
+							class="st4" v:langID="1033">include </tspan><tspan class="st4" v:langID="1033">&#60;</tspan><tspan
+							class="st4" v:langID="1033">muduo</tspan><tspan class="st4" v:langID="1033">/</tspan><tspan class="st4"
+							v:langID="1033">net</tspan><tspan class="st4" v:langID="1033">/</tspan><tspan class="st4"
+							v:langID="1033">EventLoop</tspan><tspan class="st4" v:langID="1033">.</tspan><tspan class="st4"
+							v:langID="1033">h</tspan><tspan class="st4" v:langID="1033">&#62;<v:newlineChar/></tspan><tspan x="4"
+							dy="1.2em" class="st4" v:langID="1033">#</tspan><tspan class="st4" v:langID="1033">include </tspan><tspan
+							class="st4" v:langID="1033">&#60;</tspan><tspan class="st4" v:langID="1033">muduo</tspan><tspan
+							class="st4" v:langID="1033">/</tspan><tspan class="st4" v:langID="1033">net</tspan><tspan class="st4"
+							v:langID="1033">/</tspan><tspan class="st4" v:langID="1033">EventLoopThread</tspan><tspan class="st4"
+							v:langID="1033">.</tspan><tspan class="st4" v:langID="1033">h</tspan><tspan class="st4" v:langID="1033">&#62;<v:newlineChar/><v:newlineChar/></tspan><tspan
+							x="4" dy="2.4em" class="st4" v:langID="1033">#</tspan><tspan class="st4" v:langID="1033">include </tspan><tspan
+							class="st4" v:langID="1033">&#60;</tspan><tspan class="st4" v:langID="1033">stdio</tspan><tspan
+							class="st4" v:langID="1033">.</tspan><tspan class="st4" v:langID="1033">h</tspan><tspan class="st4"
+							v:langID="1033">&#62;<v:newlineChar/><v:newlineChar/></tspan><tspan x="4" dy="2.412em" class="st5"
+							v:langID="1033">using</tspan><tspan class="st6" v:langID="1033"> </tspan><tspan class="st5"
+							v:langID="1033">namespace</tspan><tspan class="st6" v:langID="1033"> </tspan><tspan class="st6"
+							v:langID="1033">muduo</tspan><tspan class="st7" v:langID="1033">;<v:newlineChar/></tspan><tspan x="4"
+							dy="1.215em" class="st5" v:langID="1033">using</tspan><tspan class="st6" v:langID="1033"> </tspan><tspan
+							class="st5" v:langID="1033">namespace</tspan><tspan class="st6" v:langID="1033"> </tspan><tspan
+							class="st6" v:langID="1033">muduo</tspan><tspan class="st7" v:langID="1033">::</tspan><tspan
+							class="st6" v:langID="1033">net</tspan><tspan class="st7" v:langID="1033">;<v:newlineChar/><v:newlineChar/></tspan><tspan
+							x="4" dy="2.416em" class="st8" v:langID="1033">void</tspan><tspan class="st6" v:langID="1033"> </tspan><tspan
+							class="st6" v:langID="1033">runInThread</tspan><tspan class="st7" v:langID="1033">()<v:newlineChar/></tspan><tspan
+							x="4" dy="1.215em" class="st7" v:langID="1033">{<v:newlineChar/></tspan><tspan x="4" dy="1.215em"
+							class="st6" v:langID="1033">  </tspan><tspan class="st6" v:langID="1033">printf</tspan><tspan
+							class="st7" v:langID="1033">(</tspan><tspan class="st9" v:langID="1033">&#34;</tspan><tspan class="st9"
+							v:langID="1033">runInThread</tspan><tspan class="st9" v:langID="1033">(): </tspan><tspan class="st9"
+							v:langID="1033">pid </tspan><tspan class="st9" v:langID="1033">= %</tspan><tspan class="st9"
+							v:langID="1033">d</tspan><tspan class="st9" v:langID="1033">, </tspan><tspan class="st9"
+							v:langID="1033">tid </tspan><tspan class="st9" v:langID="1033">= %</tspan><tspan class="st9"
+							v:langID="1033">d</tspan><tspan class="st9" v:langID="1033">\</tspan><tspan class="st9" v:langID="1033">n</tspan><tspan
+							class="st9" v:langID="1033">&#34;</tspan><tspan class="st7" v:langID="1033">,<v:newlineChar/></tspan><tspan
+							x="4" dy="1.215em" class="st6" v:langID="1033">         </tspan><tspan class="st6" v:langID="1033">getpid</tspan><tspan
+							class="st7" v:langID="1033">()</tspan><tspan class="st7" v:langID="1033">,</tspan><tspan class="st6"
+							v:langID="1033"> </tspan><tspan class="st6" v:langID="1033">CurrentThread</tspan><tspan class="st7"
+							v:langID="1033">::</tspan><tspan class="st6" v:langID="1033">tid</tspan><tspan class="st7"
+							v:langID="1033">())</tspan><tspan class="st7" v:langID="1033">;<v:newlineChar/></tspan><tspan x="4"
+							dy="1.215em" class="st7" v:langID="1033">}<v:newlineChar/><v:newlineChar/></tspan><tspan x="4"
+							dy="2.415em" class="st8" v:langID="1033">int</tspan><tspan class="st6" v:langID="1033"> </tspan><tspan
+							class="st6" v:langID="1033">main</tspan><tspan class="st7" v:langID="1033">()<v:newlineChar/></tspan><tspan
+							x="4" dy="1.215em" class="st7" v:langID="1033">{<v:newlineChar/></tspan><tspan x="4" dy="1.215em"
+							class="st6" v:langID="1033">  </tspan><tspan class="st6" v:langID="1033">printf</tspan><tspan
+							class="st7" v:langID="1033">(</tspan><tspan class="st9" v:langID="1033">&#34;</tspan><tspan class="st9"
+							v:langID="1033">main</tspan><tspan class="st9" v:langID="1033">(): </tspan><tspan class="st9"
+							v:langID="1033">pid </tspan><tspan class="st9" v:langID="1033">= %</tspan><tspan class="st9"
+							v:langID="1033">d</tspan><tspan class="st9" v:langID="1033">, </tspan><tspan class="st9"
+							v:langID="1033">tid </tspan><tspan class="st9" v:langID="1033">= %</tspan><tspan class="st9"
+							v:langID="1033">d</tspan><tspan class="st9" v:langID="1033">\</tspan><tspan class="st9" v:langID="1033">n</tspan><tspan
+							class="st9" v:langID="1033">&#34;</tspan><tspan class="st7" v:langID="1033">,<v:newlineChar/></tspan><tspan
+							x="4" dy="1.215em" class="st6" v:langID="1033">         </tspan><tspan class="st6" v:langID="1033">getpid</tspan><tspan
+							class="st7" v:langID="1033">()</tspan><tspan class="st7" v:langID="1033">,</tspan><tspan class="st6"
+							v:langID="1033"> </tspan><tspan class="st6" v:langID="1033">CurrentThread</tspan><tspan class="st7"
+							v:langID="1033">::</tspan><tspan class="st6" v:langID="1033">tid</tspan><tspan class="st7"
+							v:langID="1033">())</tspan><tspan class="st7" v:langID="1033">;<v:newlineChar/><v:newlineChar/></tspan><tspan
+							x="4" dy="2.415em" class="st6" v:langID="1033">  </tspan><tspan class="st6" v:langID="1033">EventLoopThread loopThread</tspan><tspan
+							class="st7" v:langID="1033">;<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st6"
+							v:langID="1033">  </tspan><tspan class="st6" v:langID="1033">EventLoop</tspan><tspan class="st7"
+							v:langID="1033">*</tspan><tspan class="st6" v:langID="1033"> </tspan><tspan class="st6" v:langID="1033">loop </tspan><tspan
+							class="st7" v:langID="1033">=</tspan><tspan class="st6" v:langID="1033"> </tspan><tspan class="st6"
+							v:langID="1033">loopThread</tspan><tspan class="st7" v:langID="1033">.</tspan><tspan class="st6"
+							v:langID="1033">startLoop</tspan><tspan class="st7" v:langID="1033">()</tspan><tspan class="st7"
+							v:langID="1033">;<v:newlineChar/></tspan><tspan x="4" dy="1.206em" class="st6" v:langID="1033">  </tspan><tspan
+							class="st10" v:langID="1033">// </tspan><tspan class="st11" v:langID="1033">异步调用</tspan><tspan
+							class="st10" v:langID="1033">runInThread</tspan><tspan class="st11" v:langID="1033">，</tspan><tspan
+							class="st11" v:langID="1033">即将</tspan><tspan class="st10" v:langID="1033">runInThread</tspan><tspan
+							class="st11" v:langID="1033">添加到</tspan><tspan class="st10" v:langID="1033">loop</tspan><tspan
+							class="st11" v:langID="1033">对象所在</tspan><tspan class="st10" v:langID="1033">IO</tspan><tspan
+							class="st11" v:langID="1033">线程</tspan><tspan class="st11" v:langID="1033">，</tspan><tspan class="st11"
+							v:langID="1033">让该</tspan><tspan class="st10" v:langID="1033">IO</tspan><tspan class="st11"
+							v:langID="1033">线程执行<v:newlineChar/></tspan><tspan x="4" dy="1.212em" class="st6" v:langID="1033">  </tspan><tspan
+							class="st6" v:langID="1033">loop</tspan><tspan class="st7" v:langID="1033">-</tspan><tspan class="st7"
+							v:langID="1033">&#62;</tspan><tspan class="st6" v:langID="1033">runInLoop</tspan><tspan class="st7"
+							v:langID="1033">(</tspan><tspan class="st6" v:langID="1033">runInThread</tspan><tspan class="st7"
+							v:langID="1033">)</tspan><tspan class="st7" v:langID="1033">;<v:newlineChar/></tspan><tspan x="4"
+							dy="1.215em" class="st6" v:langID="1033">  </tspan><tspan class="st6" v:langID="1033">sleep</tspan><tspan
+							class="st7" v:langID="1033">(</tspan><tspan class="st12" v:langID="1033">1</tspan><tspan class="st7"
+							v:langID="1033">)</tspan><tspan class="st7" v:langID="1033">;<v:newlineChar/></tspan><tspan x="4"
+							dy="1.206em" class="st6" v:langID="1033">  </tspan><tspan class="st10" v:langID="1033">// </tspan><tspan
+							class="st10" v:langID="1033">runAfter</tspan><tspan class="st11" v:langID="1033">内部也调用了</tspan><tspan
+							class="st10" v:langID="1033">runInLoop</tspan><tspan class="st11" v:langID="1033">，</tspan><tspan
+							class="st11" v:langID="1033">所以这里也是异步调用<v:newlineChar/></tspan><tspan x="4" dy="1.212em" class="st6"
+							v:langID="1033">  </tspan><tspan class="st6" v:langID="1033">loop</tspan><tspan class="st7"
+							v:langID="1033">-</tspan><tspan class="st7" v:langID="1033">&#62;</tspan><tspan class="st6"
+							v:langID="1033">runAfter</tspan><tspan class="st7" v:langID="1033">(</tspan><tspan class="st12"
+							v:langID="1033">2</tspan><tspan class="st7" v:langID="1033">,</tspan><tspan class="st6" v:langID="1033"> </tspan><tspan
+							class="st6" v:langID="1033">runInThread</tspan><tspan class="st7" v:langID="1033">)</tspan><tspan
+							class="st7" v:langID="1033">;<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st6"
+							v:langID="1033">  </tspan><tspan class="st6" v:langID="1033">sleep</tspan><tspan class="st7"
+							v:langID="1033">(</tspan><tspan class="st12" v:langID="1033">3</tspan><tspan class="st7"
+							v:langID="1033">)</tspan><tspan class="st7" v:langID="1033">;<v:newlineChar/></tspan><tspan x="4"
+							dy="1.215em" class="st6" v:langID="1033">  </tspan><tspan class="st6" v:langID="1033">loop</tspan><tspan
+							class="st7" v:langID="1033">-</tspan><tspan class="st7" v:langID="1033">&#62;</tspan><tspan class="st6"
+							v:langID="1033">quit</tspan><tspan class="st7" v:langID="1033">()</tspan><tspan class="st7"
+							v:langID="1033">;<v:newlineChar/><v:newlineChar/></tspan><tspan x="4" dy="2.416em" class="st6"
+							v:langID="1033">  </tspan><tspan class="st6" v:langID="1033">printf</tspan><tspan class="st7"
+							v:langID="1033">(</tspan><tspan class="st9" v:langID="1033">&#34;</tspan><tspan class="st9"
+							v:langID="1033">exit main</tspan><tspan class="st9" v:langID="1033">().</tspan><tspan class="st9"
+							v:langID="1033">\</tspan><tspan class="st9" v:langID="1033">n</tspan><tspan class="st9" v:langID="1033">&#34;</tspan><tspan
+							class="st7" v:langID="1033">)</tspan><tspan class="st7" v:langID="1033">;<v:newlineChar/><v:paragraph/></tspan><tspan
+							x="4" dy="1.204em" class="st7" v:langID="1033">}<v:newlineChar/><v:newlineChar/></tspan><tspan x="4"
+							dy="2.362em" class="st3">最后这个案例的输出结果是</tspan><tspan class="st3">：<v:newlineChar/><v:newlineChar/></tspan><tspan
+							x="4" dy="2.404em" class="st13" v:langID="1033">jack</tspan><tspan class="st13" v:langID="1033">@</tspan><tspan
+							class="st13" v:langID="1033">jack</tspan><tspan class="st13" v:langID="1033">-</tspan><tspan
+							class="st13" v:langID="1033">virtual</tspan><tspan class="st13" v:langID="1033">-</tspan><tspan
+							class="st13" v:langID="1033">machine</tspan><tspan class="st13" v:langID="1033">:/</tspan><tspan
+							class="st13" v:langID="1033">mnt</tspan><tspan class="st13" v:langID="1033">/</tspan><tspan
+							class="st13" v:langID="1033">hgfs</tspan><tspan class="st13" v:langID="1033">/</tspan><tspan
+							class="st13" v:langID="1033">vmshared</tspan><tspan class="st13" v:langID="1033">/</tspan><tspan
+							class="st13" v:langID="1033">bigcurr</tspan><tspan class="st13" v:langID="1033">/</tspan><tspan
+							class="st13" v:langID="1033">build</tspan><tspan class="st13" v:langID="1033">/</tspan><tspan
+							class="st13" v:langID="1033">debug</tspan><tspan class="st13" v:langID="1033">/</tspan><tspan
+							class="st13" v:langID="1033">bin</tspan><tspan class="st13" v:langID="1033">$ </tspan><tspan
+							class="st13" v:langID="1033">./</tspan><tspan class="st13" v:langID="1033">reactor</tspan><tspan
+							class="st13" v:langID="1033">_</tspan><tspan class="st13" v:langID="1033">test</tspan><tspan
+							class="st13" v:langID="1033">06<v:newlineChar/></tspan><tspan x="4" dy="1.2em" class="st13"
+							v:langID="1033">20190712 08</tspan><tspan class="st13" v:langID="1033">:</tspan><tspan class="st13"
+							v:langID="1033">38</tspan><tspan class="st13" v:langID="1033">:</tspan><tspan class="st13"
+							v:langID="1033">41</tspan><tspan class="st13" v:langID="1033">.</tspan><tspan class="st13"
+							v:langID="1033">426050</tspan><tspan class="st13" v:langID="1033">Z </tspan><tspan class="st13"
+							v:langID="1033">37969 </tspan><tspan class="st13" v:langID="1033">TRACE IgnoreSigPipe Ignore SIGPIPE </tspan><tspan
+							class="st13" v:langID="1033">-</tspan><tspan class="st13" v:langID="1033"> </tspan><tspan class="st13"
+							v:langID="1033">EventLoop</tspan><tspan class="st13" v:langID="1033">.</tspan><tspan class="st13"
+							v:langID="1033">cc</tspan><tspan class="st13" v:langID="1033">:</tspan><tspan class="st13"
+							v:langID="1033">51<v:newlineChar/></tspan><tspan x="4" dy="1.2em" class="st14" v:langID="1033">main</tspan><tspan
+							class="st14" v:langID="1033">(): </tspan><tspan class="st14" v:langID="1033">pid </tspan><tspan
+							class="st14" v:langID="1033">= </tspan><tspan class="st14" v:langID="1033">37969</tspan><tspan
+							class="st14" v:langID="1033">, </tspan><tspan class="st14" v:langID="1033">tid </tspan><tspan
+							class="st14" v:langID="1033">= </tspan><tspan class="st14" v:langID="1033">37969<v:newlineChar/></tspan><tspan
+							x="4" dy="1.2em" class="st13" v:langID="1033">20190712 08</tspan><tspan class="st13" v:langID="1033">:</tspan><tspan
+							class="st13" v:langID="1033">38</tspan><tspan class="st13" v:langID="1033">:</tspan><tspan class="st13"
+							v:langID="1033">41</tspan><tspan class="st13" v:langID="1033">.</tspan><tspan class="st13"
+							v:langID="1033">426496</tspan><tspan class="st13" v:langID="1033">Z </tspan><tspan class="st13"
+							v:langID="1033">37970 </tspan><tspan class="st13" v:langID="1033">TRACE updateChannel fd </tspan><tspan
+							class="st13" v:langID="1033">= </tspan><tspan class="st13" v:langID="1033">4 </tspan><tspan
+							class="st13" v:langID="1033">events </tspan><tspan class="st13" v:langID="1033">= </tspan><tspan
+							class="st13" v:langID="1033">3 </tspan><tspan class="st13" v:langID="1033">-</tspan><tspan class="st13"
+							v:langID="1033"> </tspan><tspan class="st13" v:langID="1033">EPollPoller</tspan><tspan class="st13"
+							v:langID="1033">.</tspan><tspan class="st13" v:langID="1033">cc</tspan><tspan class="st13"
+							v:langID="1033">:</tspan><tspan class="st13" v:langID="1033">104<v:newlineChar/></tspan><tspan x="4"
+							dy="1.2em" class="st13" v:langID="1033">20190712 08</tspan><tspan class="st13" v:langID="1033">:</tspan><tspan
+							class="st13" v:langID="1033">38</tspan><tspan class="st13" v:langID="1033">:</tspan><tspan class="st13"
+							v:langID="1033">41</tspan><tspan class="st13" v:langID="1033">.</tspan><tspan class="st13"
+							v:langID="1033">426582</tspan><tspan class="st13" v:langID="1033">Z </tspan><tspan class="st13"
+							v:langID="1033">37970 </tspan><tspan class="st13" v:langID="1033">TRACE EventLoop EventLoop created </tspan><tspan
+							class="st13" v:langID="1033">0</tspan><tspan class="st13" v:langID="1033">x</tspan><tspan class="st13"
+							v:langID="1033">7</tspan><tspan class="st13" v:langID="1033">F</tspan><tspan class="st13"
+							v:langID="1033">99</tspan><tspan class="st13" v:langID="1033">BD</tspan><tspan class="st13"
+							v:langID="1033">566</tspan><tspan class="st13" v:langID="1033">A</tspan><tspan class="st13"
+							v:langID="1033">60 </tspan><tspan class="st13" v:langID="1033">in thread </tspan><tspan class="st13"
+							v:langID="1033">37970 </tspan><tspan class="st13" v:langID="1033">-</tspan><tspan class="st13"
+							v:langID="1033"> </tspan><tspan class="st13" v:langID="1033">EventLoop</tspan><tspan class="st13"
+							v:langID="1033">.</tspan><tspan class="st13" v:langID="1033">cc</tspan><tspan class="st13"
+							v:langID="1033">:</tspan><tspan class="st13" v:langID="1033">76<v:newlineChar/></tspan><tspan x="4"
+							dy="1.2em" class="st13" v:langID="1033">20190712 08</tspan><tspan class="st13" v:langID="1033">:</tspan><tspan
+							class="st13" v:langID="1033">38</tspan><tspan class="st13" v:langID="1033">:</tspan><tspan class="st13"
+							v:langID="1033">41</tspan><tspan class="st13" v:langID="1033">.</tspan><tspan class="st13"
+							v:langID="1033">426650</tspan><tspan class="st13" v:langID="1033">Z </tspan><tspan class="st13"
+							v:langID="1033">37970 </tspan><tspan class="st13" v:langID="1033">TRACE updateChannel fd </tspan><tspan
+							class="st13" v:langID="1033">= </tspan><tspan class="st13" v:langID="1033">5 </tspan><tspan
+							class="st13" v:langID="1033">events </tspan><tspan class="st13" v:langID="1033">= </tspan><tspan
+							class="st13" v:langID="1033">3 </tspan><tspan class="st13" v:langID="1033">-</tspan><tspan class="st13"
+							v:langID="1033"> </tspan><tspan class="st13" v:langID="1033">EPollPoller</tspan><tspan class="st13"
+							v:langID="1033">.</tspan><tspan class="st13" v:langID="1033">cc</tspan><tspan class="st13"
+							v:langID="1033">:</tspan><tspan class="st13" v:langID="1033">104<v:newlineChar/></tspan><tspan x="4"
+							dy="1.2em" class="st13" v:langID="1033">20190712 08</tspan><tspan class="st13" v:langID="1033">:</tspan><tspan
+							class="st13" v:langID="1033">38</tspan><tspan class="st13" v:langID="1033">:</tspan><tspan class="st13"
+							v:langID="1033">41</tspan><tspan class="st13" v:langID="1033">.</tspan><tspan class="st13"
+							v:langID="1033">426815</tspan><tspan class="st13" v:langID="1033">Z </tspan><tspan class="st13"
+							v:langID="1033">37970 </tspan><tspan class="st13" v:langID="1033">TRACE loop EventLoop </tspan><tspan
+							class="st13" v:langID="1033">0</tspan><tspan class="st13" v:langID="1033">x</tspan><tspan class="st13"
+							v:langID="1033">7</tspan><tspan class="st13" v:langID="1033">F</tspan><tspan class="st13"
+							v:langID="1033">99</tspan><tspan class="st13" v:langID="1033">BD</tspan><tspan class="st13"
+							v:langID="1033">566</tspan><tspan class="st13" v:langID="1033">A</tspan><tspan class="st13"
+							v:langID="1033">60 </tspan><tspan class="st13" v:langID="1033">start looping </tspan><tspan
+							class="st13" v:langID="1033">-</tspan><tspan class="st13" v:langID="1033"> </tspan><tspan class="st13"
+							v:langID="1033">EventLoop</tspan><tspan class="st13" v:langID="1033">.</tspan><tspan class="st13"
+							v:langID="1033">cc</tspan><tspan class="st13" v:langID="1033">:</tspan><tspan class="st13"
+							v:langID="1033">108<v:newlineChar/></tspan><tspan x="4" dy="1.2em" class="st13" v:langID="1033">20190712 08</tspan><tspan
+							class="st13" v:langID="1033">:</tspan><tspan class="st13" v:langID="1033">38</tspan><tspan class="st13"
+							v:langID="1033">:</tspan><tspan class="st13" v:langID="1033">41</tspan><tspan class="st13"
+							v:langID="1033">.</tspan><tspan class="st13" v:langID="1033">426891</tspan><tspan class="st13"
+							v:langID="1033">Z </tspan><tspan class="st13" v:langID="1033">37970 </tspan><tspan class="st13"
+							v:langID="1033">TRACE poll </tspan><tspan class="st13" v:langID="1033">1 </tspan><tspan class="st13"
+							v:langID="1033">events happended </tspan><tspan class="st13" v:langID="1033">-</tspan><tspan
+							class="st13" v:langID="1033"> </tspan><tspan class="st13" v:langID="1033">EPollPoller</tspan><tspan
+							class="st13" v:langID="1033">.</tspan><tspan class="st13" v:langID="1033">cc</tspan><tspan class="st13"
+							v:langID="1033">:</tspan><tspan class="st13" v:langID="1033">65<v:newlineChar/></tspan><tspan x="4"
+							dy="1.2em" class="st13" v:langID="1033">20190712 08</tspan><tspan class="st13" v:langID="1033">:</tspan><tspan
+							class="st13" v:langID="1033">38</tspan><tspan class="st13" v:langID="1033">:</tspan><tspan class="st13"
+							v:langID="1033">41</tspan><tspan class="st13" v:langID="1033">.</tspan><tspan class="st13"
+							v:langID="1033">427228</tspan><tspan class="st13" v:langID="1033">Z </tspan><tspan class="st13"
+							v:langID="1033">37970 </tspan><tspan class="st13" v:langID="1033">TRACE printActiveChannels </tspan><tspan
+							class="st13" v:langID="1033">{</tspan><tspan class="st13" v:langID="1033">5</tspan><tspan class="st13"
+							v:langID="1033">: </tspan><tspan class="st13" v:langID="1033">IN </tspan><tspan class="st13"
+							v:langID="1033">}  </tspan><tspan class="st13" v:langID="1033">-</tspan><tspan class="st13"
+							v:langID="1033"> </tspan><tspan class="st13" v:langID="1033">EventLoop</tspan><tspan class="st13"
+							v:langID="1033">.</tspan><tspan class="st13" v:langID="1033">cc</tspan><tspan class="st13"
+							v:langID="1033">:</tspan><tspan class="st13" v:langID="1033">271<v:newlineChar/></tspan><tspan x="4"
+							dy="1.2em" class="st14" v:langID="1033">runInThread</tspan><tspan class="st14" v:langID="1033">(): </tspan><tspan
+							class="st14" v:langID="1033">pid </tspan><tspan class="st14" v:langID="1033">= </tspan><tspan
+							class="st14" v:langID="1033">37969</tspan><tspan class="st14" v:langID="1033">, </tspan><tspan
+							class="st14" v:langID="1033">tid </tspan><tspan class="st14" v:langID="1033">= </tspan><tspan
+							class="st14" v:langID="1033">37970<v:newlineChar/></tspan><tspan x="4" dy="1.2em" class="st13"
+							v:langID="1033">20190712 08</tspan><tspan class="st13" v:langID="1033">:</tspan><tspan class="st13"
+							v:langID="1033">38</tspan><tspan class="st13" v:langID="1033">:</tspan><tspan class="st13"
+							v:langID="1033">42</tspan><tspan class="st13" v:langID="1033">.</tspan><tspan class="st13"
+							v:langID="1033">427087</tspan><tspan class="st13" v:langID="1033">Z </tspan><tspan class="st13"
+							v:langID="1033">37970 </tspan><tspan class="st13" v:langID="1033">TRACE poll </tspan><tspan
+							class="st13" v:langID="1033">1 </tspan><tspan class="st13" v:langID="1033">events happended </tspan><tspan
+							class="st13" v:langID="1033">-</tspan><tspan class="st13" v:langID="1033"> </tspan><tspan class="st13"
+							v:langID="1033">EPollPoller</tspan><tspan class="st13" v:langID="1033">.</tspan><tspan class="st13"
+							v:langID="1033">cc</tspan><tspan class="st13" v:langID="1033">:</tspan><tspan class="st13"
+							v:langID="1033">65<v:newlineChar/></tspan><tspan x="4" dy="1.2em" class="st13" v:langID="1033">20190712 08</tspan><tspan
+							class="st13" v:langID="1033">:</tspan><tspan class="st13" v:langID="1033">38</tspan><tspan class="st13"
+							v:langID="1033">:</tspan><tspan class="st13" v:langID="1033">42</tspan><tspan class="st13"
+							v:langID="1033">.</tspan><tspan class="st13" v:langID="1033">427122</tspan><tspan class="st13"
+							v:langID="1033">Z </tspan><tspan class="st13" v:langID="1033">37970 </tspan><tspan class="st13"
+							v:langID="1033">TRACE printActiveChannels </tspan><tspan class="st13" v:langID="1033">{</tspan><tspan
+							class="st13" v:langID="1033">5</tspan><tspan class="st13" v:langID="1033">: </tspan><tspan class="st13"
+							v:langID="1033">IN </tspan><tspan class="st13" v:langID="1033">}  </tspan><tspan class="st13"
+							v:langID="1033">-</tspan><tspan class="st13" v:langID="1033"> </tspan><tspan class="st13"
+							v:langID="1033">EventLoop</tspan><tspan class="st13" v:langID="1033">.</tspan><tspan class="st13"
+							v:langID="1033">cc</tspan><tspan class="st13" v:langID="1033">:</tspan><tspan class="st13"
+							v:langID="1033">271<v:newlineChar/></tspan><tspan x="4" dy="1.2em" class="st13" v:langID="1033">20190712 08</tspan><tspan
+							class="st13" v:langID="1033">:</tspan><tspan class="st13" v:langID="1033">38</tspan><tspan class="st13"
+							v:langID="1033">:</tspan><tspan class="st13" v:langID="1033">44</tspan><tspan class="st13"
+							v:langID="1033">.</tspan><tspan class="st13" v:langID="1033">428065</tspan><tspan class="st13"
+							v:langID="1033">Z </tspan><tspan class="st13" v:langID="1033">37970 </tspan><tspan class="st13"
+							v:langID="1033">TRACE poll </tspan><tspan class="st13" v:langID="1033">1 </tspan><tspan class="st13"
+							v:langID="1033">events happended </tspan><tspan class="st13" v:langID="1033">-</tspan><tspan
+							class="st13" v:langID="1033"> </tspan><tspan class="st13" v:langID="1033">EPollPoller</tspan><tspan
+							class="st13" v:langID="1033">.</tspan><tspan class="st13" v:langID="1033">cc</tspan><tspan class="st13"
+							v:langID="1033">:</tspan><tspan class="st13" v:langID="1033">65<v:newlineChar/></tspan><tspan x="4"
+							dy="1.2em" class="st13" v:langID="1033">20190712 08</tspan><tspan class="st13" v:langID="1033">:</tspan><tspan
+							class="st13" v:langID="1033">38</tspan><tspan class="st13" v:langID="1033">:</tspan><tspan class="st13"
+							v:langID="1033">44</tspan><tspan class="st13" v:langID="1033">.</tspan><tspan class="st13"
+							v:langID="1033">428123</tspan><tspan class="st13" v:langID="1033">Z </tspan><tspan class="st13"
+							v:langID="1033">37970 </tspan><tspan class="st13" v:langID="1033">TRACE printActiveChannels </tspan><tspan
+							class="st13" v:langID="1033">{</tspan><tspan class="st13" v:langID="1033">4</tspan><tspan class="st13"
+							v:langID="1033">: </tspan><tspan class="st13" v:langID="1033">IN </tspan><tspan class="st13"
+							v:langID="1033">}  </tspan><tspan class="st13" v:langID="1033">-</tspan><tspan class="st13"
+							v:langID="1033"> </tspan><tspan class="st13" v:langID="1033">EventLoop</tspan><tspan class="st13"
+							v:langID="1033">.</tspan><tspan class="st13" v:langID="1033">cc</tspan><tspan class="st13"
+							v:langID="1033">:</tspan><tspan class="st13" v:langID="1033">271<v:newlineChar/></tspan><tspan x="4"
+							dy="1.2em" class="st13" v:langID="1033">20190712 08</tspan><tspan class="st13" v:langID="1033">:</tspan><tspan
+							class="st13" v:langID="1033">38</tspan><tspan class="st13" v:langID="1033">:</tspan><tspan class="st13"
+							v:langID="1033">44</tspan><tspan class="st13" v:langID="1033">.</tspan><tspan class="st13"
+							v:langID="1033">428135</tspan><tspan class="st13" v:langID="1033">Z </tspan><tspan class="st13"
+							v:langID="1033">37970 </tspan><tspan class="st13" v:langID="1033">TRACE readTimerfd TimerQueue</tspan><tspan
+							class="st13" v:langID="1033">::</tspan><tspan class="st13" v:langID="1033">handleRead</tspan><tspan
+							class="st13" v:langID="1033">() </tspan><tspan class="st13" v:langID="1033">1 </tspan><tspan
+							class="st13" v:langID="1033">at </tspan><tspan class="st13" v:langID="1033">1562920724</tspan><tspan
+							class="st13" v:langID="1033">.</tspan><tspan class="st13" v:langID="1033">428129 </tspan><tspan
+							class="st13" v:langID="1033">-</tspan><tspan class="st13" v:langID="1033"> </tspan><tspan class="st13"
+							v:langID="1033">TimerQueue</tspan><tspan class="st13" v:langID="1033">.</tspan><tspan class="st13"
+							v:langID="1033">cc</tspan><tspan class="st13" v:langID="1033">:</tspan><tspan class="st13"
+							v:langID="1033">62<v:newlineChar/></tspan><tspan x="4" dy="1.2em" class="st14" v:langID="1033">runInThread</tspan><tspan
+							class="st14" v:langID="1033">(): </tspan><tspan class="st14" v:langID="1033">pid </tspan><tspan
+							class="st14" v:langID="1033">= </tspan><tspan class="st14" v:langID="1033">37969</tspan><tspan
+							class="st14" v:langID="1033">, </tspan><tspan class="st14" v:langID="1033">tid </tspan><tspan
+							class="st14" v:langID="1033">= </tspan><tspan class="st14" v:langID="1033">37970<v:newlineChar/></tspan><tspan
+							x="4" dy="1.2em" class="st14" v:langID="1033">exit main</tspan><tspan class="st14" v:langID="1033">().<v:newlineChar/></tspan><tspan
+							x="4" dy="1.2em" class="st13" v:langID="1033">20190712 08</tspan><tspan class="st13" v:langID="1033">:</tspan><tspan
+							class="st13" v:langID="1033">38</tspan><tspan class="st13" v:langID="1033">:</tspan><tspan class="st13"
+							v:langID="1033">45</tspan><tspan class="st13" v:langID="1033">.</tspan><tspan class="st13"
+							v:langID="1033">428229</tspan><tspan class="st13" v:langID="1033">Z </tspan><tspan class="st13"
+							v:langID="1033">37970 </tspan><tspan class="st13" v:langID="1033">TRACE poll </tspan><tspan
+							class="st13" v:langID="1033">1 </tspan><tspan class="st13" v:langID="1033">events happended </tspan><tspan
+							class="st13" v:langID="1033">-</tspan><tspan class="st13" v:langID="1033"> </tspan><tspan class="st13"
+							v:langID="1033">EPollPoller</tspan><tspan class="st13" v:langID="1033">.</tspan><tspan class="st13"
+							v:langID="1033">cc</tspan><tspan class="st13" v:langID="1033">:</tspan><tspan class="st13"
+							v:langID="1033">65<v:newlineChar/></tspan><tspan x="4" dy="1.2em" class="st13" v:langID="1033">20190712 08</tspan><tspan
+							class="st13" v:langID="1033">:</tspan><tspan class="st13" v:langID="1033">38</tspan><tspan class="st13"
+							v:langID="1033">:</tspan><tspan class="st13" v:langID="1033">45</tspan><tspan class="st13"
+							v:langID="1033">.</tspan><tspan class="st13" v:langID="1033">428258</tspan><tspan class="st13"
+							v:langID="1033">Z </tspan><tspan class="st13" v:langID="1033">37970 </tspan><tspan class="st13"
+							v:langID="1033">TRACE printActiveChannels </tspan><tspan class="st13" v:langID="1033">{</tspan><tspan
+							class="st13" v:langID="1033">5</tspan><tspan class="st13" v:langID="1033">: </tspan><tspan class="st13"
+							v:langID="1033">IN </tspan><tspan class="st13" v:langID="1033">}  </tspan><tspan class="st13"
+							v:langID="1033">-</tspan><tspan class="st13" v:langID="1033"> </tspan><tspan class="st13"
+							v:langID="1033">EventLoop</tspan><tspan class="st13" v:langID="1033">.</tspan><tspan class="st13"
+							v:langID="1033">cc</tspan><tspan class="st13" v:langID="1033">:</tspan><tspan class="st13"
+							v:langID="1033">271<v:newlineChar/></tspan><tspan x="4" dy="1.2em" class="st13" v:langID="1033">20190712 08</tspan><tspan
+							class="st13" v:langID="1033">:</tspan><tspan class="st13" v:langID="1033">38</tspan><tspan class="st13"
+							v:langID="1033">:</tspan><tspan class="st13" v:langID="1033">45</tspan><tspan class="st13"
+							v:langID="1033">.</tspan><tspan class="st13" v:langID="1033">428265</tspan><tspan class="st13"
+							v:langID="1033">Z </tspan><tspan class="st13" v:langID="1033">37970 </tspan><tspan class="st13"
+							v:langID="1033">TRACE loop EventLoop </tspan><tspan class="st13" v:langID="1033">0</tspan><tspan
+							class="st13" v:langID="1033">x</tspan><tspan class="st13" v:langID="1033">7</tspan><tspan class="st13"
+							v:langID="1033">F</tspan><tspan class="st13" v:langID="1033">99</tspan><tspan class="st13"
+							v:langID="1033">BD</tspan><tspan class="st13" v:langID="1033">566</tspan><tspan class="st13"
+							v:langID="1033">A</tspan><tspan class="st13" v:langID="1033">60 </tspan><tspan class="st13"
+							v:langID="1033">stop looping </tspan><tspan class="st13" v:langID="1033">-</tspan><tspan class="st13"
+							v:langID="1033"> </tspan><tspan class="st13" v:langID="1033">EventLoop</tspan><tspan class="st13"
+							v:langID="1033">.</tspan><tspan class="st13" v:langID="1033">cc</tspan><tspan class="st13"
+							v:langID="1033">:</tspan><tspan class="st13" v:langID="1033">133<v:newlineChar/><v:newlineChar/></tspan><tspan
+							x="4" dy="2.412em" class="st3">从打印信息可见</tspan><tspan class="st3">，</tspan><tspan class="st15">EventLoop</tspan><tspan
+							class="st3">在其他线程执行执行任务</tspan><tspan class="st3">，</tspan><tspan class="st3">而非调用</tspan><tspan
+							class="st15">EventLoop</tspan><tspan class="st3">的主线程</tspan><tspan class="st3">，</tspan><tspan
+							class="st3">这便是</tspan><tspan class="st15">EventLoop</tspan><tspan class="st3">的跨线程调用</tspan><tspan
+							class="st3">，</tspan><tspan class="st3">这一级的<v:newlineChar/></tspan><tspan x="4" dy="1.216em"
+							class="st3">主要任务就是剖析</tspan><tspan class="st15">EventLoop</tspan><tspan class="st3">的跨线程调用机制</tspan><tspan
+							class="st3">。<v:newlineChar/><v:newlineChar/></tspan><tspan x="4" dy="2.416em" class="st16">在分析这部分代码时会用到</tspan><tspan
+							class="st17">muduo</tspan><tspan class="st16">的</tspan><tspan class="st17">Thread</tspan><tspan
+							class="st16">类</tspan><tspan class="st16">，</tspan><tspan class="st16">该类的相关介绍详见</tspan><tspan
+							class="st16">：<v:newlineChar/></tspan><tspan x="4" dy="1.227em" class="st13" v:langID="1033">https</tspan><tspan
+							class="st13" v:langID="1033">://</tspan><tspan class="st13" v:langID="1033">github</tspan><tspan
+							class="st13" v:langID="1033">.</tspan><tspan class="st13" v:langID="1033">com</tspan><tspan
+							class="st13" v:langID="1033">/</tspan><tspan class="st13" v:langID="1033">hujiese</tspan><tspan
+							class="st13" v:langID="1033">/</tspan><tspan class="st13" v:langID="1033">Large</tspan><tspan
+							class="st13" v:langID="1033">-</tspan><tspan class="st13" v:langID="1033">concurrent</tspan><tspan
+							class="st13" v:langID="1033">-</tspan><tspan class="st13" v:langID="1033">serve</tspan><tspan
+							class="st13" v:langID="1033">/</tspan><tspan class="st13" v:langID="1033">blob</tspan><tspan
+							class="st13" v:langID="1033">/</tspan><tspan class="st13" v:langID="1033">master</tspan><tspan
+							class="st13" v:langID="1033">/</tspan><tspan class="st13" v:langID="1033">04</tspan><tspan class="st13"
+							v:langID="1033">_</tspan><tspan class="st13" v:langID="1033">Base</tspan><tspan class="st13"
+							v:langID="1033">_</tspan><tspan class="st13" v:langID="1033">Obj</tspan><tspan class="st13"
+							v:langID="1033">_</tspan><tspan class="st13" v:langID="1033">Thread</tspan><tspan class="st13"
+							v:langID="1033">/</tspan><tspan class="st13" v:langID="1033">Base</tspan><tspan class="st13"
+							v:langID="1033">_</tspan><tspan class="st13" v:langID="1033">Obj</tspan><tspan class="st13"
+							v:langID="1033">_</tspan><tspan class="st13" v:langID="1033">Thread</tspan><tspan class="st13"
+							v:langID="1033">.</tspan><tspan class="st13" v:langID="1033">md<v:newlineChar/></tspan><tspan x="4"
+							dy="1.231em" class="st13" v:langID="1033">https</tspan><tspan class="st13" v:langID="1033">://</tspan><tspan
+							class="st13" v:langID="1033">github</tspan><tspan class="st13" v:langID="1033">.</tspan><tspan
+							class="st13" v:langID="1033">com</tspan><tspan class="st13" v:langID="1033">/</tspan><tspan
+							class="st13" v:langID="1033">hujiese</tspan><tspan class="st13" v:langID="1033">/</tspan><tspan
+							class="st13" v:langID="1033">Large</tspan><tspan class="st13" v:langID="1033">-</tspan><tspan
+							class="st13" v:langID="1033">concurrent</tspan><tspan class="st13" v:langID="1033">-</tspan><tspan
+							class="st13" v:langID="1033">serve</tspan><tspan class="st13" v:langID="1033">/</tspan><tspan
+							class="st13" v:langID="1033">blob</tspan><tspan class="st13" v:langID="1033">/</tspan><tspan
+							class="st13" v:langID="1033">master</tspan><tspan class="st13" v:langID="1033">/</tspan><tspan
+							class="st13" v:langID="1033">08</tspan><tspan class="st13" v:langID="1033">_</tspan><tspan class="st13"
+							v:langID="1033">muduo</tspan><tspan class="st13" v:langID="1033">_</tspan><tspan class="st13"
+							v:langID="1033">Thread</tspan><tspan class="st13" v:langID="1033">/</tspan><tspan class="st13"
+							v:langID="1033">muduo</tspan><tspan class="st13" v:langID="1033">_</tspan><tspan class="st13"
+							v:langID="1033">Thread</tspan><tspan class="st13" v:langID="1033">.</tspan><tspan class="st13"
+							v:langID="1033">md<v:newlineChar/><v:newlineChar/></tspan><tspan x="4" dy="2.42em" class="st16">关于</tspan><tspan
+							class="st17">Mutex</tspan><tspan class="st16">互斥量和</tspan><tspan class="st17">Condtion</tspan><tspan
+							class="st16">条件变量详见</tspan><tspan class="st16">：<v:newlineChar/></tspan><tspan x="4" dy="1.227em"
+							class="st13" v:langID="1033">https</tspan><tspan class="st13" v:langID="1033">://</tspan><tspan
+							class="st13" v:langID="1033">github</tspan><tspan class="st13" v:langID="1033">.</tspan><tspan
+							class="st13" v:langID="1033">com</tspan><tspan class="st13" v:langID="1033">/</tspan><tspan
+							class="st13" v:langID="1033">hujiese</tspan><tspan class="st13" v:langID="1033">/</tspan><tspan
+							class="st13" v:langID="1033">Large</tspan><tspan class="st13" v:langID="1033">-</tspan><tspan
+							class="st13" v:langID="1033">concurrent</tspan><tspan class="st13" v:langID="1033">-</tspan><tspan
+							class="st13" v:langID="1033">serve</tspan><tspan class="st13" v:langID="1033">/</tspan><tspan
+							class="st13" v:langID="1033">blob</tspan><tspan class="st13" v:langID="1033">/</tspan><tspan
+							class="st13" v:langID="1033">master</tspan><tspan class="st13" v:langID="1033">/</tspan><tspan
+							class="st13" v:langID="1033">09</tspan><tspan class="st13" v:langID="1033">_</tspan><tspan class="st13"
+							v:langID="1033">muduo</tspan><tspan class="st13" v:langID="1033">_</tspan><tspan class="st13"
+							v:langID="1033">Mutex</tspan><tspan class="st13" v:langID="1033">/</tspan><tspan class="st13"
+							v:langID="1033">muduo</tspan><tspan class="st13" v:langID="1033">_</tspan><tspan class="st13"
+							v:langID="1033">Mutex</tspan><tspan class="st13" v:langID="1033">.</tspan><tspan class="st13"
+							v:langID="1033">md<v:newlineChar/></tspan><tspan x="4" dy="1.208em" class="st13" v:langID="1033">https</tspan><tspan
+							class="st13" v:langID="1033">://</tspan><tspan class="st13" v:langID="1033">github</tspan><tspan
+							class="st13" v:langID="1033">.</tspan><tspan class="st13" v:langID="1033">com</tspan><tspan
+							class="st13" v:langID="1033">/</tspan><tspan class="st13" v:langID="1033">hujiese</tspan><tspan
+							class="st13" v:langID="1033">/</tspan><tspan class="st13" v:langID="1033">Large</tspan><tspan
+							class="st13" v:langID="1033">-</tspan><tspan class="st13" v:langID="1033">concurrent</tspan><tspan
+							class="st13" v:langID="1033">-</tspan><tspan class="st13" v:langID="1033">serve</tspan><tspan
+							class="st13" v:langID="1033">/</tspan><tspan class="st13" v:langID="1033">blob</tspan><tspan
+							class="st13" v:langID="1033">/</tspan><tspan class="st13" v:langID="1033">master</tspan><tspan
+							class="st13" v:langID="1033">/</tspan><tspan class="st13" v:langID="1033">10</tspan><tspan class="st13"
+							v:langID="1033">_</tspan><tspan class="st13" v:langID="1033">muduo</tspan><tspan class="st13"
+							v:langID="1033">_</tspan><tspan class="st13" v:langID="1033">Condition</tspan><tspan class="st13"
+							v:langID="1033">/</tspan><tspan class="st13" v:langID="1033">muduo</tspan><tspan class="st13"
+							v:langID="1033">_</tspan><tspan class="st13" v:langID="1033">Condition</tspan><tspan class="st13"
+							v:langID="1033">.</tspan><tspan class="st13" v:langID="1033">md</tspan></text>			</g>
+			<g id="shape3-747" v:mID="3" v:groupContext="shape" transform="translate(569.622,-759.118)">
+				<title>工作表.3</title>
+				<desc>1、程序的一开始打印了主函数的进程id和tid printf(&#34;main(): pid = %d, tid = %d\n&#34;...</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+				<v:textRect cx="193.039" cy="1458.31" width="386.08" height="378.929"/>
+				<rect x="0" y="1268.85" width="386.079" height="378.929" class="st1"/>
+				<text x="69.43" y="1283.76" class="st18" v:langID="1033"><v:paragraph v:horizAlign="1" v:bulletSize="0.166667"/><v:tabList/>1<tspan
+							class="st16" v:langID="2052">、</tspan><tspan class="st16" v:langID="2052">程序的一开始打印了主函数的进程</tspan><tspan
+							class="st19" v:langID="2052">id</tspan><tspan class="st16" v:langID="2052">和</tspan><tspan class="st19"
+							v:langID="2052">tid<v:newlineChar/><v:paragraph v:bulletSize="0.166667"/></tspan><tspan x="4"
+							dy="1.275em" class="st20">printf</tspan><tspan class="st21">(</tspan><tspan class="st22">&#34;</tspan><tspan
+							class="st22">main</tspan><tspan class="st22">(): </tspan><tspan class="st22">pid </tspan><tspan
+							class="st22">= %</tspan><tspan class="st22">d</tspan><tspan class="st22">, </tspan><tspan class="st22">tid </tspan><tspan
+							class="st22">= %</tspan><tspan class="st22">d</tspan><tspan class="st22">\</tspan><tspan class="st22">n</tspan><tspan
+							class="st22">&#34;</tspan><tspan class="st21">,<v:newlineChar/><v:paragraph/></tspan><tspan x="4"
+							dy="1.215em" class="st20">         </tspan><tspan class="st20">getpid</tspan><tspan class="st21">()</tspan><tspan
+							class="st21">,</tspan><tspan class="st20"> </tspan><tspan class="st20">CurrentThread</tspan><tspan
+							class="st21">::</tspan><tspan class="st20">tid</tspan><tspan class="st21">())</tspan><tspan
+							class="st21">;<v:newlineChar/></tspan><tspan x="4" dy="1.165em" class="st3" v:langID="2052">然后创建了一个</tspan><tspan
+							class="st15" v:langID="2052">EventLoopThread</tspan><tspan class="st3" v:langID="2052">：<v:newlineChar/></tspan><tspan
+							x="4" dy="1.276em" class="st20">EventLoopThread loopThread</tspan><tspan class="st21">;<v:newlineChar/></tspan><tspan
+							x="4" dy="1.165em" class="st3" v:langID="2052">紧接着在主线程中获取</tspan><tspan class="st15" v:langID="2052">EventLoopThread</tspan><tspan
+							class="st3" v:langID="2052">中创建的</tspan><tspan class="st15" v:langID="2052">loop</tspan><tspan
+							class="st3" v:langID="2052">对象指针</tspan><tspan class="st3" v:langID="2052">：<v:newlineChar/></tspan><tspan
+							x="4" dy="1.276em" class="st20">EventLoop</tspan><tspan class="st21">*</tspan><tspan class="st20"> </tspan><tspan
+							class="st20">loop </tspan><tspan class="st21">=</tspan><tspan class="st20"> </tspan><tspan class="st20">loopThread</tspan><tspan
+							class="st21">.</tspan><tspan class="st20">startLoop</tspan><tspan class="st21">()</tspan><tspan
+							class="st21">;</tspan><v:newlineChar/></text>			</g>
+			<g id="shape6-803" v:mID="6" v:groupContext="shape" transform="translate(943.795,-1038.9)">
+				<title>工作表.6</title>
+				<desc>// typedef boost::function&#60;void(EventLoop*)&#62; ThreadInitCallba...</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="215.165" cy="1574.79" width="430.34" height="145.984"/>
+				<rect x="0" y="1501.8" width="430.331" height="145.984" class="st1"/>
+				<text x="4" y="1510.6" class="st23" v:langID="2052"><v:paragraph v:bulletSize="0.166667"/><v:tabList/>// <tspan
+							class="st24" v:langID="1033">typedef</tspan><tspan class="st19" v:langID="1033"> </tspan><tspan
+							class="st19" v:langID="1033">boost</tspan><tspan class="st25" v:langID="1033">::</tspan><tspan
+							class="st19" v:langID="1033">function</tspan><tspan class="st25" v:langID="1033">&#60;</tspan><tspan
+							class="st26" v:langID="1033">void</tspan><tspan class="st25" v:langID="1033">(</tspan><tspan
+							class="st19" v:langID="1033">EventLoop</tspan><tspan class="st25" v:langID="1033">*)</tspan><tspan
+							class="st25" v:langID="1033">&#62;</tspan><tspan class="st19" v:langID="1033"> </tspan><tspan
+							class="st19" v:langID="1033">ThreadInitCallback</tspan><tspan class="st25" v:langID="1033">;<v:newlineChar/></tspan><tspan
+							x="4" dy="1.155em" class="st27" v:langID="1033">EventLoopThread</tspan><tspan class="st28"
+							v:langID="1033">(</tspan><tspan class="st29" v:langID="1033">const</tspan><tspan class="st27"
+							v:langID="1033"> </tspan><tspan class="st27" v:langID="1033">ThreadInitCallback</tspan><tspan
+							class="st28" v:langID="1033">&#38;</tspan><tspan class="st27" v:langID="1033"> </tspan><tspan
+							class="st27" v:langID="1033">cb </tspan><tspan class="st28" v:langID="1033">=</tspan><tspan
+							class="st27" v:langID="1033"> </tspan><tspan class="st27" v:langID="1033">ThreadInitCallback</tspan><tspan
+							class="st28" v:langID="1033">())</tspan><tspan class="st28" v:langID="1033">;<v:newlineChar/><v:newlineChar/></tspan><tspan
+							x="4" dy="2.175em" class="st27" v:langID="1033">EventLoopThread</tspan><tspan class="st28"
+							v:langID="1033">::</tspan><tspan class="st27" v:langID="1033">EventLoopThread</tspan><tspan
+							class="st28" v:langID="1033">(</tspan><tspan class="st29" v:langID="1033">const</tspan><tspan
+							class="st27" v:langID="1033"> </tspan><tspan class="st27" v:langID="1033">ThreadInitCallback</tspan><tspan
+							class="st28" v:langID="1033">&#38;</tspan><tspan class="st27" v:langID="1033"> </tspan><tspan
+							class="st27" v:langID="1033">cb</tspan><tspan class="st28" v:langID="1033">)<v:newlineChar/></tspan><tspan
+							x="4" dy="1.215em" class="st27" v:langID="1033">  </tspan><tspan class="st28" v:langID="1033">:</tspan><tspan
+							class="st27" v:langID="1033"> </tspan><tspan class="st27" v:langID="1033">loop</tspan><tspan
+							class="st27" v:langID="1033">_</tspan><tspan class="st28" v:langID="1033">(</tspan><tspan class="st30"
+							v:langID="1033">NULL</tspan><tspan class="st28" v:langID="1033">)</tspan><tspan class="st28"
+							v:langID="1033">,</tspan><tspan class="st25">//</tspan><tspan class="st19" v:langID="1033">EventLoop</tspan><tspan
+							class="st25" v:langID="1033">*</tspan><tspan class="st19" v:langID="1033"> </tspan><tspan class="st19"
+							v:langID="1033">loop</tspan><tspan class="st19" v:langID="1033">_</tspan><tspan class="st25"
+							v:langID="1033">;<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st27" v:langID="1033">    </tspan><tspan
+							class="st27" v:langID="1033">exiting</tspan><tspan class="st27" v:langID="1033">_</tspan><tspan
+							class="st28" v:langID="1033">(</tspan><tspan class="st30" v:langID="1033">false</tspan><tspan
+							class="st28" v:langID="1033">)</tspan><tspan class="st28" v:langID="1033">,</tspan><tspan class="st28">//</tspan><tspan
+							class="st29" v:langID="1033">bool</tspan><tspan class="st27" v:langID="1033"> </tspan><tspan
+							class="st27" v:langID="1033">exiting</tspan><tspan class="st27" v:langID="1033">_</tspan><tspan
+							class="st28" v:langID="1033">;<v:newlineChar/></tspan><tspan x="4" dy="1.204em" class="st27">    </tspan>// <tspan
+							class="st19" v:langID="1033">Thread thread</tspan><tspan class="st19" v:langID="1033">_</tspan><tspan
+							class="st25" v:langID="1033">;</tspan><tspan class="st31">线程一旦</tspan><tspan class="st25">start</tspan><tspan
+							class="st31">则会调用</tspan><tspan class="st19" v:langID="1033">EventLoopThread</tspan><tspan class="st25"
+							v:langID="1033">::</tspan><tspan class="st19" v:langID="1033">threadFunc<v:newlineChar/></tspan><tspan
+							x="4" dy="1.212em" class="st27" v:langID="1033">    </tspan><tspan class="st27" v:langID="1033">thread</tspan><tspan
+							class="st27" v:langID="1033">_</tspan><tspan class="st28" v:langID="1033">(</tspan><tspan class="st27"
+							v:langID="1033">boost</tspan><tspan class="st28" v:langID="1033">::</tspan><tspan class="st27"
+							v:langID="1033">bind</tspan><tspan class="st28" v:langID="1033">(</tspan><tspan class="st28"
+							v:langID="1033">&#38;</tspan><tspan class="st27" v:langID="1033">EventLoopThread</tspan><tspan
+							class="st28" v:langID="1033">::</tspan><tspan class="st27" v:langID="1033">threadFunc</tspan><tspan
+							class="st28" v:langID="1033">,</tspan><tspan class="st27" v:langID="1033"> </tspan><tspan class="st30"
+							v:langID="1033">this</tspan><tspan class="st28" v:langID="1033">))</tspan><tspan class="st28"
+							v:langID="1033">,<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st27" v:langID="1033">    </tspan><tspan
+							class="st27" v:langID="1033">mutex</tspan><tspan class="st27" v:langID="1033">_</tspan><tspan
+							class="st28" v:langID="1033">()</tspan><tspan class="st28" v:langID="1033">,</tspan><tspan class="st25">//</tspan><tspan
+							class="st19" v:langID="1033">MutexLock mutex</tspan><tspan class="st19" v:langID="1033">_</tspan><tspan
+							class="st25" v:langID="1033">;<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st27"
+							v:langID="1033">    </tspan><tspan class="st27" v:langID="1033">cond</tspan><tspan class="st27"
+							v:langID="1033">_</tspan><tspan class="st28" v:langID="1033">(</tspan><tspan class="st27"
+							v:langID="1033">mutex</tspan><tspan class="st27" v:langID="1033">_</tspan><tspan class="st28"
+							v:langID="1033">)</tspan><tspan class="st28" v:langID="1033">,</tspan><tspan class="st25">//</tspan><tspan
+							class="st19" v:langID="1033">Condition cond</tspan><tspan class="st19" v:langID="1033">_</tspan><tspan
+							class="st25" v:langID="1033">;<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st27"
+							v:langID="1033">    </tspan><tspan class="st27" v:langID="1033">callback</tspan><tspan class="st27"
+							v:langID="1033">_</tspan><tspan class="st28" v:langID="1033">(</tspan><tspan class="st27"
+							v:langID="1033">cb</tspan><tspan class="st28" v:langID="1033">)</tspan><tspan class="st28">//</tspan><tspan
+							class="st19" v:langID="1033">ThreadInitCallback callback</tspan><tspan class="st19" v:langID="1033">_</tspan><tspan
+							class="st25" v:langID="1033">;<v:newlineChar/></tspan><tspan x="4" dy="1.384em" class="st28"
+							v:langID="1033">{}</tspan></text>			</g>
+			<g id="shape14-932" v:mID="14" v:groupContext="shape" transform="translate(1343.48,-877.244)">
+				<title>工作表.14</title>
+				<desc>void EventLoopThread::threadFunc() { EventLoop loop;//创建一个Eve...</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="195.591" cy="1536.48" width="391.19" height="222.598"/>
+				<rect x="0" y="1425.18" width="391.181" height="222.598" class="st1"/>
+				<text x="4" y="1435.39" class="st32" v:langID="1033"><v:paragraph v:bulletSize="0.166667"/><v:tabList/>void<tspan
+							class="st33"> </tspan><tspan class="st33">EventLoopThread</tspan><tspan class="st25">::</tspan><tspan
+							class="st33">threadFunc</tspan><tspan class="st25">()<v:newlineChar/></tspan><tspan x="4" dy="1.215em"
+							class="st25">{<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st33">  </tspan><tspan
+							class="st33">EventLoop loop</tspan><tspan class="st25">;</tspan><tspan class="st34" v:langID="2052">//</tspan><tspan
+							class="st35" v:langID="2052">创建一个</tspan><tspan class="st34" v:langID="2052">EventLoop</tspan><tspan
+							class="st35" v:langID="2052">对象<v:newlineChar/></tspan><tspan x="4" dy="1.505em" class="st34"
+							v:langID="2052">//</tspan><tspan class="st35" v:langID="2052">如果设置了线程初始化函数则执行</tspan><tspan
+							class="st35" v:langID="2052">，</tspan><tspan class="st35" v:langID="2052">这里没有传入</tspan><tspan
+							class="st35" v:langID="2052">，</tspan><tspan class="st35" v:langID="2052">所以这一步没有实际效果<v:newlineChar/></tspan><tspan
+							x="4" dy="1.212em" class="st33">  </tspan><tspan class="st24">if</tspan><tspan class="st33"> </tspan><tspan
+							class="st25">(</tspan><tspan class="st33">callback</tspan><tspan class="st33">_</tspan><tspan
+							class="st34">)<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st33">  </tspan><tspan
+							class="st25">{<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st33">    </tspan><tspan
+							class="st33">callback</tspan><tspan class="st33">_</tspan><tspan class="st25">(</tspan><tspan
+							class="st25">&#38;</tspan><tspan class="st33">loop</tspan><tspan class="st25">)</tspan><tspan
+							class="st25">;<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st33">  </tspan><tspan
+							class="st25">}<v:newlineChar/><v:newlineChar/></tspan><tspan x="4" dy="2.416em" class="st33">  </tspan><tspan
+							class="st25">{<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st33">    </tspan><tspan
+							class="st33">MutexLockGuard lock</tspan><tspan class="st25">(</tspan><tspan class="st33">mutex</tspan><tspan
+							class="st33">_</tspan><tspan class="st25">)</tspan><tspan class="st25">;</tspan><tspan class="st34"
+							v:langID="2052">//</tspan><tspan class="st35" v:langID="2052">加锁<v:newlineChar/></tspan><tspan x="4"
+							dy="1.215em" class="st33">    </tspan><tspan class="st33">loop</tspan><tspan class="st33">_ </tspan><tspan
+							class="st25">=</tspan><tspan class="st33"> </tspan><tspan class="st25">&#38;</tspan><tspan class="st33">loop</tspan><tspan
+							class="st25">;</tspan><tspan class="st34" v:langID="2052">//</tspan><tspan class="st35" v:langID="2052">将上面创建的</tspan><tspan
+							class="st34" v:langID="2052">EventLoop</tspan><tspan class="st35" v:langID="2052">对象指针赋值给</tspan><tspan
+							class="st34" v:langID="2052">loop</tspan><tspan class="st34" v:langID="2052">_<v:newlineChar/></tspan><tspan
+							x="4" dy="1.215em" class="st33">    </tspan><tspan class="st33">cond</tspan><tspan class="st33">_</tspan><tspan
+							class="st25">.</tspan><tspan class="st33">notify</tspan><tspan class="st25">()</tspan><tspan
+							class="st25">;</tspan><tspan class="st34" v:langID="2052">//</tspan><tspan class="st35" v:langID="2052">通知</tspan><tspan
+							class="st36">EventLoopThread</tspan><tspan class="st34">::</tspan><tspan class="st36">startLoop</tspan><tspan
+							class="st34">()</tspan><tspan class="st35" v:langID="2052">中条件变量等待退出<v:newlineChar/></tspan><tspan
+							x="4" dy="1.215em" class="st33">  </tspan><tspan class="st25">}<v:newlineChar/><v:newlineChar/></tspan><tspan
+							x="4" dy="2.416em" class="st33">  </tspan><tspan class="st33">loop</tspan><tspan class="st25">.</tspan><tspan
+							class="st33">loop</tspan><tspan class="st25">()</tspan><tspan class="st25">;</tspan><tspan class="st34"
+							v:langID="2052">//</tspan><tspan class="st35" v:langID="2052">开始事件循环</tspan><tspan class="st35"
+							v:langID="2052">，</tspan><tspan class="st35" v:langID="2052">于某一线程中<v:newlineChar/></tspan><tspan x="4"
+							dy="1.204em" class="st33">  </tspan><tspan class="st37">//</tspan><tspan class="st37">assert</tspan><tspan
+							class="st37">(</tspan><tspan class="st37">exiting</tspan><tspan class="st37">_</tspan><tspan
+							class="st37">)</tspan><tspan class="st37">;<v:newlineChar/></tspan><tspan x="4" dy="1.38em"
+							class="st25">}</tspan></text>			</g>
+			<g id="shape21-1033" v:mID="21" v:groupContext="shape" transform="translate(949.465,-802.835)">
+				<title>工作表.21</title>
+				<desc>EventLoop* EventLoopThread::startLoop() { // 判断线程有没有启动如果启动了则直...</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="155.638" cy="1541.8" width="311.28" height="211.969"/>
+				<rect x="0" y="1435.81" width="311.276" height="211.969" class="st1"/>
+				<text x="4" y="1446.86" class="st38" v:langID="1033"><v:paragraph v:bulletSize="0.166667"/><v:tabList/>EventLoop<tspan
+							class="st25">*</tspan> EventLoopThread<tspan class="st25">::</tspan>startLoop<tspan class="st25">()<v:newlineChar/></tspan><tspan
+							x="4" dy="1.204em" class="st25">{<v:newlineChar/><v:paragraph v:bulletSize="0.166667"/></tspan><tspan
+							x="4" dy="1.5em" class="st39" v:langID="2052">  </tspan><tspan class="st34" v:langID="2052">// </tspan><tspan
+							class="st40" v:langID="2052">判断线程有没有启动</tspan><tspan class="st40" v:langID="2052">，</tspan><tspan
+							class="st40" v:langID="2052">如果启动了则直接退出</tspan><tspan class="st40" v:langID="2052">，</tspan><tspan
+							class="st40" v:langID="2052">否则启动线程<v:newlineChar/><v:paragraph v:bulletSize="0.166667"/></tspan><tspan
+							x="4" dy="1.212em" class="st19">  </tspan>assert<tspan class="st25">(!</tspan>thread_<tspan
+							class="st25">.</tspan>started<tspan class="st25">())</tspan><tspan class="st25">;<v:newlineChar/></tspan><tspan
+							x="4" dy="1.204em" class="st19" v:langID="2052">  </tspan><tspan class="st39" v:langID="2052">// </tspan><tspan
+							class="st39">EventLoopThread</tspan><tspan class="st34">::</tspan><tspan class="st39">threadFunc</tspan><tspan
+							class="st34">()</tspan><tspan class="st35" v:langID="2052">被调用<v:newlineChar/></tspan><tspan x="4"
+							dy="1.212em" class="st19">  </tspan>thread_<tspan class="st25">.</tspan>start<tspan class="st25">()</tspan><tspan
+							class="st25">;<v:newlineChar/><v:newlineChar/></tspan><tspan x="4" dy="2.415em" class="st19">  </tspan><tspan
+							class="st25">{</tspan><tspan class="st25" v:langID="2052"> </tspan><tspan class="st34" v:langID="2052">// </tspan><tspan
+							class="st35" v:langID="2052">一开始</tspan><tspan class="st34" v:langID="2052">loop</tspan><tspan
+							class="st34" v:langID="2052">_</tspan><tspan class="st35" v:langID="2052">是为</tspan><tspan class="st34"
+							v:langID="2052">NULL</tspan><tspan class="st35" v:langID="2052">的</tspan><tspan class="st35"
+							v:langID="2052">，</tspan><tspan class="st35" v:langID="2052">这部分只有当</tspan><tspan class="st34"
+							v:langID="2052">loop</tspan><tspan class="st34" v:langID="2052">_</tspan><tspan class="st35"
+							v:langID="2052">被初始化后才会退出循环<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st19">    </tspan>MutexLockGuard lock<tspan
+							class="st25">(</tspan>mutex_<tspan class="st25">)</tspan><tspan class="st25">;<v:newlineChar/></tspan><tspan
+							x="4" dy="1.215em" class="st19">    </tspan><tspan class="st24">while</tspan> <tspan class="st25">(</tspan>loop_ <tspan
+							class="st25">==</tspan> <tspan class="st24">NULL</tspan><tspan class="st25">)<v:newlineChar/></tspan><tspan
+							x="4" dy="1.215em" class="st19">    </tspan><tspan class="st25">{<v:newlineChar/></tspan><tspan x="4"
+							dy="1.215em" class="st19">      </tspan>cond_<tspan class="st25">.</tspan>wait<tspan class="st25">()</tspan><tspan
+							class="st25">;<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st19">    </tspan><tspan
+							class="st25">}<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st19">  </tspan><tspan
+							class="st25">}<v:newlineChar/></tspan><tspan x="4" dy="1.204em" class="st19" v:langID="2052">  </tspan><tspan
+							x="4" dy="1.212em" class="st19">  </tspan><tspan class="st24">return</tspan> loop_<tspan class="st25">;</tspan><tspan
+							class="st34" v:langID="2052">//</tspan><tspan class="st35" v:langID="2052">返回线程中创建的</tspan><tspan
+							class="st34" v:langID="2052">EventLoop</tspan><tspan class="st35" v:langID="2052">对象指针<v:newlineChar/></tspan><tspan
+							x="4" dy="1.384em" class="st25">}</tspan></text>			</g>
+			<g id="shape29-1107" v:mID="29" v:groupContext="shape" v:layerMember="0" transform="translate(943.795,-1167.87)">
+				<title>动态连接线</title>
+				<path d="M0 1647.78 L0 1738.49 L-204.09 1738.49" class="st41"/>
+			</g>
+			<g id="shape30-1113" v:mID="30" v:groupContext="shape" v:layerMember="0" transform="translate(943.795,-1006.3)">
+				<title>动态连接线.30</title>
+				<path d="M0 1647.78 L0 1605.26 L-127.56 1605.26" class="st41"/>
+			</g>
+			<g id="shape32-1118" v:mID="32" v:groupContext="shape" v:layerMember="0" transform="translate(1343.48,-1087.09)">
+				<title>动态连接线.32</title>
+				<path d="M0 1640.69 L0 1651.32 L-42.52 1651.32 L-42.52 1640.69" class="st43"/>
+			</g>
+			<g id="shape34-1126" v:mID="34" v:groupContext="shape" v:layerMember="0" transform="translate(1343.48,-946.772)">
+				<title>动态连接线.34</title>
+				<path d="M0 1647.78 L0 1721.48 L-269.29 1721.48" class="st43"/>
+			</g>
+			<g id="shape35-1133" v:mID="35" v:groupContext="shape" transform="translate(495.354,-977.953)">
+				<title>工作表.35</title>
+				<desc>2、异步调用runInThread // 异步调用runInThread即将runInThread添加到loop对象所在I...</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="221.386" cy="1617.27" width="442.78" height="61.0236"/>
+				<rect x="0" y="1586.76" width="442.772" height="61.0236" class="st1"/>
+				<text x="154.99" y="1601.57" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>2、异步调用runInThread<v:newlineChar/><v:paragraph
+							v:bulletSize="0.166667"/><tspan x="4" dy="1.262em" class="st10" v:langID="1033">// </tspan><tspan
+							class="st11" v:langID="1033">异步调用</tspan><tspan class="st10" v:langID="1033">runInThread</tspan><tspan
+							class="st11" v:langID="1033">，</tspan><tspan class="st11" v:langID="1033">即将</tspan><tspan class="st10"
+							v:langID="1033">runInThread</tspan><tspan class="st11" v:langID="1033">添加到</tspan><tspan class="st10"
+							v:langID="1033">loop</tspan><tspan class="st11" v:langID="1033">对象所在</tspan><tspan class="st10"
+							v:langID="1033">IO</tspan><tspan class="st11" v:langID="1033">线程</tspan><tspan class="st11"
+							v:langID="1033">，</tspan><tspan class="st11" v:langID="1033">让该</tspan><tspan class="st10"
+							v:langID="1033">IO</tspan><tspan class="st11" v:langID="1033">线程执行<v:newlineChar/></tspan><tspan x="4"
+							dy="1.212em" class="st6" v:langID="1033">loop</tspan><tspan class="st7" v:langID="1033">-</tspan><tspan
+							class="st7" v:langID="1033">&#62;</tspan><tspan class="st6" v:langID="1033">runInLoop</tspan><tspan
+							class="st7" v:langID="1033">(</tspan><tspan class="st6" v:langID="1033">runInThread</tspan><tspan
+							class="st7" v:langID="1033">)</tspan><tspan class="st7" v:langID="1033">;<v:newlineChar/></tspan><tspan
+							x="4" dy="1.384em" class="st6" v:langID="1033">sleep</tspan><tspan class="st7" v:langID="1033">(</tspan><tspan
+							class="st12" v:langID="1033">1</tspan><tspan class="st7" v:langID="1033">)</tspan><tspan class="st7"
+							v:langID="1033">;</tspan></text>			</g>
+			<g id="shape38-1164" v:mID="38" v:groupContext="shape" transform="translate(952.299,-633.543)">
+				<title>工作表.38</title>
+				<desc>void EventLoop::runInLoop(const Functor&#38; cb) {//判断调用该函数线程是否是E...</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="137.52" cy="1574.79" width="275.04" height="145.984"/>
+				<rect x="0" y="1501.8" width="275.039" height="145.984" class="st1"/>
+				<text x="4" y="1515.93" class="st32" v:langID="1033"><v:paragraph v:bulletSize="0.166667"/><v:tabList/>void<tspan
+							class="st33"> </tspan><tspan class="st33">EventLoop</tspan><tspan class="st25">::</tspan><tspan
+							class="st33">runInLoop</tspan><tspan class="st25">(</tspan>const<tspan class="st33"> </tspan><tspan
+							class="st33">Functor</tspan><tspan class="st25">&#38;</tspan><tspan class="st33"> </tspan><tspan
+							class="st33">cb</tspan><tspan class="st25">)<v:newlineChar/></tspan><tspan x="4" dy="1.215em"
+							class="st25">{</tspan><tspan class="st34" v:langID="2052">//</tspan><tspan class="st35" v:langID="2052">判断调用该函数线程是否是</tspan><tspan
+							class="st34" v:langID="2052">EventLoop</tspan><tspan class="st35" v:langID="2052">的事件循环线程<v:newlineChar/></tspan><tspan
+							x="4" dy="1.215em" class="st33">  </tspan><tspan class="st24">if</tspan><tspan class="st33"> </tspan><tspan
+							class="st25">(</tspan><tspan class="st33">isInLoopThread</tspan><tspan class="st25">())<v:newlineChar/></tspan><tspan
+							x="4" dy="1.215em" class="st33">  </tspan><tspan class="st25">{</tspan><tspan class="st34"
+							v:langID="2052">//</tspan><tspan class="st35" v:langID="2052">事件循环调用情况在</tspan><tspan class="st34"
+							v:langID="2052">level</tspan><tspan class="st34" v:langID="2052">1</tspan><tspan class="st35"
+							v:langID="2052">中已经说明了<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st33">    </tspan><tspan
+							class="st33">cb</tspan><tspan class="st25">()</tspan><tspan class="st25">;<v:newlineChar/></tspan><tspan
+							x="4" dy="1.215em" class="st33">  </tspan><tspan class="st25">}<v:newlineChar/></tspan><tspan x="4"
+							dy="1.215em" class="st33">  </tspan><tspan class="st24">else</tspan><tspan class="st44" v:langID="2052">//</tspan><tspan
+							class="st45" v:langID="2052">这里很显然不是在同一线程中调用</tspan><tspan class="st45" v:langID="2052">，</tspan><tspan
+							class="st45" v:langID="2052">下一步会被执行<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st33">  </tspan><tspan
+							class="st25">{<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st33">    </tspan><tspan
+							class="st33">queueInLoop</tspan><tspan class="st25">(</tspan><tspan class="st33">cb</tspan><tspan
+							class="st25">)</tspan><tspan class="st25">;<v:newlineChar/></tspan><tspan x="4" dy="1.215em"
+							class="st33">  </tspan><tspan class="st25">}<v:newlineChar/></tspan><tspan x="4" dy="1.384em"
+							class="st25">}</tspan></text>			</g>
+			<g id="shape41-1219" v:mID="41" v:groupContext="shape" transform="translate(1283.68,-670.315)">
+				<title>工作表.41</title>
+				<desc>void EventLoop::queueInLoop(const Functor&#38; cb) { { MutexLockG...</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="188.642" cy="1574.79" width="377.29" height="145.984"/>
+				<rect x="0" y="1501.8" width="377.283" height="145.984" class="st1"/>
+				<text x="4" y="1498.44" class="st32" v:langID="1033"><v:paragraph v:bulletSize="0.166667"/><v:tabList/>void<tspan
+							class="st33"> </tspan><tspan class="st33">EventLoop</tspan><tspan class="st25">::</tspan><tspan
+							class="st33">queueInLoop</tspan><tspan class="st25">(</tspan>const<tspan class="st33"> </tspan><tspan
+							class="st33">Functor</tspan><tspan class="st25">&#38;</tspan><tspan class="st33"> </tspan><tspan
+							class="st33">cb</tspan><tspan class="st25">)<v:newlineChar/></tspan><tspan x="4" dy="1.215em"
+							class="st25">{<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st33">  </tspan><tspan
+							class="st25">{<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st33">  </tspan><tspan
+							class="st33">MutexLockGuard lock</tspan><tspan class="st25">(</tspan><tspan class="st33">mutex</tspan><tspan
+							class="st33">_</tspan><tspan class="st25">)</tspan><tspan class="st25">;<v:newlineChar/></tspan><tspan
+							x="4" dy="1.215em" class="st33" v:langID="2052">  </tspan><tspan class="st36" v:langID="2052">// </tspan><tspan
+							class="st36">std</tspan><tspan class="st34">::</tspan><tspan class="st36">vector</tspan><tspan
+							class="st34">&#60;</tspan><tspan class="st36">Functor</tspan><tspan class="st34">&#62;</tspan><tspan
+							class="st36"> </tspan><tspan class="st36">pendingFunctors</tspan><tspan class="st36">_</tspan><tspan
+							class="st34">; </tspan><tspan x="4" dy="1.215em" class="st33"> </tspan><tspan class="st33"
+							v:langID="2052">  </tspan><tspan class="st33">pendingFunctors</tspan><tspan class="st33">_</tspan><tspan
+							class="st25">.</tspan><tspan class="st33">push</tspan><tspan class="st33">_</tspan><tspan class="st33">back</tspan><tspan
+							class="st25">(</tspan><tspan class="st33">cb</tspan><tspan class="st25">)</tspan><tspan class="st25">;</tspan><tspan
+							class="st34" v:langID="2052">//</tspan><tspan class="st35" v:langID="2052">将</tspan><tspan class="st34"
+							v:langID="2052">cb</tspan><tspan class="st35" v:langID="2052">加入到挂起待执行函数集合里<v:newlineChar/></tspan><tspan
+							x="4" dy="1.215em" class="st33">  </tspan><tspan class="st25">} </tspan><tspan x="4" dy="1.204em"
+							class="st33" v:langID="2052"> </tspan><tspan class="st46" v:langID="2052"> </tspan><tspan class="st46"
+							v:langID="2052">// </tspan><tspan class="st47" v:langID="2052">当不是在</tspan><tspan class="st46"
+							v:langID="2052">EventLoop</tspan><tspan class="st47" v:langID="2052">线程中或者</tspan><tspan class="st46">callingPendingFunctors</tspan><tspan
+							class="st46">_</tspan><tspan class="st47" v:langID="2052">为</tspan><tspan class="st46" v:langID="2052">true</tspan><tspan
+							class="st47" v:langID="2052">时调用<v:newlineChar/></tspan><tspan x="4" dy="1.236em" class="st46"
+							v:langID="2052">  </tspan><tspan class="st46" v:langID="2052">// </tspan><tspan class="st47"
+							v:langID="2052">很显然</tspan><tspan class="st47" v:langID="2052">，</tspan><tspan class="st47"
+							v:langID="2052">这里是第一种情况<v:newlineChar/></tspan><tspan x="4" dy="1.182em" class="st33">  </tspan><tspan
+							class="st24">if</tspan><tspan class="st33"> </tspan><tspan class="st25">(!</tspan><tspan class="st33">isInLoopThread</tspan><tspan
+							class="st25">()</tspan><tspan class="st33"> </tspan><tspan class="st25">||</tspan><tspan class="st33"> </tspan><tspan
+							class="st33">callingPendingFunctors</tspan><tspan class="st33">_</tspan><tspan class="st25">)<v:newlineChar/></tspan><tspan
+							x="4" dy="1.215em" class="st33">  </tspan><tspan class="st25">{<v:newlineChar/></tspan><tspan x="4"
+							dy="1.215em" class="st33">    </tspan><tspan class="st33">wakeup</tspan><tspan class="st25">()</tspan><tspan
+							class="st25">;</tspan><tspan class="st34" v:langID="2052">//</tspan><tspan class="st35" v:langID="2052">该函数会被执行<v:newlineChar/></tspan><tspan
+							x="4" dy="1.215em" class="st33">  </tspan><tspan class="st25">}<v:newlineChar/></tspan><tspan x="4"
+							dy="1.384em" class="st25">}</tspan></text>			</g>
+			<g id="shape45-1312" v:mID="45" v:groupContext="shape" transform="translate(1750.29,-741.26)">
+				<title>工作表.45</title>
+				<desc>该部分只着重分析加粗部分 EventLoop::EventLoop() : looping_(false), quit_(...</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="227.744" cy="1449.01" width="455.49" height="397.543"/>
+				<rect x="0" y="1250.24" width="455.488" height="397.543" class="st1"/>
+				<text x="167.51" y="1263.21" class="st48" v:langID="2052"><v:paragraph v:horizAlign="1" v:bulletSize="0.166667"/><v:tabList/>该部分只着重分析加粗部分<v:newlineChar/><v:paragraph
+							v:bulletSize="0.166667"/><tspan x="4" dy="1.244em" class="st49" v:langID="1033">EventLoop</tspan><tspan
+							class="st50" v:langID="1033">::</tspan><tspan class="st49" v:langID="1033">EventLoop</tspan><tspan
+							class="st50" v:langID="1033">()<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st49"
+							v:langID="1033">  </tspan><tspan class="st50" v:langID="1033">:</tspan><tspan class="st49"
+							v:langID="1033"> </tspan><tspan class="st49" v:langID="1033">looping</tspan><tspan class="st49"
+							v:langID="1033">_</tspan><tspan class="st50" v:langID="1033">(</tspan><tspan class="st51"
+							v:langID="1033">false</tspan><tspan class="st50" v:langID="1033">)</tspan><tspan class="st50"
+							v:langID="1033">,<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st49" v:langID="1033">    </tspan><tspan
+							class="st49" v:langID="1033">quit</tspan><tspan class="st49" v:langID="1033">_</tspan><tspan
+							class="st50" v:langID="1033">(</tspan><tspan class="st51" v:langID="1033">false</tspan><tspan
+							class="st50" v:langID="1033">)</tspan><tspan class="st50" v:langID="1033">,<v:newlineChar/></tspan><tspan
+							x="4" dy="1.215em" class="st49" v:langID="1033">    </tspan><tspan class="st49" v:langID="1033">eventHandling</tspan><tspan
+							class="st49" v:langID="1033">_</tspan><tspan class="st50" v:langID="1033">(</tspan><tspan class="st51"
+							v:langID="1033">false</tspan><tspan class="st50" v:langID="1033">)</tspan><tspan class="st50"
+							v:langID="1033">,<v:newlineChar/></tspan><tspan x="4" dy="1.204em" class="st49">    </tspan><tspan
+							class="st52">// </tspan><tspan class="st52" v:langID="1033">std</tspan><tspan class="st53"
+							v:langID="1033">::</tspan><tspan class="st52" v:langID="1033">vector</tspan><tspan class="st53"
+							v:langID="1033">&#60;</tspan><tspan class="st52" v:langID="1033">Functor</tspan><tspan class="st53"
+							v:langID="1033">&#62;</tspan><tspan class="st52" v:langID="1033"> </tspan><tspan class="st52"
+							v:langID="1033">pendingFunctors</tspan><tspan class="st52" v:langID="1033">_</tspan><tspan class="st53"
+							v:langID="1033">;<v:newlineChar/></tspan><tspan x="4" dy="1.212em" class="st49" v:langID="1033">    </tspan><tspan
+							class="st54" v:langID="1033">callingPendingFunctors</tspan><tspan class="st54" v:langID="1033">_</tspan><tspan
+							class="st50" v:langID="1033">(</tspan><tspan class="st51" v:langID="1033">false</tspan><tspan
+							class="st50" v:langID="1033">)</tspan><tspan class="st50" v:langID="1033">,<v:newlineChar/></tspan><tspan
+							x="4" dy="1.215em" class="st49" v:langID="1033">    </tspan><tspan class="st49" v:langID="1033">iteration</tspan><tspan
+							class="st49" v:langID="1033">_</tspan><tspan class="st50" v:langID="1033">(</tspan><tspan class="st55"
+							v:langID="1033">0</tspan><tspan class="st50" v:langID="1033">)</tspan><tspan class="st50"
+							v:langID="1033">,<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st49" v:langID="1033">    </tspan><tspan
+							class="st49" v:langID="1033">threadId</tspan><tspan class="st49" v:langID="1033">_</tspan><tspan
+							class="st50" v:langID="1033">(</tspan><tspan class="st49" v:langID="1033">CurrentThread</tspan><tspan
+							class="st50" v:langID="1033">::</tspan><tspan class="st49" v:langID="1033">tid</tspan><tspan
+							class="st50" v:langID="1033">())</tspan><tspan class="st50" v:langID="1033">,<v:newlineChar/></tspan><tspan
+							x="4" dy="1.215em" class="st49" v:langID="1033">    </tspan><tspan class="st49" v:langID="1033">poller</tspan><tspan
+							class="st49" v:langID="1033">_</tspan><tspan class="st50" v:langID="1033">(</tspan><tspan class="st49"
+							v:langID="1033">Poller</tspan><tspan class="st50" v:langID="1033">::</tspan><tspan class="st49"
+							v:langID="1033">newDefaultPoller</tspan><tspan class="st50" v:langID="1033">(</tspan><tspan
+							class="st51" v:langID="1033">this</tspan><tspan class="st50" v:langID="1033">))</tspan><tspan
+							class="st50" v:langID="1033">,<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st49"
+							v:langID="1033">    </tspan><tspan class="st49" v:langID="1033">timerQueue</tspan><tspan class="st49"
+							v:langID="1033">_</tspan><tspan class="st50" v:langID="1033">(</tspan><tspan class="st51"
+							v:langID="1033">new</tspan><tspan class="st49" v:langID="1033"> </tspan><tspan class="st49"
+							v:langID="1033">TimerQueue</tspan><tspan class="st50" v:langID="1033">(</tspan><tspan class="st51"
+							v:langID="1033">this</tspan><tspan class="st50" v:langID="1033">))</tspan><tspan class="st50"
+							v:langID="1033">,<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st49" v:langID="1033">    </tspan><tspan
+							class="st54" v:langID="1033">wakeupFd</tspan><tspan class="st54" v:langID="1033">_</tspan><tspan
+							class="st50" v:langID="1033">(</tspan><tspan class="st54" v:langID="1033">createEventfd</tspan><tspan
+							class="st50" v:langID="1033">())</tspan><tspan class="st50" v:langID="1033">,</tspan><tspan
+							class="st50">//</tspan><tspan class="st56" v:langID="1033">int</tspan><tspan class="st49"
+							v:langID="1033"> </tspan><tspan class="st49" v:langID="1033">wakeupFd</tspan><tspan class="st49"
+							v:langID="1033">_</tspan><tspan class="st50" v:langID="1033">;</tspan><tspan class="st16">（</tspan><tspan
+							class="st57">a</tspan><tspan class="st16">）<v:newlineChar/></tspan><tspan x="4" dy="1.204em"
+							class="st49">    </tspan><tspan class="st52">// </tspan><tspan class="st52" v:langID="1033">boost</tspan><tspan
+							class="st53" v:langID="1033">::</tspan><tspan class="st52" v:langID="1033">scoped</tspan><tspan
+							class="st52" v:langID="1033">_</tspan><tspan class="st52" v:langID="1033">ptr</tspan><tspan
+							class="st53" v:langID="1033">&#60;</tspan><tspan class="st52" v:langID="1033">Channel</tspan><tspan
+							class="st53" v:langID="1033">&#62;</tspan><tspan class="st52" v:langID="1033"> </tspan><tspan
+							class="st52" v:langID="1033">wakeupChannel</tspan><tspan class="st52" v:langID="1033">_</tspan><tspan
+							class="st53" v:langID="1033">;<v:newlineChar/></tspan><tspan x="4" dy="1.5em" class="st53">     </tspan><tspan
+							class="st53">// </tspan><tspan class="st53">wankeupChannel</tspan><tspan class="st58">和</tspan><tspan
+							class="st53">wakeupFd</tspan><tspan class="st58">绑定</tspan><tspan class="st58">，</tspan><tspan
+							class="st58">用于处理跨线程调用的函数</tspan><tspan class="st58">，</tspan><tspan class="st58">后面会用到这些<v:newlineChar/></tspan><tspan
+							x="4" dy="1.212em" class="st49" v:langID="1033">    </tspan><tspan class="st54" v:langID="1033">wakeupChannel</tspan><tspan
+							class="st54" v:langID="1033">_</tspan><tspan class="st50" v:langID="1033">(</tspan><tspan class="st51"
+							v:langID="1033">new</tspan><tspan class="st54" v:langID="1033"> </tspan><tspan class="st54"
+							v:langID="1033">Channel</tspan><tspan class="st50" v:langID="1033">(</tspan><tspan class="st51"
+							v:langID="1033">this</tspan><tspan class="st50" v:langID="1033">,</tspan><tspan class="st54"
+							v:langID="1033"> </tspan><tspan class="st54" v:langID="1033">wakeupFd</tspan><tspan class="st54"
+							v:langID="1033">_</tspan><tspan class="st50" v:langID="1033">))</tspan><tspan class="st50"
+							v:langID="1033">,</tspan><tspan class="st49" v:langID="1033"> </tspan><tspan class="st16">（</tspan><tspan
+							class="st57">a</tspan><tspan class="st16">）</tspan><tspan class="st49" v:langID="1033">   </tspan><tspan
+							x="4" dy="1.215em" class="st49" v:langID="1033">currentActiveChannel</tspan><tspan class="st49"
+							v:langID="1033">_</tspan><tspan class="st50" v:langID="1033">(</tspan><tspan class="st51"
+							v:langID="1033">NULL</tspan><tspan class="st50" v:langID="1033">)<v:newlineChar/></tspan><tspan x="4"
+							dy="1.215em" class="st50" v:langID="1033">{<v:newlineChar/></tspan><tspan x="4" dy="1.215em"
+							class="st49" v:langID="1033">  </tspan><tspan class="st49" v:langID="1033">LOG</tspan><tspan
+							class="st49" v:langID="1033">_</tspan><tspan class="st49" v:langID="1033">TRACE </tspan><tspan
+							class="st50" v:langID="1033">&#60;&#60;</tspan><tspan class="st49" v:langID="1033"> </tspan><tspan
+							class="st59" v:langID="1033">&#34;</tspan><tspan class="st59" v:langID="1033">EventLoop created </tspan><tspan
+							class="st59" v:langID="1033">&#34;</tspan><tspan class="st49" v:langID="1033"> </tspan><tspan
+							class="st50" v:langID="1033">&#60;&#60;</tspan><tspan class="st49" v:langID="1033"> </tspan><tspan
+							class="st51" v:langID="1033">this</tspan><tspan class="st49" v:langID="1033"> </tspan><tspan
+							class="st50" v:langID="1033">&#60;&#60;</tspan><tspan class="st49" v:langID="1033"> </tspan><tspan
+							class="st59" v:langID="1033">&#34; </tspan><tspan class="st59" v:langID="1033">in thread </tspan><tspan
+							class="st59" v:langID="1033">&#34;</tspan><tspan class="st49" v:langID="1033"> </tspan><tspan
+							class="st50" v:langID="1033">&#60;&#60;</tspan><tspan class="st49" v:langID="1033"> </tspan><tspan
+							class="st49" v:langID="1033">threadId</tspan><tspan class="st49" v:langID="1033">_</tspan><tspan
+							class="st50" v:langID="1033">;<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st49"
+							v:langID="1033">  </tspan><tspan class="st51" v:langID="1033">if</tspan><tspan class="st49"
+							v:langID="1033"> </tspan><tspan class="st50" v:langID="1033">(</tspan><tspan class="st49"
+							v:langID="1033">t</tspan><tspan class="st49" v:langID="1033">_</tspan><tspan class="st49"
+							v:langID="1033">loopInThisThread</tspan><tspan class="st50" v:langID="1033">)<v:newlineChar/></tspan><tspan
+							x="4" dy="1.215em" class="st49" v:langID="1033">  </tspan><tspan class="st50" v:langID="1033">{<v:newlineChar/></tspan><tspan
+							x="4" dy="1.215em" class="st49" v:langID="1033">    </tspan><tspan class="st49" v:langID="1033">LOG</tspan><tspan
+							class="st49" v:langID="1033">_</tspan><tspan class="st49" v:langID="1033">FATAL </tspan><tspan
+							class="st50" v:langID="1033">&#60;&#60;</tspan><tspan class="st49" v:langID="1033"> </tspan><tspan
+							class="st59" v:langID="1033">&#34;</tspan><tspan class="st59" v:langID="1033">Another EventLoop </tspan><tspan
+							class="st59" v:langID="1033">&#34;</tspan><tspan class="st49" v:langID="1033"> </tspan><tspan
+							class="st50" v:langID="1033">&#60;&#60;</tspan><tspan class="st49" v:langID="1033"> </tspan><tspan
+							class="st49" v:langID="1033">t</tspan><tspan class="st49" v:langID="1033">_</tspan><tspan class="st49"
+							v:langID="1033">loopInThisThread<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st49"
+							v:langID="1033">              </tspan><tspan class="st50" v:langID="1033">&#60;&#60;</tspan><tspan
+							class="st49" v:langID="1033"> </tspan><tspan class="st59" v:langID="1033">&#34; </tspan><tspan
+							class="st59" v:langID="1033">exists in this thread </tspan><tspan class="st59" v:langID="1033">&#34;</tspan><tspan
+							class="st49" v:langID="1033"> </tspan><tspan class="st50" v:langID="1033">&#60;&#60;</tspan><tspan
+							class="st49" v:langID="1033"> </tspan><tspan class="st49" v:langID="1033">threadId</tspan><tspan
+							class="st49" v:langID="1033">_</tspan><tspan class="st50" v:langID="1033">;<v:newlineChar/></tspan><tspan
+							x="4" dy="1.215em" class="st49" v:langID="1033">  </tspan><tspan class="st50" v:langID="1033">}<v:newlineChar/></tspan><tspan
+							x="4" dy="1.215em" class="st49" v:langID="1033">  </tspan><tspan class="st51" v:langID="1033">else<v:newlineChar/></tspan><tspan
+							x="4" dy="1.215em" class="st49" v:langID="1033">  </tspan><tspan class="st50" v:langID="1033">{<v:newlineChar/></tspan><tspan
+							x="4" dy="1.215em" class="st49" v:langID="1033">    </tspan><tspan class="st49" v:langID="1033">t</tspan><tspan
+							class="st49" v:langID="1033">_</tspan><tspan class="st49" v:langID="1033">loopInThisThread </tspan><tspan
+							class="st50" v:langID="1033">=</tspan><tspan class="st49" v:langID="1033"> </tspan><tspan class="st51"
+							v:langID="1033">this</tspan><tspan class="st50" v:langID="1033">;<v:newlineChar/></tspan><tspan x="4"
+							dy="1.215em" class="st49" v:langID="1033">  </tspan><tspan class="st50" v:langID="1033">}<v:newlineChar/></tspan><tspan
+							x="4" dy="1.215em" class="st49" v:langID="1033">  </tspan><tspan class="st54" v:langID="1033">wakeupChannel</tspan><tspan
+							class="st54" v:langID="1033">_</tspan><tspan class="st50" v:langID="1033">-</tspan><tspan class="st50"
+							v:langID="1033">&#62;</tspan><tspan class="st54" v:langID="1033">setReadCallback</tspan><tspan
+							class="st50" v:langID="1033">(<v:newlineChar/></tspan><tspan x="4" dy="1.213em" class="st54"
+							v:langID="1033">      </tspan><tspan class="st54" v:langID="1033">boost</tspan><tspan class="st50"
+							v:langID="1033">::</tspan><tspan class="st54" v:langID="1033">bind</tspan><tspan class="st50"
+							v:langID="1033">(</tspan><tspan class="st50" v:langID="1033">&#38;</tspan><tspan class="st57"
+							v:langID="1033">EventLoop</tspan><tspan class="st57" v:langID="1033">::</tspan><tspan class="st57"
+							v:langID="1033">handleRead</tspan><tspan class="st50" v:langID="1033">,</tspan><tspan class="st54"
+							v:langID="1033"> </tspan><tspan class="st51" v:langID="1033">this</tspan><tspan class="st50"
+							v:langID="1033">))</tspan><tspan class="st50" v:langID="1033">;</tspan><tspan class="st16">（</tspan><tspan
+							class="st57">a</tspan><tspan class="st16">）<v:newlineChar/></tspan><tspan x="4" dy="1.203em"
+							class="st54" v:langID="1033">  </tspan><tspan class="st60" v:langID="1033">// </tspan><tspan
+							class="st60" v:langID="1033">we are always reading the wakeupfd<v:newlineChar/></tspan><tspan x="4"
+							dy="1.2em" class="st54" v:langID="1033">  </tspan><tspan class="st54" v:langID="1033">wakeupChannel</tspan><tspan
+							class="st54" v:langID="1033">_</tspan><tspan class="st50" v:langID="1033">-</tspan><tspan class="st50"
+							v:langID="1033">&#62;</tspan><tspan class="st54" v:langID="1033">enableReading</tspan><tspan
+							class="st50" v:langID="1033">()</tspan><tspan class="st50" v:langID="1033">;<v:newlineChar/></tspan><tspan
+							x="4" dy="1.38em" class="st50" v:langID="1033">}</tspan></text>			</g>
+			<g id="shape54-1579" v:mID="54" v:groupContext="shape" transform="translate(2249.15,-150.772)">
+				<title>工作表.54</title>
+				<desc>void EventLoop::handleRead()a { uint64_t one = 1; ssize_t n =...</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="177.165" cy="1584.63" width="354.34" height="126.299"/>
+				<rect x="0" y="1521.48" width="354.331" height="126.299" class="st1"/>
+				<text x="4" y="1531.85" class="st32" v:langID="1033"><v:paragraph v:bulletSize="0.166667"/><v:tabList/>void<tspan
+							class="st33"> </tspan><tspan class="st61">EventLoop</tspan><tspan class="st62">::</tspan><tspan
+							class="st61">handleRead</tspan><tspan class="st62">()</tspan><tspan class="st63" v:langID="2052">（</tspan><tspan
+							class="st62" v:langID="2052">a</tspan><tspan class="st63" v:langID="2052">）<v:newlineChar/></tspan><tspan
+							x="4" dy="1.215em" class="st25">{<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st33">  </tspan>uint64_t<tspan
+							class="st33"> </tspan><tspan class="st33">one </tspan><tspan class="st25">=</tspan><tspan class="st33"> </tspan><tspan
+							class="st64">1</tspan><tspan class="st25">;<v:newlineChar/></tspan><tspan x="4" dy="1.215em"
+							class="st33">  </tspan>ssize_t<tspan class="st33"> </tspan><tspan class="st33">n </tspan><tspan
+							class="st25">=</tspan><tspan class="st33"> </tspan><tspan class="st33">sockets</tspan><tspan
+							class="st25">::</tspan><tspan class="st33">read</tspan><tspan class="st25">(</tspan><tspan class="st33">wakeupFd</tspan><tspan
+							class="st33">_</tspan><tspan class="st25">,</tspan><tspan class="st33"> </tspan><tspan class="st25">&#38;</tspan><tspan
+							class="st33">one</tspan><tspan class="st25">,</tspan><tspan class="st33"> </tspan><tspan class="st24">sizeof</tspan><tspan
+							class="st33"> </tspan><tspan class="st33">one</tspan><tspan class="st25">)</tspan><tspan class="st25">;<v:newlineChar/></tspan><tspan
+							x="4" dy="1.215em" class="st33">  </tspan><tspan class="st24">if</tspan><tspan class="st33"> </tspan><tspan
+							class="st25">(</tspan><tspan class="st33">n </tspan><tspan class="st25">!=</tspan><tspan class="st33"> </tspan><tspan
+							class="st24">sizeof</tspan><tspan class="st33"> </tspan><tspan class="st33">one</tspan><tspan
+							class="st25">)<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st33">  </tspan><tspan
+							class="st25">{<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st33">    </tspan><tspan
+							class="st33">LOG</tspan><tspan class="st33">_</tspan><tspan class="st33">ERROR </tspan><tspan
+							class="st25">&#60;&#60;</tspan><tspan class="st33"> </tspan><tspan class="st65">&#34;</tspan><tspan
+							class="st65">EventLoop</tspan><tspan class="st65">::</tspan><tspan class="st65">handleRead</tspan><tspan
+							class="st65">() </tspan><tspan class="st65">reads </tspan><tspan class="st65">&#34;</tspan><tspan
+							class="st33"> </tspan><tspan class="st25">&#60;&#60;</tspan><tspan class="st33"> </tspan><tspan
+							class="st33">n </tspan><tspan class="st25">&#60;&#60;</tspan><tspan class="st33"> </tspan><tspan x="4"
+							dy="1.215em" class="st65">&#34; </tspan><tspan class="st65">bytes instead of </tspan><tspan
+							class="st65">8</tspan><tspan class="st65">&#34;</tspan><tspan class="st25">;<v:newlineChar/></tspan><tspan
+							x="4" dy="1.215em" class="st33">  </tspan><tspan class="st25">}<v:newlineChar/></tspan><tspan x="4"
+							dy="1.384em" class="st25">}</tspan></text>			</g>
+			<g id="shape56-1660" v:mID="56" v:groupContext="shape" transform="translate(1273.89,-503.78)">
+				<title>工作表.56</title>
+				<desc>void EventLoop::wakeup() { uint64_t one = 1; //往wakeupFd里写东西w...</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="188.642" cy="1584.63" width="377.29" height="126.299"/>
+				<rect x="0" y="1521.48" width="377.283" height="126.299" class="st1"/>
+				<text x="4" y="1525.77" class="st32" v:langID="1033"><v:paragraph v:bulletSize="0.166667"/><v:tabList/>void<tspan
+							class="st33"> </tspan><tspan class="st33">EventLoop</tspan><tspan class="st25">::</tspan><tspan
+							class="st33">wakeup</tspan><tspan class="st25">()<v:newlineChar/></tspan><tspan x="4" dy="1.215em"
+							class="st25">{<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st33">  </tspan>uint64_t<tspan
+							class="st33"> </tspan><tspan class="st33">one </tspan><tspan class="st25">=</tspan><tspan class="st33"> </tspan><tspan
+							class="st64">1</tspan><tspan class="st25">;<v:newlineChar/></tspan><tspan x="4" dy="1.215em"
+							class="st33" v:langID="2052">  </tspan><tspan class="st62" v:langID="2052">//</tspan><tspan
+							class="st63" v:langID="2052">往</tspan><tspan class="st62" v:langID="2052">wakeupFd</tspan><tspan
+							class="st63" v:langID="2052">里写东西</tspan><tspan class="st63" v:langID="2052">，</tspan><tspan
+							class="st62" v:langID="2052">wakeupFd</tspan><tspan class="st62" v:langID="2052">_</tspan><tspan
+							class="st63" v:langID="2052">将发生可读事件</tspan><tspan class="st63" v:langID="2052">，</tspan><tspan
+							class="st63" v:langID="2052">具体参见</tspan><tspan class="st63" v:langID="2052">（</tspan><tspan
+							class="st62" v:langID="2052">a</tspan><tspan class="st63" v:langID="2052">）<v:newlineChar/></tspan><tspan
+							x="4" dy="1.215em" class="st33">  </tspan>ssize_t<tspan class="st33"> </tspan><tspan class="st33">n </tspan><tspan
+							class="st25">=</tspan><tspan class="st33"> </tspan><tspan class="st33">sockets</tspan><tspan
+							class="st25">::</tspan><tspan class="st33">write</tspan><tspan class="st25">(</tspan><tspan
+							class="st33">wakeupFd</tspan><tspan class="st33">_</tspan><tspan class="st25">,</tspan><tspan
+							class="st33"> </tspan><tspan class="st25">&#38;</tspan><tspan class="st33">one</tspan><tspan
+							class="st25">,</tspan><tspan class="st33"> </tspan><tspan class="st24">sizeof</tspan><tspan
+							class="st33"> </tspan><tspan class="st33">one</tspan><tspan class="st25">)</tspan><tspan class="st25">;<v:newlineChar/></tspan><tspan
+							x="4" dy="1.215em" class="st33">  </tspan><tspan class="st24">if</tspan><tspan class="st33"> </tspan><tspan
+							class="st25">(</tspan><tspan class="st33">n </tspan><tspan class="st25">!=</tspan><tspan class="st33"> </tspan><tspan
+							class="st24">sizeof</tspan><tspan class="st33"> </tspan><tspan class="st33">one</tspan><tspan
+							class="st25">)<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st33">  </tspan><tspan
+							class="st25">{<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st33">    </tspan><tspan
+							class="st33">LOG</tspan><tspan class="st33">_</tspan><tspan class="st33">ERROR </tspan><tspan
+							class="st25">&#60;&#60;</tspan><tspan class="st33"> </tspan><tspan class="st65">&#34;</tspan><tspan
+							class="st65">EventLoop</tspan><tspan class="st65">::</tspan><tspan class="st65">wakeup</tspan><tspan
+							class="st65">() </tspan><tspan class="st65">writes </tspan><tspan class="st65">&#34;</tspan><tspan
+							class="st33"> </tspan><tspan class="st25">&#60;&#60;</tspan><tspan class="st33"> </tspan><tspan
+							class="st33">n </tspan><tspan class="st25">&#60;&#60;</tspan><tspan class="st33"> </tspan><tspan
+							class="st65">&#34; </tspan><tspan x="4" dy="1.215em" class="st65">bytes instead of </tspan><tspan
+							class="st65">8</tspan><tspan class="st65">&#34;</tspan><tspan class="st25">;<v:newlineChar/></tspan><tspan
+							x="4" dy="1.215em" class="st33">  </tspan><tspan class="st25">}<v:newlineChar/></tspan><tspan x="4"
+							dy="1.384em" class="st25">}</tspan></text>			</g>
+			<g id="shape65-1752" v:mID="65" v:groupContext="shape" v:layerMember="0" transform="translate(1632.61,-581.102)">
+				<title>动态连接线.65</title>
+				<desc>Write/read</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="94.252" cy="1633.61" width="52.35" height="17.6036"/>
+				<path d="M0 1647.78 L0 1633.61 L202.68 1633.61" class="st43"/>
+				<rect v:rectContext="textBkgnd" x="74.0963" y="1628.81" width="40.3116" height="9.59985" class="st66"/>
+				<text x="74.1" y="1636.01" class="st67" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>Write/read</text>			</g>
+			<g id="shape66-1761" v:mID="66" v:groupContext="shape" transform="translate(1811.73,-524.409)">
+				<title>工作表.66</title>
+				<desc>void EventLoop::loop() { assert(!looping_); assertInLoopThrea...</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="215.165" cy="1637.78" width="430.34" height="20"/>
+				<rect x="0" y="1627.78" width="430.331" height="20" class="st1"/>
+				<text x="4" y="1445.53" class="st32" v:langID="1033"><v:paragraph v:bulletSize="0.166667"/><v:tabList/>void<tspan
+							class="st33"> </tspan><tspan class="st33">EventLoop</tspan><tspan class="st25">::</tspan><tspan
+							class="st33">loop</tspan><tspan class="st25">()<v:newlineChar/></tspan><tspan x="4" dy="1.215em"
+							class="st25">{<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st33">  </tspan><tspan
+							class="st33">assert</tspan><tspan class="st25">(!</tspan><tspan class="st33">looping</tspan><tspan
+							class="st33">_</tspan><tspan class="st25">)</tspan><tspan class="st25">;<v:newlineChar/></tspan><tspan
+							x="4" dy="1.215em" class="st33">  </tspan><tspan class="st33">assertInLoopThread</tspan><tspan
+							class="st25">()</tspan><tspan class="st25">;<v:newlineChar/></tspan><tspan x="4" dy="1.215em"
+							class="st33">  </tspan><tspan class="st33">looping</tspan><tspan class="st33">_ </tspan><tspan
+							class="st25">=</tspan><tspan class="st33"> </tspan><tspan class="st24">true</tspan><tspan class="st25">;<v:newlineChar/></tspan><tspan
+							x="4" dy="1.215em" class="st33">  </tspan><tspan class="st33">quit</tspan><tspan class="st33">_ </tspan><tspan
+							class="st25">=</tspan><tspan class="st33"> </tspan><tspan class="st24">false</tspan><tspan class="st25">;<v:newlineChar/></tspan><tspan
+							x="4" dy="1.215em" class="st33">  </tspan><tspan class="st33">LOG</tspan><tspan class="st33">_</tspan><tspan
+							class="st33">TRACE </tspan><tspan class="st25">&#60;&#60;</tspan><tspan class="st33"> </tspan><tspan
+							class="st65">&#34;</tspan><tspan class="st65">EventLoop </tspan><tspan class="st65">&#34;</tspan><tspan
+							class="st33"> </tspan><tspan class="st25">&#60;&#60;</tspan><tspan class="st33"> </tspan><tspan
+							class="st24">this</tspan><tspan class="st33"> </tspan><tspan class="st25">&#60;&#60;</tspan><tspan
+							class="st33"> </tspan><tspan class="st65">&#34; </tspan><tspan class="st65">start looping</tspan><tspan
+							class="st65">&#34;</tspan><tspan class="st25">;<v:newlineChar/><v:newlineChar/></tspan><tspan x="4"
+							dy="2.416em" class="st33">  </tspan><tspan class="st24">while</tspan><tspan class="st33"> </tspan><tspan
+							class="st25">(!</tspan><tspan class="st33">quit</tspan><tspan class="st33">_</tspan><tspan class="st25">)<v:newlineChar/></tspan><tspan
+							x="4" dy="1.215em" class="st33">  </tspan><tspan class="st25">{<v:newlineChar/></tspan><tspan x="4"
+							dy="1.215em" class="st33">    </tspan><tspan class="st33">activeChannels</tspan><tspan class="st33">_</tspan><tspan
+							class="st25">.</tspan><tspan class="st33">clear</tspan><tspan class="st25">()</tspan><tspan
+							class="st25">;<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st33">    </tspan><tspan
+							class="st33">pollReturnTime</tspan><tspan class="st33">_ </tspan><tspan class="st25">=</tspan><tspan
+							class="st33"> </tspan><tspan class="st33">poller</tspan><tspan class="st33">_</tspan><tspan
+							class="st25">-</tspan><tspan class="st25">&#62;</tspan><tspan class="st33">poll</tspan><tspan
+							class="st25">(</tspan><tspan class="st33">kPollTimeMs</tspan><tspan class="st25">,</tspan><tspan
+							class="st33"> </tspan><tspan class="st25">&#38;</tspan><tspan class="st33">activeChannels</tspan><tspan
+							class="st33">_</tspan><tspan class="st25">)</tspan><tspan class="st25">;<v:newlineChar/></tspan><tspan
+							x="4" dy="1.215em" class="st33">    </tspan><tspan class="st25">++</tspan><tspan class="st33">iteration</tspan><tspan
+							class="st33">_</tspan><tspan class="st25">;<v:newlineChar/></tspan><tspan x="4" dy="1.215em"
+							class="st33">    </tspan><tspan class="st24">if</tspan><tspan class="st33"> </tspan><tspan class="st25">(</tspan><tspan
+							class="st33">Logger</tspan><tspan class="st25">::</tspan><tspan class="st33">logLevel</tspan><tspan
+							class="st25">()</tspan><tspan class="st33"> </tspan><tspan class="st25">&#60;</tspan><tspan
+							class="st25">=</tspan><tspan class="st33"> </tspan><tspan class="st33">Logger</tspan><tspan
+							class="st25">::</tspan><tspan class="st33">TRACE</tspan><tspan class="st25">)<v:newlineChar/></tspan><tspan
+							x="4" dy="1.215em" class="st33">    </tspan><tspan class="st25">{<v:newlineChar/></tspan><tspan x="4"
+							dy="1.215em" class="st33">      </tspan><tspan class="st33">printActiveChannels</tspan><tspan
+							class="st25">()</tspan><tspan class="st25">;<v:newlineChar/></tspan><tspan x="4" dy="1.215em"
+							class="st33">    </tspan><tspan class="st25">}<v:newlineChar/></tspan><tspan x="4" dy="1.204em"
+							class="st33">    </tspan><tspan class="st37">// </tspan><tspan class="st37">TODO sort channel by priority<v:newlineChar/></tspan><tspan
+							x="4" dy="1.212em" class="st33">    </tspan><tspan class="st33">eventHandling</tspan><tspan
+							class="st33">_ </tspan><tspan class="st25">=</tspan><tspan class="st33"> </tspan><tspan class="st24">true</tspan><tspan
+							class="st25">;<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st33">    </tspan><tspan
+							class="st24">for</tspan><tspan class="st33"> </tspan><tspan class="st25">(</tspan><tspan class="st33">ChannelList</tspan><tspan
+							class="st25">::</tspan><tspan class="st33">iterator it </tspan><tspan class="st25">=</tspan><tspan
+							class="st33"> </tspan><tspan class="st33">activeChannels</tspan><tspan class="st33">_</tspan><tspan
+							class="st25">.</tspan><tspan class="st33">begin</tspan><tspan class="st25">()</tspan><tspan
+							class="st25">;<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st33">        </tspan><tspan
+							class="st33">it </tspan><tspan class="st25">!=</tspan><tspan class="st33"> </tspan><tspan class="st33">activeChannels</tspan><tspan
+							class="st33">_</tspan><tspan class="st25">.</tspan><tspan class="st33">end</tspan><tspan class="st25">()</tspan><tspan
+							class="st25">;</tspan><tspan class="st33"> </tspan><tspan class="st25">++</tspan><tspan class="st33">it</tspan><tspan
+							class="st25">)<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st33">    </tspan><tspan
+							class="st25">{<v:newlineChar/></tspan><tspan x="4" dy="1.204em" class="st62">      </tspan><tspan
+							class="st62">currentActiveChannel</tspan><tspan class="st62">_ </tspan><tspan class="st62">= *</tspan><tspan
+							class="st62">it</tspan><tspan class="st62">;<v:newlineChar/></tspan><tspan x="4" dy="1.212em"
+							class="st62">      </tspan><tspan class="st62">currentActiveChannel</tspan><tspan class="st62">_</tspan><tspan
+							class="st62">-</tspan><tspan class="st62">&#62;</tspan><tspan class="st62">handleEvent</tspan><tspan
+							class="st62">(</tspan><tspan class="st62">pollReturnTime</tspan><tspan class="st62">_</tspan><tspan
+							class="st62">)</tspan><tspan class="st62">;<v:newlineChar/></tspan><tspan x="4" dy="1.215em"
+							class="st33">    </tspan><tspan class="st25">}<v:newlineChar/></tspan><tspan x="4" dy="1.215em"
+							class="st33">    </tspan><tspan class="st33">currentActiveChannel</tspan><tspan class="st33">_ </tspan><tspan
+							class="st25">=</tspan><tspan class="st33"> </tspan><tspan class="st24">NULL</tspan><tspan class="st25">;<v:newlineChar/></tspan><tspan
+							x="4" dy="1.215em" class="st33">    </tspan><tspan class="st33">eventHandling</tspan><tspan
+							class="st33">_ </tspan><tspan class="st25">=</tspan><tspan class="st33"> </tspan><tspan class="st24">false</tspan><tspan
+							class="st25">;<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st33">    </tspan><tspan
+							class="st33">doPendingFunctors</tspan><tspan class="st25">()</tspan><tspan class="st25">;<v:newlineChar/></tspan><tspan
+							x="4" dy="1.215em" class="st33">  </tspan><tspan class="st25">}<v:newlineChar/><v:newlineChar/></tspan><tspan
+							x="4" dy="2.416em" class="st33">  </tspan><tspan class="st33">LOG</tspan><tspan class="st33">_</tspan><tspan
+							class="st33">TRACE </tspan><tspan class="st25">&#60;&#60;</tspan><tspan class="st33"> </tspan><tspan
+							class="st65">&#34;</tspan><tspan class="st65">EventLoop </tspan><tspan class="st65">&#34;</tspan><tspan
+							class="st33"> </tspan><tspan class="st25">&#60;&#60;</tspan><tspan class="st33"> </tspan><tspan
+							class="st24">this</tspan><tspan class="st33"> </tspan><tspan class="st25">&#60;&#60;</tspan><tspan
+							class="st33"> </tspan><tspan class="st65">&#34; </tspan><tspan class="st65">stop looping</tspan><tspan
+							class="st65">&#34;</tspan><tspan class="st25">;<v:newlineChar/></tspan><tspan x="4" dy="1.215em"
+							class="st33">  </tspan><tspan class="st33">looping</tspan><tspan class="st33">_ </tspan><tspan
+							class="st25">=</tspan><tspan class="st33"> </tspan><tspan class="st24">false</tspan><tspan class="st25">;<v:newlineChar/></tspan><tspan
+							x="4" dy="1.384em" class="st25">}</tspan></text>			</g>
+			<g id="shape69-1987" v:mID="69" v:groupContext="shape" transform="translate(1816.87,0)">
+				<title>工作表.69</title>
+				<desc>// 取出跨线程调用的函数并执行这是在EventLoop循环所处线程中调用的 void EventLoop::doPend...</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="148.551" cy="1485.78" width="297.11" height="324"/>
+				<rect x="0" y="1323.78" width="297.102" height="324" class="st1"/>
+				<text x="4" y="1341.03" class="st68" v:langID="2052"><v:paragraph v:bulletSize="0.166667"/><v:tabList/>// <tspan
+							class="st69">取出跨线程调用的函数</tspan><tspan class="st69">，</tspan><tspan class="st69">并执行</tspan><tspan
+							class="st69">，</tspan><tspan class="st69">这是在</tspan>EventLoop<tspan class="st69">循环所处线程中调用的<v:newlineChar/></tspan><tspan
+							x="4" dy="1.177em" class="st70" v:langID="1033">void</tspan><tspan class="st71" v:langID="1033"> </tspan><tspan
+							class="st71" v:langID="1033">EventLoop</tspan><tspan class="st72" v:langID="1033">::</tspan><tspan
+							class="st71" v:langID="1033">doPendingFunctors</tspan><tspan class="st72" v:langID="1033">()<v:newlineChar/></tspan><tspan
+							x="4" dy="1.215em" class="st72" v:langID="1033">{<v:newlineChar/></tspan><tspan x="4" dy="1.215em"
+							class="st71" v:langID="1033">  </tspan><tspan class="st71" v:langID="1033">std</tspan><tspan
+							class="st72" v:langID="1033">::</tspan><tspan class="st71" v:langID="1033">vector</tspan><tspan
+							class="st72" v:langID="1033">&#60;</tspan><tspan class="st71" v:langID="1033">Functor</tspan><tspan
+							class="st72" v:langID="1033">&#62;</tspan><tspan class="st71" v:langID="1033"> </tspan><tspan
+							class="st71" v:langID="1033">functors</tspan><tspan class="st72" v:langID="1033">;<v:newlineChar/></tspan><tspan
+							x="4" dy="1.215em" class="st71" v:langID="1033">  </tspan><tspan class="st71" v:langID="1033">callingPendingFunctors</tspan><tspan
+							class="st71" v:langID="1033">_ </tspan><tspan class="st72" v:langID="1033">=</tspan><tspan class="st71"
+							v:langID="1033"> </tspan><tspan class="st73" v:langID="1033">true</tspan><tspan class="st72"
+							v:langID="1033">;<v:newlineChar/><v:newlineChar/></tspan><tspan x="4" dy="2.415em" class="st71"
+							v:langID="1033">  </tspan><tspan class="st72" v:langID="1033">{<v:newlineChar/></tspan><tspan x="4"
+							dy="1.215em" class="st71" v:langID="1033">  </tspan><tspan class="st71" v:langID="1033">MutexLockGuard lock</tspan><tspan
+							class="st72" v:langID="1033">(</tspan><tspan class="st71" v:langID="1033">mutex</tspan><tspan
+							class="st71" v:langID="1033">_</tspan><tspan class="st72" v:langID="1033">)</tspan><tspan class="st72"
+							v:langID="1033">;<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st71" v:langID="1033">  </tspan><tspan
+							class="st71" v:langID="1033">functors</tspan><tspan class="st72" v:langID="1033">.</tspan><tspan
+							class="st71" v:langID="1033">swap</tspan><tspan class="st72" v:langID="1033">(</tspan><tspan
+							class="st71" v:langID="1033">pendingFunctors</tspan><tspan class="st71" v:langID="1033">_</tspan><tspan
+							class="st72" v:langID="1033">)</tspan><tspan class="st72" v:langID="1033">;<v:newlineChar/></tspan><tspan
+							x="4" dy="1.215em" class="st71" v:langID="1033">  </tspan><tspan class="st72" v:langID="1033">}<v:newlineChar/><v:newlineChar/></tspan><tspan
+							x="4" dy="2.415em" class="st71" v:langID="1033">  </tspan><tspan class="st73" v:langID="1033">for</tspan><tspan
+							class="st71" v:langID="1033"> </tspan><tspan class="st72" v:langID="1033">(</tspan><tspan class="st70"
+							v:langID="1033">size</tspan><tspan class="st70" v:langID="1033">_</tspan><tspan class="st70"
+							v:langID="1033">t</tspan><tspan class="st71" v:langID="1033"> </tspan><tspan class="st71"
+							v:langID="1033">i </tspan><tspan class="st72" v:langID="1033">=</tspan><tspan class="st71"
+							v:langID="1033"> </tspan><tspan class="st74" v:langID="1033">0</tspan><tspan class="st72"
+							v:langID="1033">;</tspan><tspan class="st71" v:langID="1033"> </tspan><tspan class="st71"
+							v:langID="1033">i </tspan><tspan class="st72" v:langID="1033">&#60;</tspan><tspan class="st71"
+							v:langID="1033"> </tspan><tspan class="st71" v:langID="1033">functors</tspan><tspan class="st72"
+							v:langID="1033">.</tspan><tspan class="st71" v:langID="1033">size</tspan><tspan class="st72"
+							v:langID="1033">()</tspan><tspan class="st72" v:langID="1033">;</tspan><tspan class="st71"
+							v:langID="1033"> </tspan><tspan class="st72" v:langID="1033">++</tspan><tspan class="st71"
+							v:langID="1033">i</tspan><tspan class="st72" v:langID="1033">)<v:newlineChar/></tspan><tspan x="4"
+							dy="1.215em" class="st71" v:langID="1033">  </tspan><tspan class="st72" v:langID="1033">{<v:newlineChar/></tspan><tspan
+							x="4" dy="1.215em" class="st71" v:langID="1033">    </tspan><tspan class="st75" v:langID="1033">functors</tspan><tspan
+							class="st27" v:langID="1033">[</tspan><tspan class="st75" v:langID="1033">i</tspan><tspan class="st27"
+							v:langID="1033">]()</tspan><tspan class="st27" v:langID="1033">;<v:newlineChar/></tspan><tspan x="4"
+							dy="1.215em" class="st71" v:langID="1033">  </tspan><tspan class="st72" v:langID="1033">}<v:newlineChar/></tspan><tspan
+							x="4" dy="1.215em" class="st71" v:langID="1033">  </tspan><tspan class="st71" v:langID="1033">callingPendingFunctors</tspan><tspan
+							class="st71" v:langID="1033">_ </tspan><tspan class="st72" v:langID="1033">=</tspan><tspan class="st71"
+							v:langID="1033"> </tspan><tspan class="st73" v:langID="1033">false</tspan><tspan class="st72"
+							v:langID="1033">;<v:newlineChar/></tspan><tspan x="4" dy="1.204em" class="st72" v:langID="1033">}<v:newlineChar/><v:newlineChar/><v:paragraph
+								v:bulletSize="0.166667"/></tspan><tspan x="4" dy="2.35em" class="st76">到了这一步就可以看到</tspan><tspan
+							class="st76">wakeupFd</tspan><tspan class="st76">_</tspan><tspan class="st76">的作用了</tspan><tspan
+							class="st76">，</tspan><tspan class="st76">只要是跨</tspan><tspan x="4" dy="1.2em" class="st76">线程调用</tspan><tspan
+							class="st76">，</tspan><tspan class="st76">那么</tspan><tspan class="st76">wakeupFd</tspan><tspan
+							class="st76">_</tspan><tspan class="st76">就会发生可读时间从而让</tspan><tspan x="4" dy="1.2em" class="st76">epoll</tspan><tspan
+							class="st76">/</tspan><tspan class="st76">poll</tspan><tspan class="st76">捕获这个事件</tspan><tspan
+							class="st76">，</tspan><tspan class="st76">然后到后面执行</tspan><tspan x="4" dy="1.2em" class="st76">doPendingFunctors</tspan><tspan
+							class="st76">()</tspan><tspan class="st76">函数</tspan><tspan class="st76">，</tspan><tspan class="st76">但是</tspan><tspan
+							x="4" dy="1.2em" class="st76">EventLoop</tspan><tspan class="st76">::</tspan><tspan class="st76">handleRead</tspan><tspan
+							class="st76">()</tspan><tspan class="st76">也是必须要执行的</tspan><tspan class="st76">，</tspan><tspan
+							class="st76">必须将</tspan><tspan x="4" dy="1.2em" class="st76">该</tspan><tspan class="st76">wakeupFd</tspan><tspan
+							class="st76">_</tspan><tspan class="st76">读取</tspan><tspan class="st76">，</tspan><tspan class="st76">否则该事件将会一直被触发</tspan></text>			</g>
+			<g id="shape71-2120" v:mID="71" v:groupContext="shape" transform="translate(2233.77,-687.402)">
+				<title>工作表.71</title>
+				<desc>void Channel::handleEvent(Timestamp receiveTime) { boost::sha...</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="142.894" cy="1532.57" width="285.79" height="230.417"/>
+				<rect x="0" y="1417.36" width="285.787" height="230.417" class="st1"/>
+				<text x="4" y="1437.25" class="st32" v:langID="1033"><v:paragraph v:bulletSize="0.166667"/><v:tabList/>void<tspan
+							class="st33"> </tspan><tspan class="st33">Channel</tspan><tspan class="st25">::</tspan><tspan
+							class="st33">handleEvent</tspan><tspan class="st25">(</tspan><tspan class="st33">Timestamp </tspan><tspan
+							x="4" dy="1.215em" class="st33">receiveTime</tspan><tspan class="st25">)<v:newlineChar/></tspan><tspan
+							x="4" dy="1.215em" class="st25">{<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st33">  </tspan><tspan
+							class="st33">boost</tspan><tspan class="st25">::</tspan><tspan class="st33">shared</tspan><tspan
+							class="st33">_</tspan><tspan class="st33">ptr</tspan><tspan class="st25">&#60;</tspan>void<tspan
+							class="st25">&#62;</tspan><tspan class="st33"> </tspan><tspan class="st33">guard</tspan><tspan
+							class="st25">;<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st33">  </tspan><tspan
+							class="st24">if</tspan><tspan class="st33"> </tspan><tspan class="st25">(</tspan><tspan class="st33">tied</tspan><tspan
+							class="st33">_</tspan><tspan class="st25">)<v:newlineChar/></tspan><tspan x="4" dy="1.215em"
+							class="st33">  </tspan><tspan class="st25">{<v:newlineChar/></tspan><tspan x="4" dy="1.215em"
+							class="st33">    </tspan><tspan class="st33">guard </tspan><tspan class="st25">=</tspan><tspan
+							class="st33"> </tspan><tspan class="st33">tie</tspan><tspan class="st33">_</tspan><tspan class="st25">.</tspan><tspan
+							class="st33">lock</tspan><tspan class="st25">()</tspan><tspan class="st25">;<v:newlineChar/></tspan><tspan
+							x="4" dy="1.215em" class="st33">    </tspan><tspan class="st24">if</tspan><tspan class="st33"> </tspan><tspan
+							class="st25">(</tspan><tspan class="st33">guard</tspan><tspan class="st25">)<v:newlineChar/></tspan><tspan
+							x="4" dy="1.215em" class="st33">    </tspan><tspan class="st25">{<v:newlineChar/></tspan><tspan x="4"
+							dy="1.215em" class="st33">      </tspan><tspan class="st33">handleEventWithGuard</tspan><tspan
+							class="st25">(</tspan><tspan class="st33">receiveTime</tspan><tspan class="st25">)</tspan><tspan
+							class="st25">;<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st33">    </tspan><tspan
+							class="st25">}<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st33">  </tspan><tspan
+							class="st25">}<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st33">  </tspan><tspan
+							class="st24">else<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st33">  </tspan><tspan
+							class="st25">{ </tspan><tspan x="4" dy="1.215em" class="st33">   </tspan><tspan class="st62"> </tspan><tspan
+							class="st62">handleEventWithGuard</tspan><tspan class="st62">(</tspan><tspan class="st62">receiveTime</tspan><tspan
+							class="st62">)</tspan><tspan class="st62">;<v:newlineChar/></tspan><tspan x="4" dy="1.215em"
+							class="st33">  </tspan><tspan class="st25">}<v:newlineChar/></tspan><tspan x="4" dy="1.384em"
+							class="st25">}</tspan></text>			</g>
+			<g id="shape73-2194" v:mID="73" v:groupContext="shape" transform="translate(2242.06,-283.465)">
+				<title>工作表.73</title>
+				<desc>void Channel::handleEventWithGuard(Timestamp receiveTime) { e...</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="188.642" cy="1449.01" width="377.29" height="397.543"/>
+				<rect x="0" y="1250.24" width="377.283" height="397.543" class="st1"/>
+				<text x="4" y="1262.91" class="st32" v:langID="1033"><v:paragraph v:bulletSize="0.166667"/><v:tabList/>void<tspan
+							class="st33"> </tspan><tspan class="st33">Channel</tspan><tspan class="st25">::</tspan><tspan
+							class="st33">handleEventWithGuard</tspan><tspan class="st25">(</tspan><tspan class="st33">Timestamp receiveTime</tspan><tspan
+							class="st25">)<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st25">{<v:newlineChar/></tspan><tspan
+							x="4" dy="1.215em" class="st33">  </tspan><tspan class="st33">eventHandling</tspan><tspan class="st33">_ </tspan><tspan
+							class="st25">=</tspan><tspan class="st33"> </tspan><tspan class="st24">true</tspan><tspan class="st25">;<v:newlineChar/></tspan><tspan
+							x="4" dy="1.215em" class="st33">  </tspan><tspan class="st24">if</tspan><tspan class="st33"> </tspan><tspan
+							class="st25">((</tspan><tspan class="st33">revents</tspan><tspan class="st33">_ </tspan><tspan
+							class="st25">&#38;</tspan><tspan class="st33"> </tspan><tspan class="st33">POLLHUP</tspan><tspan
+							class="st25">)</tspan><tspan class="st33"> </tspan><tspan class="st25">&#38;&#38;</tspan><tspan
+							class="st33"> </tspan><tspan class="st25">!(</tspan><tspan class="st33">revents</tspan><tspan
+							class="st33">_ </tspan><tspan class="st25">&#38;</tspan><tspan class="st33"> </tspan><tspan
+							class="st33">POLLIN</tspan><tspan class="st25">))<v:newlineChar/></tspan><tspan x="4" dy="1.215em"
+							class="st33">  </tspan><tspan class="st25">{<v:newlineChar/></tspan><tspan x="4" dy="1.215em"
+							class="st33">    </tspan><tspan class="st24">if</tspan><tspan class="st33"> </tspan><tspan class="st25">(</tspan><tspan
+							class="st33">logHup</tspan><tspan class="st33">_</tspan><tspan class="st25">)<v:newlineChar/></tspan><tspan
+							x="4" dy="1.215em" class="st33">    </tspan><tspan class="st25">{<v:newlineChar/></tspan><tspan x="4"
+							dy="1.215em" class="st33">      </tspan><tspan class="st33">LOG</tspan><tspan class="st33">_</tspan><tspan
+							class="st33">WARN </tspan><tspan class="st25">&#60;&#60;</tspan><tspan class="st33"> </tspan><tspan
+							class="st65">&#34;</tspan><tspan class="st65">Channel</tspan><tspan class="st65">::</tspan><tspan
+							class="st65">handle</tspan><tspan class="st65">_</tspan><tspan class="st65">event</tspan><tspan
+							class="st65">() </tspan><tspan class="st65">POLLHUP</tspan><tspan class="st65">&#34;</tspan><tspan
+							class="st25">;<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st33">    </tspan><tspan
+							class="st25">}<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st33">    </tspan><tspan
+							class="st24">if</tspan><tspan class="st33"> </tspan><tspan class="st25">(</tspan><tspan class="st33">closeCallback</tspan><tspan
+							class="st33">_</tspan><tspan class="st25">)</tspan><tspan class="st33"> </tspan><tspan class="st33">closeCallback</tspan><tspan
+							class="st33">_</tspan><tspan class="st25">()</tspan><tspan class="st25">;<v:newlineChar/></tspan><tspan
+							x="4" dy="1.215em" class="st33">  </tspan><tspan class="st25">}<v:newlineChar/><v:newlineChar/></tspan><tspan
+							x="4" dy="2.415em" class="st33">  </tspan><tspan class="st24">if</tspan><tspan class="st33"> </tspan><tspan
+							class="st25">(</tspan><tspan class="st33">revents</tspan><tspan class="st33">_ </tspan><tspan
+							class="st25">&#38;</tspan><tspan class="st33"> </tspan><tspan class="st33">POLLNVAL</tspan><tspan
+							class="st25">)<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st33">  </tspan><tspan
+							class="st25">{<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st33">    </tspan><tspan
+							class="st33">LOG</tspan><tspan class="st33">_</tspan><tspan class="st33">WARN </tspan><tspan
+							class="st25">&#60;&#60;</tspan><tspan class="st33"> </tspan><tspan class="st65">&#34;</tspan><tspan
+							class="st65">Channel</tspan><tspan class="st65">::</tspan><tspan class="st65">handle</tspan><tspan
+							class="st65">_</tspan><tspan class="st65">event</tspan><tspan class="st65">() </tspan><tspan
+							class="st65">POLLNVAL</tspan><tspan class="st65">&#34;</tspan><tspan class="st25">;<v:newlineChar/></tspan><tspan
+							x="4" dy="1.215em" class="st33">  </tspan><tspan class="st25">}<v:newlineChar/><v:newlineChar/></tspan><tspan
+							x="4" dy="2.415em" class="st33">  </tspan><tspan class="st24">if</tspan><tspan class="st33"> </tspan><tspan
+							class="st25">(</tspan><tspan class="st33">revents</tspan><tspan class="st33">_ </tspan><tspan
+							class="st25">&#38;</tspan><tspan class="st33"> </tspan><tspan class="st25">(</tspan><tspan class="st33">POLLERR </tspan><tspan
+							class="st25">|</tspan><tspan class="st33"> </tspan><tspan class="st33">POLLNVAL</tspan><tspan
+							class="st25">))<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st33">  </tspan><tspan
+							class="st25">{<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st33">    </tspan><tspan
+							class="st24">if</tspan><tspan class="st33"> </tspan><tspan class="st25">(</tspan><tspan class="st33">errorCallback</tspan><tspan
+							class="st33">_</tspan><tspan class="st25">)</tspan><tspan class="st33"> </tspan><tspan class="st33">errorCallback</tspan><tspan
+							class="st33">_</tspan><tspan class="st25">()</tspan><tspan class="st25">;<v:newlineChar/></tspan><tspan
+							x="4" dy="1.215em" class="st33">  </tspan><tspan class="st25">}<v:newlineChar/></tspan><tspan x="4"
+							dy="1.204em" class="st62">  </tspan><tspan class="st62">if </tspan><tspan class="st62">(</tspan><tspan
+							class="st62">revents</tspan><tspan class="st62">_ &#38; </tspan><tspan class="st62">(</tspan><tspan
+							class="st62">POLLIN </tspan><tspan class="st62">| </tspan><tspan class="st62">POLLPRI </tspan><tspan
+							class="st62">| </tspan><tspan class="st62">POLLRDHUP</tspan><tspan class="st62">))<v:newlineChar/></tspan><tspan
+							x="4" dy="1.2em" class="st62">  </tspan><tspan class="st62">{<v:newlineChar/></tspan><tspan x="4"
+							dy="1.2em" class="st62">    </tspan><tspan class="st62">if </tspan><tspan class="st62">(</tspan><tspan
+							class="st62">readCallback</tspan><tspan class="st62">_</tspan><tspan class="st62">) </tspan><tspan
+							class="st62">readCallback</tspan><tspan class="st62">_</tspan><tspan class="st62">(</tspan><tspan
+							class="st62">receiveTime</tspan><tspan class="st62">)</tspan><tspan class="st62">;<v:newlineChar/></tspan><tspan
+							x="4" dy="1.212em" class="st62">  </tspan><tspan class="st62">}<v:newlineChar/></tspan><tspan x="4"
+							dy="1.215em" class="st33">  </tspan><tspan class="st24">if</tspan><tspan class="st33"> </tspan><tspan
+							class="st25">(</tspan><tspan class="st33">revents</tspan><tspan class="st33">_ </tspan><tspan
+							class="st25">&#38;</tspan><tspan class="st33"> </tspan><tspan class="st33">POLLOUT</tspan><tspan
+							class="st25">)<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st33">  </tspan><tspan
+							class="st25">{<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st33">    </tspan><tspan
+							class="st24">if</tspan><tspan class="st33"> </tspan><tspan class="st25">(</tspan><tspan class="st33">writeCallback</tspan><tspan
+							class="st33">_</tspan><tspan class="st25">)</tspan><tspan class="st33"> </tspan><tspan class="st33">writeCallback</tspan><tspan
+							class="st33">_</tspan><tspan class="st25">()</tspan><tspan class="st25">;<v:newlineChar/></tspan><tspan
+							x="4" dy="1.215em" class="st33">  </tspan><tspan class="st25">}<v:newlineChar/></tspan><tspan x="4"
+							dy="1.215em" class="st33">  </tspan><tspan class="st33">eventHandling</tspan><tspan class="st33">_ </tspan><tspan
+							class="st25">=</tspan><tspan class="st33"> </tspan><tspan class="st24">false</tspan><tspan class="st25">;<v:newlineChar/></tspan><tspan
+							x="4" dy="1.215em" class="st25">}</tspan><v:newlineChar/></text>			</g>
+			<g id="shape76-2397" v:mID="76" v:groupContext="shape" v:layerMember="0" transform="translate(2233.77,-907.087)">
+				<title>动态连接线.76</title>
+				<path d="M0 1647.78 L0 2101.32 L-76.75 2101.32" class="st41"/>
+			</g>
+			<g id="shape78-2402" v:mID="78" v:groupContext="shape" v:layerMember="0" transform="translate(2539.7,-681.008)">
+				<title>动态连接线.78</title>
+				<path d="M0 1647.78 L0 1591.78 L-70.87 1591.78" class="st77"/>
+			</g>
+			<g id="shape79-2407" v:mID="79" v:groupContext="shape" v:layerMember="0" transform="translate(2542.54,-411.024)">
+				<title>动态连接线.79</title>
+				<path d="M0 1647.78 L0 1789.51 L-87.87 1789.51" class="st77"/>
+			</g>
+			<g id="shape82-2412" v:mID="82" v:groupContext="shape" v:layerMember="0" transform="translate(1816.87,-297.638)">
+				<title>动态连接线.82</title>
+				<path d="M0 1647.78 L0 1542.9 L17.57 1542.9" class="st77"/>
+			</g>
+			<g id="shape83-2417" v:mID="83" v:groupContext="shape" transform="translate(532.772,-907.087)">
+				<title>工作表.83</title>
+				<desc>3、异步调用runAfter // runAfter内部也调用了runInLoop所以这里也是异步调用 loop-&#62;run...</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="174.331" cy="1617.27" width="348.67" height="61.0236"/>
+				<rect x="0" y="1586.76" width="348.661" height="61.0236" class="st1"/>
+				<text x="122.8" y="1601.92" class="st78" v:langID="2052"><v:paragraph v:horizAlign="1" v:bulletSize="0.166667"/><v:tabList/>3<tspan
+							class="st16">、</tspan><tspan class="st16">异步调用</tspan><tspan class="st69">runAfter<v:newlineChar/><v:paragraph
+								v:bulletSize="0.166667"/></tspan><tspan x="4" dy="1.297em" class="st10" v:langID="1033">// </tspan><tspan
+							class="st10" v:langID="1033">runAfter</tspan><tspan class="st11" v:langID="1033">内部也调用了</tspan><tspan
+							class="st10" v:langID="1033">runInLoop</tspan><tspan class="st11" v:langID="1033">，</tspan><tspan
+							class="st11" v:langID="1033">所以这里也是异步调用<v:newlineChar/></tspan><tspan x="4" dy="1.212em" class="st6"
+							v:langID="1033">loop</tspan><tspan class="st7" v:langID="1033">-</tspan><tspan class="st7"
+							v:langID="1033">&#62;</tspan><tspan class="st6" v:langID="1033">runAfter</tspan><tspan class="st7"
+							v:langID="1033">(</tspan><tspan class="st12" v:langID="1033">2</tspan><tspan class="st7"
+							v:langID="1033">,</tspan><tspan class="st6" v:langID="1033"> </tspan><tspan class="st6" v:langID="1033">runInThread</tspan><tspan
+							class="st7" v:langID="1033">)</tspan><tspan class="st7" v:langID="1033">;<v:newlineChar/></tspan><tspan
+							x="4" dy="1.384em" class="st6" v:langID="1033">sleep</tspan><tspan class="st7" v:langID="1033">(</tspan><tspan
+							class="st12" v:langID="1033">3</tspan><tspan class="st7" v:langID="1033">)</tspan><tspan class="st7"
+							v:langID="1033">;</tspan></text>			</g>
+			<g id="shape89-2445" v:mID="89" v:groupContext="shape" v:layerMember="0" transform="translate(952.299,-765.354)">
+				<title>动态连接线.89</title>
+				<path d="M0 1647.78 L0 1415.34 L-283.46 1415.34" class="st43"/>
+			</g>
+			<g id="shape90-2452" v:mID="90" v:groupContext="shape" transform="translate(787.244,-510.236)">
+				<title>工作表.90</title>
+				<desc>TimerId EventLoop::runAfter(double delay, const TimerCallback...</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="203" cy="1613.18" width="406.01" height="69.1969"/>
+				<rect x="0" y="1578.58" width="406" height="69.1969" class="st1"/>
+				<text x="4" y="1590.79" class="st38" v:langID="1033"><v:paragraph v:bulletSize="0.166667"/><v:tabList/>TimerId EventLoop<tspan
+							class="st25">::</tspan>runAfter<tspan class="st25">(</tspan><tspan class="st26">double</tspan> delay<tspan
+							class="st25">,</tspan> <tspan class="st26">const</tspan> TimerCallback<tspan class="st25">&#38;</tspan> cb<tspan
+							class="st25">)<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st25">{<v:newlineChar/></tspan><tspan
+							x="4" dy="1.215em" class="st19">  </tspan>Timestamp time<tspan class="st25">(</tspan>addTime<tspan
+							class="st25">(</tspan>Timestamp<tspan class="st25">::</tspan>now<tspan class="st25">()</tspan><tspan
+							class="st25">,</tspan> delay<tspan class="st25">))</tspan><tspan class="st25">;<v:newlineChar/></tspan><tspan
+							x="4" dy="1.215em" class="st19">  </tspan><tspan class="st24">return</tspan> <tspan class="st62">runAt</tspan><tspan
+							class="st62">(</tspan><tspan class="st62">time</tspan><tspan class="st62">, </tspan><tspan class="st62">cb</tspan><tspan
+							class="st62">)</tspan><tspan class="st62">;<v:newlineChar/></tspan><tspan x="4" dy="1.384em"
+							class="st25">}</tspan></text>			</g>
+			<g id="shape92-2481" v:mID="92" v:groupContext="shape" transform="translate(794.976,-439.37)">
+				<title>工作表.92</title>
+				<desc>TimerId EventLoop::runAt(const Timestamp&#38; time, const TimerCa...</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="220.394" cy="1619.35" width="440.79" height="56.8504"/>
+				<rect x="0" y="1590.93" width="440.787" height="56.8504" class="st1"/>
+				<text x="4" y="1603.04" class="st38" v:langID="1033"><v:paragraph v:bulletSize="0.166667"/><v:tabList/>TimerId <tspan
+							class="st62">EventLoop</tspan><tspan class="st62">::</tspan><tspan class="st62">runAt</tspan><tspan
+							class="st25">(</tspan><tspan class="st26">const</tspan> Timestamp<tspan class="st25">&#38;</tspan> time<tspan
+							class="st25">,</tspan> <tspan class="st26">const</tspan> TimerCallback<tspan class="st25">&#38;</tspan> cb<tspan
+							class="st25">)<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st25">{<v:newlineChar/></tspan><tspan
+							x="4" dy="1.215em" class="st19">  </tspan><tspan class="st24">return</tspan> timerQueue_<tspan
+							class="st25">-</tspan><tspan class="st25">&#62;</tspan>addTimer<tspan class="st25">(</tspan>cb<tspan
+							class="st25">,</tspan> time<tspan class="st25">,</tspan> <tspan class="st64">0</tspan><tspan
+							class="st64">.</tspan><tspan class="st64">0</tspan><tspan class="st25">)</tspan><tspan class="st25">;<v:newlineChar/></tspan><tspan
+							x="4" dy="1.384em" class="st25">}</tspan></text>			</g>
+			<g id="shape95-2508" v:mID="95" v:groupContext="shape" transform="translate(773.441,-311.811)">
+				<title>工作表.95</title>
+				<desc>TimerId TimerQueue::addTimer(const TimerCallback&#38; cb, Timesta...</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="188.642" cy="1584.63" width="377.29" height="126.299"/>
+				<rect x="0" y="1521.48" width="377.283" height="126.299" class="st1"/>
+				<text x="4" y="1537.93" class="st38" v:langID="1033"><v:paragraph v:bulletSize="0.166667"/><v:tabList/>TimerId TimerQueue<tspan
+							class="st25">::</tspan>addTimer<tspan class="st25">(</tspan><tspan class="st26">const</tspan> TimerCallback<tspan
+							class="st25">&#38;</tspan> cb<tspan class="st25">,<v:newlineChar/></tspan><tspan x="4" dy="1.215em"
+							class="st19">                             </tspan>Timestamp when<tspan class="st25">,<v:newlineChar/></tspan><tspan
+							x="4" dy="1.215em" class="st19">                             </tspan><tspan class="st26">double</tspan> interval<tspan
+							class="st25">)<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st25">{<v:newlineChar/></tspan><tspan
+							x="4" dy="1.215em" class="st19">  </tspan>Timer<tspan class="st25">*</tspan> timer <tspan class="st25">=</tspan> <tspan
+							class="st24">new</tspan> Timer<tspan class="st25">(</tspan>cb<tspan class="st25">,</tspan> when<tspan
+							class="st25">,</tspan> interval<tspan class="st25">)</tspan><tspan class="st25">;<v:newlineChar/></tspan><tspan
+							x="4" dy="1.215em" class="st19">  </tspan><tspan class="st62">loop</tspan><tspan class="st62">_</tspan><tspan
+							class="st62">-</tspan><tspan class="st62">&#62;</tspan><tspan class="st62">runInLoop</tspan><tspan
+							class="st62">(<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st62">      </tspan><tspan
+							class="st62">boost</tspan><tspan class="st62">::</tspan><tspan class="st62">bind</tspan><tspan
+							class="st62">(</tspan><tspan class="st62">&#38;</tspan><tspan class="st62">TimerQueue</tspan><tspan
+							class="st62">::</tspan><tspan class="st62">addTimerInLoop</tspan><tspan class="st62">, </tspan><tspan
+							class="st62">this</tspan><tspan class="st62">, </tspan><tspan class="st62">timer</tspan><tspan
+							class="st62">))</tspan><tspan class="st62">;<v:newlineChar/></tspan><tspan x="4" dy="1.215em"
+							class="st19">  </tspan><tspan class="st24">return</tspan> TimerId<tspan class="st25">(</tspan>timer<tspan
+							class="st25">,</tspan> timer<tspan class="st25">-</tspan><tspan class="st25">&#62;</tspan>sequence<tspan
+							class="st25">())</tspan><tspan class="st25">;<v:newlineChar/></tspan><tspan x="4" dy="1.384em"
+							class="st25">}</tspan></text>			</g>
+			<g id="shape98-2562" v:mID="98" v:groupContext="shape" v:layerMember="0" transform="translate(955.134,-496.22)">
+				<title>动态连接线.98</title>
+				<path d="M-2.83 1647.78 L-2.83 1611.09 L-11.34 1611.09" class="st41"/>
+			</g>
+			<g id="shape100-2567" v:mID="100" v:groupContext="shape" v:layerMember="0" transform="translate(1088.79,-438.11)">
+				<title>动态连接线.100</title>
+				<path d="M-1.84 1647.78 L-1.84 1622.43 L-12.33 1622.43" class="st41"/>
+			</g>
+			<g id="shape101-2572" v:mID="101" v:groupContext="shape" v:layerMember="0" transform="translate(773.441,-368.504)">
+				<title>动态连接线.101</title>
+				<path d="M0 1647.78 L0 1250.93 L170.92 1250.93" class="st77"/>
+			</g>
+			<g id="shape102-2577" v:mID="102" v:groupContext="shape" transform="translate(565.465,-854.15)">
+				<title>工作表.102</title>
+				<desc>4、loop退出 loop-&#62;quit(); printf(&#34;exit main().\n&#34;);</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="125.606" cy="1617.27" width="251.22" height="61.0236"/>
+				<rect x="0" y="1586.76" width="251.213" height="61.0236" class="st1"/>
+				<text x="92.42" y="1607.59" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1" v:bulletSize="0.166667"/><v:tabList/>4、loop退出<v:newlineChar/><v:paragraph
+							v:bulletSize="0.166667"/><tspan x="4" dy="1.272em" class="st6" v:langID="1033">loop</tspan><tspan
+							class="st7" v:langID="1033">-</tspan><tspan class="st7" v:langID="1033">&#62;</tspan><tspan class="st6"
+							v:langID="1033">quit</tspan><tspan class="st7" v:langID="1033">()</tspan><tspan class="st7"
+							v:langID="1033">;<v:newlineChar/></tspan><tspan x="4" dy="1.384em" class="st6" v:langID="1033">printf</tspan><tspan
+							class="st7" v:langID="1033">(</tspan><tspan class="st9" v:langID="1033">&#34;</tspan><tspan class="st9"
+							v:langID="1033">exit main</tspan><tspan class="st9" v:langID="1033">().</tspan><tspan class="st9"
+							v:langID="1033">\</tspan><tspan class="st9" v:langID="1033">n</tspan><tspan class="st9" v:langID="1033">&#34;</tspan><tspan
+							class="st7" v:langID="1033">)</tspan><tspan class="st7" v:langID="1033">;</tspan></text>			</g>
+			<g id="shape106-2596" v:mID="106" v:groupContext="shape" transform="translate(94.7064,-85.0394)">
+				<title>工作表.106</title>
+				<desc>5、总结 1EventLoopThread在调用startLoop()会在EventLoopThread对象的内部开启一个...</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+				<v:textRect cx="244.544" cy="1584.63" width="489.09" height="126.299"/>
+				<rect x="0" y="1521.48" width="489.089" height="126.299" class="st1"/>
+				<text x="223.45" y="1536.28" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>5、总结<v:newlineChar/><v:paragraph/><tspan
+							x="4" dy="1.297em" class="st19">（</tspan>1）<tspan class="st54" v:langID="1033">EventLoopThread</tspan><tspan
+							class="st3">在调用</tspan><tspan class="st54">startLoop</tspan><tspan class="st54">()</tspan><tspan
+							class="st33">会在</tspan><tspan class="st54" v:langID="1033">EventLoopThread</tspan><tspan class="st3">对象的内部开启</tspan><tspan
+							x="4" dy="1.241em" class="st3">一个线程</tspan><tspan class="st3">，</tspan><tspan class="st3">该线程执行函数中会创建一个</tspan><tspan
+							class="st54">EventLoop</tspan><tspan class="st3">对象</tspan><tspan class="st3">，</tspan><tspan
+							class="st3">并且会启动</tspan><tspan class="st54">loop</tspan><tspan class="st54">()</tspan><tspan
+							class="st3">事件循环</tspan><tspan class="st3">，</tspan><tspan x="4" dy="1.3em" class="st3">调用</tspan><tspan
+							class="st54">startLoop</tspan><tspan class="st54">()</tspan><tspan class="st33">会返回这个</tspan><tspan
+							class="st54">EventLoop</tspan><tspan class="st33">对象</tspan><tspan class="st33">。<v:newlineChar/></tspan><tspan
+							x="4" dy="1.329em" class="st16">（</tspan><tspan class="st17">2</tspan><tspan class="st16">）</tspan><tspan
+							class="st33">如果是跨线程调用了</tspan><tspan class="st54">EventLoop</tspan><tspan class="st33">对象</tspan><tspan
+							class="st33">，</tspan><tspan class="st33">那么只要调用</tspan><tspan class="st54">runInLoop</tspan><tspan
+							class="st33">即可将需要跨线程</tspan><tspan x="4" dy="1.329em" class="st33">执行的函数放到</tspan><tspan class="st54">EventLoop</tspan><tspan
+							class="st33">对象的</tspan><tspan class="st54">pendingFunctors</tspan><tspan class="st54">_</tspan><tspan
+							class="st33">集合中</tspan><tspan class="st33">，</tspan><tspan class="st33">并且通过</tspan><tspan
+							class="st54">wakeupFd</tspan><tspan class="st54">_</tspan><tspan class="st33">来</tspan><tspan x="4"
+							dy="1.329em" class="st33">让告知</tspan><tspan class="st54">poll</tspan><tspan class="st54">/</tspan><tspan
+							class="st54">epoll</tspan><tspan class="st33">，</tspan><tspan class="st33">然后在</tspan><tspan
+							class="st54">EventLoop</tspan><tspan class="st54">::</tspan><tspan class="st54">doPendingFunctors</tspan><tspan
+							class="st54">()</tspan><tspan class="st33">中取出这些跨线程调</tspan><tspan x="4" dy="1.308em" class="st33">用的函数</tspan><tspan
+							class="st33">，</tspan><tspan class="st33">或者叫挂起的函数</tspan><tspan class="st33">，</tspan><tspan
+							class="st33">一一执行</tspan><tspan class="st33">。</tspan></text>			</g>
+		</g>
+	</g>
+</svg>
