@@ -1,0 +1,710 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 生成 TcpServer_EventLoopThreadPool.svg Page-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="23.8031in" height="22.8858in"
+		viewBox="0 0 1713.83 1647.78" xml:space="preserve" color-interpolation-filters="sRGB" class="st44">
+	<v:documentProperties v:langID="2052" v:metric="true" v:viewMarkup="false">
+		<v:userDefs>
+			<v:ud v:nameU="msvNoAutoConnect" v:val="VT0(1):26"/>
+		</v:userDefs>
+	</v:documentProperties>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st2 {fill:#ff0000;font-family:宋体;font-size:1.00001em;font-weight:bold}
+		.st3 {font-family:Courier New;font-size:1em}
+		.st4 {font-size:1em}
+		.st5 {fill:#804000;font-family:Courier New;font-size:0.83333em;font-weight:normal}
+		.st6 {fill:#0000ff;font-family:Courier New;font-size:0.83333em}
+		.st7 {fill:#000000;font-family:Courier New;font-size:0.83333em;font-weight:normal}
+		.st8 {fill:#000080;font-family:Courier New;font-size:0.83333em}
+		.st9 {fill:#8000ff;font-family:Courier New;font-size:0.83333em;font-weight:normal}
+		.st10 {fill:#808080;font-family:Courier New;font-size:0.83333em;font-weight:normal}
+		.st11 {fill:#ff8000;font-family:Courier New;font-size:0.83333em;font-weight:normal}
+		.st12 {font-family:Microsoft Sans Serif;font-size:1em}
+		.st13 {font-family:微软雅黑;font-size:1em}
+		.st14 {fill:#000000;font-family:微软雅黑;font-size:1em}
+		.st15 {fill:#000000;font-family:Microsoft Sans Serif;font-size:1em}
+		.st16 {fill:#000000;font-size:1em}
+		.st17 {fill:#000000;font-family:Calibri;font-size:1em}
+		.st18 {fill:#8000ff;font-family:Courier New;font-size:0.833336em}
+		.st19 {fill:#000080;font-size:1em;font-weight:bold}
+		.st20 {fill:#ff8000;font-size:1em}
+		.st21 {fill:#0000ff;font-size:1em;font-weight:bold}
+		.st22 {fill:#ff0000;font-size:1em;font-weight:bold}
+		.st23 {fill:#000000;font-size:0.799995em;font-weight:bold}
+		.st24 {fill:#000000;font-family:微软雅黑;font-size:0.799995em;font-weight:bold}
+		.st25 {fill:#000000;font-size:1em;font-weight:bold}
+		.st26 {font-size:1em;font-weight:bold}
+		.st27 {fill:#ff8000;font-size:1em;font-weight:bold}
+		.st28 {fill:#808080;font-size:1em}
+		.st29 {fill:#008000;font-size:1em}
+		.st30 {fill:#000080;font-family:微软雅黑;font-size:1em;font-weight:bold}
+		.st31 {fill:#000080;font-family:宋体;font-size:1em;font-weight:bold}
+		.st32 {fill:#000000;font-family:Courier New;font-size:0.833336em;font-weight:bold}
+		.st33 {font-family:宋体;font-size:1em}
+		.st34 {font-size:1em;font-weight:normal}
+		.st35 {fill:#000080;font-size:1em}
+		.st36 {fill:#0000ff;font-size:1em}
+		.st37 {fill:#008000;font-size:1em;font-weight:normal}
+		.st38 {fill:#8000ff;font-size:1em;font-weight:normal}
+		.st39 {fill:#ff8000;font-size:1em;font-weight:normal}
+		.st40 {marker-start:url(#mrkr1-1291);stroke:#00b0f0;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st41 {fill:#00b0f0;fill-opacity:1;stroke:#00b0f0;stroke-opacity:1;stroke-width:0.22935779816514}
+		.st42 {marker-end:url(#mrkr1-1297);stroke:#00b0f0;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st43 {stroke:#00b0f0;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st44 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Markers">
+		<g id="lend1">
+			<path d="M 1 -1 L 0 0 L 1 1 " style="stroke-linecap:round;stroke-linejoin:round;fill:none"/>
+		</g>
+		<marker id="mrkr1-1291" class="st41" v:arrowType="1" v:arrowSize="2" orient="auto" markerUnits="strokeWidth"
+				overflow="visible">
+			<use xlink:href="#lend1" transform="scale(4.36) "/>
+		</marker>
+		<marker id="mrkr1-1297" class="st41" v:arrowType="1" v:arrowSize="2" orient="auto" markerUnits="strokeWidth"
+				overflow="visible">
+			<use xlink:href="#lend1" transform="scale(-4.36,-4.36) "/>
+		</marker>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>页-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<v:layer v:name="连接线" v:index="0"/>
+		<g id="group44-1" transform="translate(212.598,-226.772)" v:mID="44" v:groupContext="group">
+			<title>工作表.44</title>
+			<g id="shape1-2" v:mID="1" v:groupContext="shape" transform="translate(0,-345.606)">
+				<title>工作表.1</title>
+				<desc>下面将通过这个案例来分析muduo的多线程版TcpServer这里主要分析多线程的部分其他细节可参照level4中的内容。...</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="215.165" cy="1191.32" width="430.34" height="912.913"/>
+				<rect x="0" y="734.866" width="430.331" height="912.913" class="st1"/>
+				<text x="4" y="737.95" class="st2" v:langID="2052"><v:paragraph v:bulletSize="0.166667"/><v:tabList/>下面将通过这个案例来分析<tspan
+							class="st3">muduo</tspan>的多线程版<tspan class="st3">TcpServer</tspan>，这里主要分析多线<tspan x="4" dy="1.329em"
+							class="st4">程的部分</tspan>，其他细节可参照<tspan class="st3">level</tspan><tspan class="st3">4</tspan>中的内容。<v:newlineChar/><tspan
+							x="4" dy="1.299em" class="st5" v:langID="1033">#</tspan><tspan class="st5" v:langID="1033">include </tspan><tspan
+							class="st5" v:langID="1033">&#60;</tspan><tspan class="st5" v:langID="1033">muduo</tspan><tspan
+							class="st5" v:langID="1033">/</tspan><tspan class="st5" v:langID="1033">net</tspan><tspan class="st5"
+							v:langID="1033">/</tspan><tspan class="st5" v:langID="1033">TcpServer</tspan><tspan class="st5"
+							v:langID="1033">.</tspan><tspan class="st5" v:langID="1033">h</tspan><tspan class="st5" v:langID="1033">&#62;<v:newlineChar/></tspan><tspan
+							x="4" dy="1.2em" class="st5" v:langID="1033">#</tspan><tspan class="st5" v:langID="1033">include </tspan><tspan
+							class="st5" v:langID="1033">&#60;</tspan><tspan class="st5" v:langID="1033">muduo</tspan><tspan
+							class="st5" v:langID="1033">/</tspan><tspan class="st5" v:langID="1033">net</tspan><tspan class="st5"
+							v:langID="1033">/</tspan><tspan class="st5" v:langID="1033">EventLoop</tspan><tspan class="st5"
+							v:langID="1033">.</tspan><tspan class="st5" v:langID="1033">h</tspan><tspan class="st5" v:langID="1033">&#62;<v:newlineChar/></tspan><tspan
+							x="4" dy="1.2em" class="st5" v:langID="1033">#</tspan><tspan class="st5" v:langID="1033">include </tspan><tspan
+							class="st5" v:langID="1033">&#60;</tspan><tspan class="st5" v:langID="1033">muduo</tspan><tspan
+							class="st5" v:langID="1033">/</tspan><tspan class="st5" v:langID="1033">net</tspan><tspan class="st5"
+							v:langID="1033">/</tspan><tspan class="st5" v:langID="1033">InetAddress</tspan><tspan class="st5"
+							v:langID="1033">.</tspan><tspan class="st5" v:langID="1033">h</tspan><tspan class="st5" v:langID="1033">&#62;<v:newlineChar/><v:newlineChar/></tspan><tspan
+							x="4" dy="2.4em" class="st5" v:langID="1033">#</tspan><tspan class="st5" v:langID="1033">include </tspan><tspan
+							class="st5" v:langID="1033">&#60;</tspan><tspan class="st5" v:langID="1033">boost</tspan><tspan
+							class="st5" v:langID="1033">/</tspan><tspan class="st5" v:langID="1033">bind</tspan><tspan class="st5"
+							v:langID="1033">.</tspan><tspan class="st5" v:langID="1033">hpp</tspan><tspan class="st5"
+							v:langID="1033">&#62;<v:newlineChar/><v:newlineChar/></tspan><tspan x="4" dy="2.4em" class="st5"
+							v:langID="1033">#</tspan><tspan class="st5" v:langID="1033">include </tspan><tspan class="st5"
+							v:langID="1033">&#60;</tspan><tspan class="st5" v:langID="1033">stdio</tspan><tspan class="st5"
+							v:langID="1033">.</tspan><tspan class="st5" v:langID="1033">h</tspan><tspan class="st5" v:langID="1033">&#62;<v:newlineChar/><v:newlineChar/></tspan><tspan
+							x="4" dy="2.412em" class="st6" v:langID="1033">using</tspan><tspan class="st7" v:langID="1033"> </tspan><tspan
+							class="st6" v:langID="1033">namespace</tspan><tspan class="st7" v:langID="1033"> </tspan><tspan
+							class="st7" v:langID="1033">muduo</tspan><tspan class="st8" v:langID="1033">;<v:newlineChar/></tspan><tspan
+							x="4" dy="1.215em" class="st6" v:langID="1033">using</tspan><tspan class="st7" v:langID="1033"> </tspan><tspan
+							class="st6" v:langID="1033">namespace</tspan><tspan class="st7" v:langID="1033"> </tspan><tspan
+							class="st7" v:langID="1033">muduo</tspan><tspan class="st8" v:langID="1033">::</tspan><tspan
+							class="st7" v:langID="1033">net</tspan><tspan class="st8" v:langID="1033">;<v:newlineChar/><v:newlineChar/></tspan><tspan
+							x="4" dy="2.404em" class="st9" v:langID="1033">class</tspan><tspan class="st7" v:langID="1033"> </tspan><tspan
+							class="st7" v:langID="1033">TestServer<v:newlineChar/></tspan><tspan x="4" dy="1.212em" class="st8"
+							v:langID="1033">{<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st7" v:langID="1033"> </tspan><tspan
+							class="st9" v:langID="1033">public</tspan><tspan class="st8" v:langID="1033">:<v:newlineChar/></tspan><tspan
+							x="4" dy="1.215em" class="st7" v:langID="1033">  </tspan><tspan class="st7" v:langID="1033">TestServer</tspan><tspan
+							class="st8" v:langID="1033">(</tspan><tspan class="st7" v:langID="1033">EventLoop</tspan><tspan
+							class="st8" v:langID="1033">*</tspan><tspan class="st7" v:langID="1033"> </tspan><tspan class="st7"
+							v:langID="1033">loop</tspan><tspan class="st8" v:langID="1033">,<v:newlineChar/></tspan><tspan x="4"
+							dy="1.215em" class="st7" v:langID="1033">             </tspan><tspan class="st9" v:langID="1033">const</tspan><tspan
+							class="st7" v:langID="1033"> </tspan><tspan class="st7" v:langID="1033">InetAddress</tspan><tspan
+							class="st8" v:langID="1033">&#38;</tspan><tspan class="st7" v:langID="1033"> </tspan><tspan class="st7"
+							v:langID="1033">listenAddr</tspan><tspan class="st8" v:langID="1033">,</tspan><tspan class="st7"
+							v:langID="1033"> </tspan><tspan class="st9" v:langID="1033">int</tspan><tspan class="st7"
+							v:langID="1033"> </tspan><tspan class="st7" v:langID="1033">numThreads</tspan><tspan class="st8"
+							v:langID="1033">)<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st7" v:langID="1033">    </tspan><tspan
+							class="st8" v:langID="1033">:</tspan><tspan class="st7" v:langID="1033"> </tspan><tspan class="st7"
+							v:langID="1033">loop</tspan><tspan class="st7" v:langID="1033">_</tspan><tspan class="st8"
+							v:langID="1033">(</tspan><tspan class="st7" v:langID="1033">loop</tspan><tspan class="st8"
+							v:langID="1033">)</tspan><tspan class="st8" v:langID="1033">,<v:newlineChar/></tspan><tspan x="4"
+							dy="1.215em" class="st7" v:langID="1033">      </tspan><tspan class="st7" v:langID="1033">server</tspan><tspan
+							class="st7" v:langID="1033">_</tspan><tspan class="st8" v:langID="1033">(</tspan><tspan class="st7"
+							v:langID="1033">loop</tspan><tspan class="st8" v:langID="1033">,</tspan><tspan class="st7"
+							v:langID="1033"> </tspan><tspan class="st7" v:langID="1033">listenAddr</tspan><tspan class="st8"
+							v:langID="1033">,</tspan><tspan class="st7" v:langID="1033"> </tspan><tspan class="st10"
+							v:langID="1033">&#34;</tspan><tspan class="st10" v:langID="1033">TestServer</tspan><tspan class="st10"
+							v:langID="1033">&#34;</tspan><tspan class="st8" v:langID="1033">)</tspan><tspan class="st8"
+							v:langID="1033">,<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st7" v:langID="1033">      </tspan><tspan
+							class="st7" v:langID="1033">numThreads</tspan><tspan class="st7" v:langID="1033">_</tspan><tspan
+							class="st8" v:langID="1033">(</tspan><tspan class="st7" v:langID="1033">numThreads</tspan><tspan
+							class="st8" v:langID="1033">)<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st7"
+							v:langID="1033">  </tspan><tspan class="st8" v:langID="1033">{<v:newlineChar/></tspan><tspan x="4"
+							dy="1.215em" class="st7" v:langID="1033">    </tspan><tspan class="st7" v:langID="1033">server</tspan><tspan
+							class="st7" v:langID="1033">_</tspan><tspan class="st8" v:langID="1033">.</tspan><tspan class="st7"
+							v:langID="1033">setConnectionCallback</tspan><tspan class="st8" v:langID="1033">(<v:newlineChar/></tspan><tspan
+							x="4" dy="1.215em" class="st7" v:langID="1033">        </tspan><tspan class="st7" v:langID="1033">boost</tspan><tspan
+							class="st8" v:langID="1033">::</tspan><tspan class="st7" v:langID="1033">bind</tspan><tspan class="st8"
+							v:langID="1033">(</tspan><tspan class="st8" v:langID="1033">&#38;</tspan><tspan class="st7"
+							v:langID="1033">TestServer</tspan><tspan class="st8" v:langID="1033">::</tspan><tspan class="st7"
+							v:langID="1033">onConnection</tspan><tspan class="st8" v:langID="1033">,</tspan><tspan class="st7"
+							v:langID="1033"> </tspan><tspan class="st6" v:langID="1033">this</tspan><tspan class="st8"
+							v:langID="1033">,</tspan><tspan class="st7" v:langID="1033"> </tspan><tspan class="st7" v:langID="1033">_</tspan><tspan
+							class="st7" v:langID="1033">1</tspan><tspan class="st8" v:langID="1033">))</tspan><tspan class="st8"
+							v:langID="1033">;<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st7" v:langID="1033">    </tspan><tspan
+							class="st7" v:langID="1033">server</tspan><tspan class="st7" v:langID="1033">_</tspan><tspan
+							class="st8" v:langID="1033">.</tspan><tspan class="st7" v:langID="1033">setMessageCallback</tspan><tspan
+							class="st8" v:langID="1033">(<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st7"
+							v:langID="1033">        </tspan><tspan class="st7" v:langID="1033">boost</tspan><tspan class="st8"
+							v:langID="1033">::</tspan><tspan class="st7" v:langID="1033">bind</tspan><tspan class="st8"
+							v:langID="1033">(</tspan><tspan class="st8" v:langID="1033">&#38;</tspan><tspan class="st7"
+							v:langID="1033">TestServer</tspan><tspan class="st8" v:langID="1033">::</tspan><tspan class="st7"
+							v:langID="1033">onMessage</tspan><tspan class="st8" v:langID="1033">,</tspan><tspan class="st7"
+							v:langID="1033"> </tspan><tspan class="st6" v:langID="1033">this</tspan><tspan class="st8"
+							v:langID="1033">,</tspan><tspan class="st7" v:langID="1033"> </tspan><tspan class="st7" v:langID="1033">_</tspan><tspan
+							class="st7" v:langID="1033">1</tspan><tspan class="st8" v:langID="1033">,</tspan><tspan class="st7"
+							v:langID="1033"> </tspan><tspan class="st7" v:langID="1033">_</tspan><tspan class="st7" v:langID="1033">2</tspan><tspan
+							class="st8" v:langID="1033">,</tspan><tspan class="st7" v:langID="1033"> </tspan><tspan class="st7"
+							v:langID="1033">_</tspan><tspan class="st7" v:langID="1033">3</tspan><tspan class="st8" v:langID="1033">))</tspan><tspan
+							class="st8" v:langID="1033">;<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st7"
+							v:langID="1033">    </tspan><tspan class="st7" v:langID="1033">server</tspan><tspan class="st7"
+							v:langID="1033">_</tspan><tspan class="st8" v:langID="1033">.</tspan><tspan class="st7" v:langID="1033">setThreadNum</tspan><tspan
+							class="st8" v:langID="1033">(</tspan><tspan class="st7" v:langID="1033">numThreads</tspan><tspan
+							class="st8" v:langID="1033">)</tspan><tspan class="st8" v:langID="1033">;<v:newlineChar/></tspan><tspan
+							x="4" dy="1.215em" class="st7" v:langID="1033">  </tspan><tspan class="st8" v:langID="1033">}<v:newlineChar/><v:newlineChar/></tspan><tspan
+							x="4" dy="2.416em" class="st7" v:langID="1033">  </tspan><tspan class="st9" v:langID="1033">void</tspan><tspan
+							class="st7" v:langID="1033"> </tspan><tspan class="st7" v:langID="1033">start</tspan><tspan class="st8"
+							v:langID="1033">()<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st7" v:langID="1033">  </tspan><tspan
+							class="st8" v:langID="1033">{<v:newlineChar/><v:tabChar/></tspan><tspan x="46.52" dy="1.215em"
+							class="st7" v:langID="1033">  </tspan><tspan class="st7" v:langID="1033">server</tspan><tspan
+							class="st7" v:langID="1033">_</tspan><tspan class="st8" v:langID="1033">.</tspan><tspan class="st7"
+							v:langID="1033">start</tspan><tspan class="st8" v:langID="1033">()</tspan><tspan class="st8"
+							v:langID="1033">;<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st7" v:langID="1033">  </tspan><tspan
+							class="st8" v:langID="1033">}<v:newlineChar/><v:newlineChar/></tspan><tspan x="4" dy="2.416em"
+							class="st7" v:langID="1033"> </tspan><tspan class="st9" v:langID="1033">private</tspan><tspan
+							class="st8" v:langID="1033">:<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st7"
+							v:langID="1033">  </tspan><tspan class="st9" v:langID="1033">void</tspan><tspan class="st7"
+							v:langID="1033"> </tspan><tspan class="st7" v:langID="1033">onConnection</tspan><tspan class="st8"
+							v:langID="1033">(</tspan><tspan class="st9" v:langID="1033">const</tspan><tspan class="st7"
+							v:langID="1033"> </tspan><tspan class="st7" v:langID="1033">TcpConnectionPtr</tspan><tspan class="st8"
+							v:langID="1033">&#38;</tspan><tspan class="st7" v:langID="1033"> </tspan><tspan class="st7"
+							v:langID="1033">conn</tspan><tspan class="st8" v:langID="1033">)<v:newlineChar/></tspan><tspan x="4"
+							dy="1.215em" class="st7" v:langID="1033">  </tspan><tspan class="st8" v:langID="1033">{<v:newlineChar/></tspan><tspan
+							x="4" dy="1.215em" class="st7" v:langID="1033">    </tspan><tspan class="st6" v:langID="1033">if</tspan><tspan
+							class="st7" v:langID="1033"> </tspan><tspan class="st8" v:langID="1033">(</tspan><tspan class="st7"
+							v:langID="1033">conn</tspan><tspan class="st8" v:langID="1033">-</tspan><tspan class="st8"
+							v:langID="1033">&#62;</tspan><tspan class="st7" v:langID="1033">connected</tspan><tspan class="st8"
+							v:langID="1033">())<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st7" v:langID="1033">    </tspan><tspan
+							class="st8" v:langID="1033">{<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st7"
+							v:langID="1033">      </tspan><tspan class="st7" v:langID="1033">printf</tspan><tspan class="st8"
+							v:langID="1033">(</tspan><tspan class="st10" v:langID="1033">&#34;</tspan><tspan class="st10"
+							v:langID="1033">onConnection</tspan><tspan class="st10" v:langID="1033">(): </tspan><tspan class="st10"
+							v:langID="1033">new connection </tspan><tspan class="st10" v:langID="1033">[%</tspan><tspan
+							class="st10" v:langID="1033">s</tspan><tspan class="st10" v:langID="1033">] </tspan><tspan class="st10"
+							v:langID="1033">from </tspan><tspan class="st10" v:langID="1033">%</tspan><tspan class="st10"
+							v:langID="1033">s</tspan><tspan class="st10" v:langID="1033">\</tspan><tspan class="st10"
+							v:langID="1033">n</tspan><tspan class="st10" v:langID="1033">&#34;</tspan><tspan class="st8"
+							v:langID="1033">,<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st7" v:langID="1033">             </tspan><tspan
+							class="st7" v:langID="1033">conn</tspan><tspan class="st8" v:langID="1033">-</tspan><tspan class="st8"
+							v:langID="1033">&#62;</tspan><tspan class="st7" v:langID="1033">name</tspan><tspan class="st8"
+							v:langID="1033">().</tspan><tspan class="st7" v:langID="1033">c</tspan><tspan class="st7"
+							v:langID="1033">_</tspan><tspan class="st7" v:langID="1033">str</tspan><tspan class="st8"
+							v:langID="1033">()</tspan><tspan class="st8" v:langID="1033">,<v:newlineChar/></tspan><tspan x="4"
+							dy="1.215em" class="st7" v:langID="1033">             </tspan><tspan class="st7" v:langID="1033">conn</tspan><tspan
+							class="st8" v:langID="1033">-</tspan><tspan class="st8" v:langID="1033">&#62;</tspan><tspan class="st7"
+							v:langID="1033">peerAddress</tspan><tspan class="st8" v:langID="1033">().</tspan><tspan class="st7"
+							v:langID="1033">toIpPort</tspan><tspan class="st8" v:langID="1033">().</tspan><tspan class="st7"
+							v:langID="1033">c</tspan><tspan class="st7" v:langID="1033">_</tspan><tspan class="st7" v:langID="1033">str</tspan><tspan
+							class="st8" v:langID="1033">())</tspan><tspan class="st8" v:langID="1033">;<v:newlineChar/></tspan><tspan
+							x="4" dy="1.215em" class="st7" v:langID="1033">    </tspan><tspan class="st8" v:langID="1033">}<v:newlineChar/></tspan><tspan
+							x="4" dy="1.215em" class="st7" v:langID="1033">    </tspan><tspan class="st6" v:langID="1033">else<v:newlineChar/></tspan><tspan
+							x="4" dy="1.215em" class="st7" v:langID="1033">    </tspan><tspan class="st8" v:langID="1033">{<v:newlineChar/></tspan><tspan
+							x="4" dy="1.215em" class="st7" v:langID="1033">      </tspan><tspan class="st7" v:langID="1033">printf</tspan><tspan
+							class="st8" v:langID="1033">(</tspan><tspan class="st10" v:langID="1033">&#34;</tspan><tspan
+							class="st10" v:langID="1033">onConnection</tspan><tspan class="st10" v:langID="1033">(): </tspan><tspan
+							class="st10" v:langID="1033">connection </tspan><tspan class="st10" v:langID="1033">[%</tspan><tspan
+							class="st10" v:langID="1033">s</tspan><tspan class="st10" v:langID="1033">] </tspan><tspan class="st10"
+							v:langID="1033">is down</tspan><tspan class="st10" v:langID="1033">\</tspan><tspan class="st10"
+							v:langID="1033">n</tspan><tspan class="st10" v:langID="1033">&#34;</tspan><tspan class="st8"
+							v:langID="1033">,<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st7" v:langID="1033">             </tspan><tspan
+							class="st7" v:langID="1033">conn</tspan><tspan class="st8" v:langID="1033">-</tspan><tspan class="st8"
+							v:langID="1033">&#62;</tspan><tspan class="st7" v:langID="1033">name</tspan><tspan class="st8"
+							v:langID="1033">().</tspan><tspan class="st7" v:langID="1033">c</tspan><tspan class="st7"
+							v:langID="1033">_</tspan><tspan class="st7" v:langID="1033">str</tspan><tspan class="st8"
+							v:langID="1033">())</tspan><tspan class="st8" v:langID="1033">;<v:newlineChar/></tspan><tspan x="4"
+							dy="1.215em" class="st7" v:langID="1033">    </tspan><tspan class="st8" v:langID="1033">}<v:newlineChar/></tspan><tspan
+							x="4" dy="1.215em" class="st7" v:langID="1033">  </tspan><tspan class="st8" v:langID="1033">}<v:newlineChar/><v:newlineChar/></tspan><tspan
+							x="4" dy="2.416em" class="st7" v:langID="1033">  </tspan><tspan class="st9" v:langID="1033">void</tspan><tspan
+							class="st7" v:langID="1033"> </tspan><tspan class="st7" v:langID="1033">onMessage</tspan><tspan
+							class="st8" v:langID="1033">(</tspan><tspan class="st9" v:langID="1033">const</tspan><tspan class="st7"
+							v:langID="1033"> </tspan><tspan class="st7" v:langID="1033">TcpConnectionPtr</tspan><tspan class="st8"
+							v:langID="1033">&#38;</tspan><tspan class="st7" v:langID="1033"> </tspan><tspan class="st7"
+							v:langID="1033">conn</tspan><tspan class="st8" v:langID="1033">,<v:newlineChar/></tspan><tspan x="4"
+							dy="1.215em" class="st7" v:langID="1033">                   </tspan><tspan class="st9" v:langID="1033">const</tspan><tspan
+							class="st7" v:langID="1033"> </tspan><tspan class="st9" v:langID="1033">char</tspan><tspan class="st8"
+							v:langID="1033">*</tspan><tspan class="st7" v:langID="1033"> </tspan><tspan class="st7" v:langID="1033">data</tspan><tspan
+							class="st8" v:langID="1033">,<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st7"
+							v:langID="1033">                   </tspan><tspan class="st9" v:langID="1033">ssize</tspan><tspan
+							class="st9" v:langID="1033">_</tspan><tspan class="st9" v:langID="1033">t</tspan><tspan class="st7"
+							v:langID="1033"> </tspan><tspan class="st7" v:langID="1033">len</tspan><tspan class="st8"
+							v:langID="1033">)<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st7" v:langID="1033">  </tspan><tspan
+							class="st8" v:langID="1033">{<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st7"
+							v:langID="1033">    </tspan><tspan class="st7" v:langID="1033">printf</tspan><tspan class="st8"
+							v:langID="1033">(</tspan><tspan class="st10" v:langID="1033">&#34;</tspan><tspan class="st10"
+							v:langID="1033">onMessage</tspan><tspan class="st10" v:langID="1033">(): </tspan><tspan class="st10"
+							v:langID="1033">received </tspan><tspan class="st10" v:langID="1033">%</tspan><tspan class="st10"
+							v:langID="1033">zd bytes from connection </tspan><tspan class="st10" v:langID="1033">[%</tspan><tspan
+							class="st10" v:langID="1033">s</tspan><tspan class="st10" v:langID="1033">]</tspan><tspan class="st10"
+							v:langID="1033">\</tspan><tspan class="st10" v:langID="1033">n</tspan><tspan class="st10"
+							v:langID="1033">&#34;</tspan><tspan class="st8" v:langID="1033">,<v:newlineChar/></tspan><tspan x="4"
+							dy="1.215em" class="st7" v:langID="1033">           </tspan><tspan class="st7" v:langID="1033">len</tspan><tspan
+							class="st8" v:langID="1033">,</tspan><tspan class="st7" v:langID="1033"> </tspan><tspan class="st7"
+							v:langID="1033">conn</tspan><tspan class="st8" v:langID="1033">-</tspan><tspan class="st8"
+							v:langID="1033">&#62;</tspan><tspan class="st7" v:langID="1033">name</tspan><tspan class="st8"
+							v:langID="1033">().</tspan><tspan class="st7" v:langID="1033">c</tspan><tspan class="st7"
+							v:langID="1033">_</tspan><tspan class="st7" v:langID="1033">str</tspan><tspan class="st8"
+							v:langID="1033">())</tspan><tspan class="st8" v:langID="1033">;<v:newlineChar/></tspan><tspan x="4"
+							dy="1.215em" class="st7" v:langID="1033">  </tspan><tspan class="st8" v:langID="1033">}<v:newlineChar/><v:newlineChar/></tspan><tspan
+							x="4" dy="2.415em" class="st7" v:langID="1033">  </tspan><tspan class="st7" v:langID="1033">EventLoop</tspan><tspan
+							class="st8" v:langID="1033">*</tspan><tspan class="st7" v:langID="1033"> </tspan><tspan class="st7"
+							v:langID="1033">loop</tspan><tspan class="st7" v:langID="1033">_</tspan><tspan class="st8"
+							v:langID="1033">;<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st7" v:langID="1033">  </tspan><tspan
+							class="st7" v:langID="1033">TcpServer server</tspan><tspan class="st7" v:langID="1033">_</tspan><tspan
+							class="st8" v:langID="1033">;<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st7"
+							v:langID="1033">  </tspan><tspan class="st9" v:langID="1033">int</tspan><tspan class="st7"
+							v:langID="1033"> </tspan><tspan class="st7" v:langID="1033">numThreads</tspan><tspan class="st7"
+							v:langID="1033">_</tspan><tspan class="st8" v:langID="1033">;<v:newlineChar/></tspan><tspan x="4"
+							dy="1.215em" class="st8" v:langID="1033">};<v:newlineChar/><v:newlineChar/><v:newlineChar/></tspan><tspan
+							x="4" dy="3.615em" class="st9" v:langID="1033">int</tspan><tspan class="st7" v:langID="1033"> </tspan><tspan
+							class="st7" v:langID="1033">main</tspan><tspan class="st8" v:langID="1033">()<v:newlineChar/></tspan><tspan
+							x="4" dy="1.215em" class="st8" v:langID="1033">{<v:newlineChar/></tspan><tspan x="4" dy="1.215em"
+							class="st7" v:langID="1033">  </tspan><tspan class="st7" v:langID="1033">printf</tspan><tspan
+							class="st8" v:langID="1033">(</tspan><tspan class="st10" v:langID="1033">&#34;</tspan><tspan
+							class="st10" v:langID="1033">main</tspan><tspan class="st10" v:langID="1033">(): </tspan><tspan
+							class="st10" v:langID="1033">pid </tspan><tspan class="st10" v:langID="1033">= %</tspan><tspan
+							class="st10" v:langID="1033">d</tspan><tspan class="st10" v:langID="1033">\</tspan><tspan class="st10"
+							v:langID="1033">n</tspan><tspan class="st10" v:langID="1033">&#34;</tspan><tspan class="st8"
+							v:langID="1033">,</tspan><tspan class="st7" v:langID="1033"> </tspan><tspan class="st7" v:langID="1033">getpid</tspan><tspan
+							class="st8" v:langID="1033">())</tspan><tspan class="st8" v:langID="1033">;<v:newlineChar/><v:newlineChar/></tspan><tspan
+							x="4" dy="2.415em" class="st7" v:langID="1033">  </tspan><tspan class="st7" v:langID="1033">InetAddress listenAddr</tspan><tspan
+							class="st8" v:langID="1033">(</tspan><tspan class="st11" v:langID="1033">8888</tspan><tspan class="st8"
+							v:langID="1033">)</tspan><tspan class="st8" v:langID="1033">;<v:newlineChar/></tspan><tspan x="4"
+							dy="1.215em" class="st7" v:langID="1033">  </tspan><tspan class="st7" v:langID="1033">EventLoop loop</tspan><tspan
+							class="st8" v:langID="1033">;<v:newlineChar/><v:newlineChar/></tspan><tspan x="4" dy="2.416em"
+							class="st7" v:langID="1033">  </tspan><tspan class="st7" v:langID="1033">TestServer server</tspan><tspan
+							class="st8" v:langID="1033">(</tspan><tspan class="st8" v:langID="1033">&#38;</tspan><tspan class="st7"
+							v:langID="1033">loop</tspan><tspan class="st8" v:langID="1033">,</tspan><tspan class="st7"
+							v:langID="1033"> </tspan><tspan class="st7" v:langID="1033">listenAddr</tspan><tspan class="st8"
+							v:langID="1033">,</tspan><tspan class="st11" v:langID="1033">4</tspan><tspan class="st8"
+							v:langID="1033">)</tspan><tspan class="st8" v:langID="1033">;<v:newlineChar/></tspan><tspan x="4"
+							dy="1.215em" class="st7" v:langID="1033">  </tspan><tspan class="st7" v:langID="1033">server</tspan><tspan
+							class="st8" v:langID="1033">.</tspan><tspan class="st7" v:langID="1033">start</tspan><tspan class="st8"
+							v:langID="1033">()</tspan><tspan class="st8" v:langID="1033">;<v:newlineChar/><v:newlineChar/></tspan><tspan
+							x="4" dy="2.416em" class="st7" v:langID="1033">  </tspan><tspan class="st7" v:langID="1033">loop</tspan><tspan
+							class="st8" v:langID="1033">.</tspan><tspan class="st7" v:langID="1033">loop</tspan><tspan class="st8"
+							v:langID="1033">()</tspan><tspan class="st8" v:langID="1033">;<v:newlineChar/></tspan><tspan x="4"
+							dy="1.384em" class="st8" v:langID="1033">}</tspan></text>			</g>
+			<g id="shape4-456" v:mID="4" v:groupContext="shape" transform="translate(428.874,-635.039)">
+				<title>工作表.4</title>
+				<desc>1、这里直接关注TcpServer的多线程设置 server_.setThreadNum(numThreads); 2、然...</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+				<v:textRect cx="134.154" cy="1345.41" width="268.31" height="604.732"/>
+				<rect x="0" y="1043.05" width="268.307" height="604.732" class="st1"/>
+				<text x="4" y="1057.85" class="st2" v:langID="2052"><v:paragraph/><v:tabList/>1、这里直接关注TcpServer的多线程设置<v:newlineChar/><v:newlineChar/><tspan
+							x="4" dy="2.712em" class="st7" v:langID="1033">server</tspan><tspan class="st7" v:langID="1033">_</tspan><tspan
+							class="st8" v:langID="1033">.</tspan><tspan class="st7" v:langID="1033">setThreadNum</tspan><tspan
+							class="st8" v:langID="1033">(</tspan><tspan class="st7" v:langID="1033">numThreads</tspan><tspan
+							class="st8" v:langID="1033">)</tspan><tspan class="st8" v:langID="1033">;<v:newlineChar/><v:newlineChar/></tspan><tspan
+							x="4" dy="2.365em" class="st12">2</tspan><tspan class="st13">、</tspan><tspan class="st13">然后启动该</tspan><tspan
+							class="st12">TcpServer<v:newlineChar/></tspan><tspan x="4" dy="1.276em" class="st7" v:langID="1033">server</tspan><tspan
+							class="st8" v:langID="1033">.</tspan><tspan class="st7" v:langID="1033">start</tspan><tspan class="st8"
+							v:langID="1033">()</tspan><tspan class="st8" v:langID="1033">;<v:newlineChar/><v:newlineChar/><v:paragraph
+								v:bulletSize="0.166667"/></tspan><tspan x="4" dy="2.655em" class="st9" v:langID="1033">void</tspan><tspan
+							class="st7" v:langID="1033"> </tspan><tspan class="st7" v:langID="1033">start</tspan><tspan class="st8"
+							v:langID="1033">()<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st8" v:langID="1033">{<v:newlineChar/></tspan><tspan
+							x="4" dy="1.215em" class="st7">   </tspan><tspan class="st7" v:langID="1033">server</tspan><tspan
+							class="st7" v:langID="1033">_</tspan><tspan class="st8" v:langID="1033">.</tspan><tspan class="st7"
+							v:langID="1033">start</tspan><tspan class="st8" v:langID="1033">()</tspan><tspan class="st8"
+							v:langID="1033">;<v:newlineChar/><v:paragraph/></tspan><tspan x="4" dy="1.384em" class="st8"
+							v:langID="1033">}<v:newlineChar/><v:newlineChar/></tspan><tspan x="4" dy="2.412em" class="st12">3</tspan><tspan
+							class="st13">、</tspan><tspan class="st13">当有</tspan><tspan class="st12">TcpServer</tspan><tspan
+							class="st13">监听套接字有连接事件发生<v:newlineChar/><v:newlineChar/></tspan><tspan x="4" dy="2.416em" class="st14">这一过程较长</tspan><tspan
+							class="st14">，</tspan><tspan class="st14">在</tspan><tspan class="st15">level</tspan><tspan class="st15">4</tspan><tspan
+							class="st14">中已经分析</tspan><tspan class="st14">，</tspan><tspan class="st15">Acceptor</tspan><tspan
+							class="st14">会</tspan><tspan x="4" dy="1.216em" class="st14">调用</tspan><tspan class="st15">TcpServer</tspan><tspan
+							class="st15">::</tspan><tspan class="st15">newConnection</tspan><tspan class="st14">函数</tspan><tspan
+							class="st14">，</tspan><tspan class="st14">这里直接</tspan><tspan x="4" dy="1.216em" class="st14">跳到到</tspan><tspan
+							class="st15">TcpServer</tspan><tspan class="st15">::</tspan><tspan class="st15">newConnection</tspan><tspan
+							class="st14">来分析<v:newlineChar/><v:newlineChar/></tspan><tspan x="4" dy="2.416em" class="st12">4</tspan><tspan
+							class="st13">、</tspan><tspan class="st13">后面的情况和</tspan><tspan class="st12">level</tspan><tspan
+							class="st12">4</tspan><tspan class="st13">几乎一样<v:newlineChar/><v:newlineChar/><v:paragraph/></tspan><tspan
+							x="4" dy="2.404em" class="st16">由于每个</tspan><tspan class="st16">EventLoop</tspan><tspan class="st16">都处于一个线程中</tspan><tspan
+							class="st16">，</tspan><tspan class="st16">这里每个</tspan><tspan x="4" dy="1.2em" class="st16">线程中的</tspan><tspan
+							class="st16">EventLoop</tspan><tspan class="st16">对象管理一个</tspan><tspan class="st16">TcpConnection</tspan><tspan
+							x="4" dy="1.2em" class="st16">中的客户端</tspan><tspan class="st16">socket</tspan><tspan class="st16">及其</tspan><tspan
+							class="st16">Channel</tspan><tspan class="st16">，</tspan><tspan class="st16">每个线程会单独</tspan><tspan
+							x="4" dy="1.2em" class="st16">开个</tspan><tspan class="st16">poll</tspan><tspan class="st16">/</tspan><tspan
+							class="st16">epoll</tspan><tspan class="st16">监听这些</tspan><tspan class="st16">TcpConnection</tspan><tspan
+							class="st16">中的</tspan><tspan x="4" dy="1.2em" class="st16">socket</tspan><tspan class="st16">发生事件并处理</tspan><tspan
+							class="st16">。<v:newlineChar/><v:newlineChar/></tspan><tspan x="4" dy="2.412em" class="st12">5</tspan><tspan
+							class="st13">、</tspan><tspan class="st13">总结<v:newlineChar/><v:newlineChar/></tspan><tspan x="4"
+							dy="2.416em" class="st14">每个</tspan><tspan class="st15">TcpServer</tspan><tspan class="st14">中都有一个</tspan><tspan
+							x="4" dy="1.215em" class="st17" v:langID="1033">EventLoopThreadPool</tspan><tspan class="st14">，</tspan><tspan
+							class="st14">其内部的线程池里</tspan><tspan x="4" dy="1.227em" class="st17" v:langID="1033">EventLoopThread</tspan><tspan
+							class="st14">可由程序员设置</tspan><tspan class="st14">，</tspan><tspan class="st14">默认是为</tspan><tspan
+							class="st15">0</tspan><tspan class="st14">。<v:newlineChar/></tspan><tspan x="4" dy="1.22em"
+							class="st14">当线程池里线程个数设置为</tspan><tspan class="st15">0</tspan><tspan class="st14">时</tspan><tspan
+							class="st14">，</tspan><tspan x="4" dy="1.227em" class="st17" v:langID="1033">EventLoopThread</tspan><tspan
+							class="st15">Pool</tspan><tspan class="st14">不会创建其它线程</tspan><tspan class="st14">，</tspan><tspan
+							class="st14">整个</tspan><tspan x="4" dy="1.22em" class="st15">TcpServer</tspan><tspan class="st14">是单线程的</tspan><tspan
+							class="st14">，</tspan><tspan class="st14">而且内部有且只有一个</tspan><tspan x="4" dy="1.216em" class="st15">EventLoop</tspan><tspan
+							class="st14">对象在做事件循环</tspan><tspan class="st14">。</tspan><tspan class="st14">当</tspan><tspan x="4"
+							dy="1.227em" class="st17" v:langID="1033">EventLoopThread</tspan><tspan class="st15">Pool</tspan><tspan
+							class="st14">设置线程数大于</tspan><tspan class="st15">0</tspan><tspan class="st14">时</tspan><tspan
+							class="st14">，</tspan><tspan x="4" dy="1.231em" class="st17" v:langID="1033">EventLoopThread</tspan><tspan
+							class="st15">Pool</tspan><tspan class="st14">便会创建</tspan><tspan class="st15">numThreads</tspan><tspan
+							class="st15">_</tspan><tspan class="st14">个</tspan><tspan x="4" dy="1.231em" class="st17"
+							v:langID="1033">EventLoopThread</tspan><tspan class="st14">对象</tspan><tspan class="st14">，</tspan><tspan
+							class="st14">当</tspan><tspan class="st15">TcpServer</tspan><tspan class="st14">的监听套接</tspan><tspan
+							x="4" dy="1.231em" class="st14">字有连接事件发生时</tspan><tspan class="st14">，</tspan><tspan class="st17"
+							v:langID="1033">EventLoopThread</tspan><tspan class="st15">Pool</tspan><tspan class="st14">对象</tspan><tspan
+							x="4" dy="1.219em" class="st14">使用轮流的方法给每个</tspan><tspan class="st17" v:langID="1033">EventLoopThread</tspan><tspan
+							class="st14">分配一个</tspan><tspan x="4" dy="1.216em" class="st15">TcpConnection</tspan><tspan
+							class="st15">,</tspan><tspan class="st14">也就是说每个线程都会轮流处理</tspan><tspan x="4" dy="1.204em" class="st14">连接的客户端</tspan><tspan
+							class="st14">，</tspan><tspan class="st14">然后后续的一些事件和操作就和</tspan><tspan x="4" dy="1.212em" class="st14">单线程的</tspan><tspan
+							class="st15">level</tspan><tspan class="st15">4</tspan><tspan class="st14">没有任何区别了</tspan><tspan
+							class="st14">。</tspan></text>			</g>
+			<g id="shape6-615" v:mID="6" v:groupContext="shape" transform="translate(739.701,-1145.28)">
+				<title>工作表.6</title>
+				<desc>void TcpServer::setThreadNum(int numThreads) { assert(0 &#60;= nu...</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="140.118" cy="1616.95" width="280.24" height="61.6614"/>
+				<rect x="0" y="1586.12" width="280.236" height="61.6614" class="st1"/>
+				<text x="4" y="1594.56" class="st18" v:langID="1033"><v:paragraph v:bulletSize="0.166667"/><v:tabList/>void<tspan
+							class="st16"> </tspan><tspan class="st16">TcpServer</tspan><tspan class="st19">::</tspan><tspan
+							class="st16">setThreadNum</tspan><tspan class="st19">(</tspan>int<tspan class="st16"> </tspan><tspan
+							class="st16">numThreads</tspan><tspan class="st19">)<v:newlineChar/></tspan><tspan x="4" dy="1.215em"
+							class="st19">{<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st16">  </tspan><tspan
+							class="st16">assert</tspan><tspan class="st19">(</tspan><tspan class="st20">0</tspan><tspan
+							class="st16"> </tspan><tspan class="st19">&#60;</tspan><tspan class="st19">=</tspan><tspan class="st16"> </tspan><tspan
+							class="st16">numThreads</tspan><tspan class="st19">)</tspan><tspan class="st19">;<v:newlineChar/></tspan><tspan
+							x="4" dy="1.215em" class="st16">  </tspan><tspan class="st16">threadPool</tspan><tspan class="st16">_</tspan><tspan
+							class="st19">-</tspan><tspan class="st19">&#62;</tspan><tspan class="st16">setThreadNum</tspan><tspan
+							class="st19">(</tspan><tspan class="st16">numThreads</tspan><tspan class="st19">)</tspan><tspan
+							class="st19">;<v:newlineChar/></tspan><tspan x="4" dy="1.384em" class="st19">}</tspan></text>			</g>
+			<g id="shape8-649" v:mID="8" v:groupContext="shape" transform="translate(725.528,-1121.1)">
+				<title>工作表.8</title>
+				<desc>void setThreadNum(int numThreads) { numThreads_ = numThreads; }</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="200.945" cy="1637.78" width="401.89" height="20"/>
+				<rect x="0" y="1627.78" width="401.89" height="20" class="st1"/>
+				<text x="19" y="1641.38" class="st18" v:langID="1033"><v:paragraph v:indentLeft="14.17" v:horizAlign="1"/><v:tabList/>void<tspan
+							class="st16"> </tspan><tspan class="st16">setThreadNum</tspan><tspan class="st19">(</tspan>int<tspan
+							class="st16"> </tspan><tspan class="st16">numThreads</tspan><tspan class="st19">)</tspan><tspan
+							class="st16"> </tspan><tspan class="st19">{</tspan><tspan class="st16"> </tspan><tspan class="st16">numThreads</tspan><tspan
+							class="st16">_ </tspan><tspan class="st19">=</tspan><tspan class="st16"> </tspan><tspan class="st16">numThreads</tspan><tspan
+							class="st19">;</tspan><tspan class="st16"> </tspan><tspan class="st19">}</tspan></text>			</g>
+			<g id="shape12-669" v:mID="12" v:groupContext="shape" transform="translate(739.701,-912.047)">
+				<title>工作表.12</title>
+				<desc>void TcpServer::start() { if (!started_) { started_ = true; t...</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="196.724" cy="1556.28" width="393.45" height="182.992"/>
+				<rect x="0" y="1464.79" width="393.449" height="182.992" class="st1"/>
+				<text x="4" y="1479.27" class="st18" v:langID="1033"><v:paragraph v:bulletSize="0.166667"/><v:tabList/>void<tspan
+							class="st16"> </tspan><tspan class="st16">TcpServer</tspan><tspan class="st19">::</tspan><tspan
+							class="st16">start</tspan><tspan class="st19">()<v:newlineChar/></tspan><tspan x="4" dy="1.215em"
+							class="st19">{<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st16">  </tspan><tspan
+							class="st21">if</tspan><tspan class="st16"> </tspan><tspan class="st19">(!</tspan><tspan class="st16">started</tspan><tspan
+							class="st16">_</tspan><tspan class="st19">)<v:newlineChar/></tspan><tspan x="4" dy="1.215em"
+							class="st16">  </tspan><tspan class="st19">{<v:newlineChar/></tspan><tspan x="4" dy="1.215em"
+							class="st16">    </tspan><tspan class="st16">started</tspan><tspan class="st16">_ </tspan><tspan
+							class="st19">=</tspan><tspan class="st16"> </tspan><tspan class="st21">true</tspan><tspan class="st19">;<v:newlineChar/></tspan><tspan
+							x="4" dy="1.215em" class="st16">    </tspan><tspan class="st22">threadPool</tspan><tspan class="st22">_</tspan><tspan
+							class="st22">-</tspan><tspan class="st22">&#62;</tspan><tspan class="st22">start</tspan><tspan
+							class="st22">(</tspan><tspan class="st22">threadInitCallback</tspan><tspan class="st22">_</tspan><tspan
+							class="st22">)</tspan><tspan class="st22">;<v:newlineChar/></tspan><tspan x="4" dy="1.215em"
+							class="st16">  </tspan><tspan class="st19">}<v:newlineChar/><v:newlineChar/></tspan><tspan x="4"
+							dy="2.416em" class="st16">  </tspan><tspan class="st21">if</tspan><tspan class="st16"> </tspan><tspan
+							class="st19">(!</tspan><tspan class="st16">acceptor</tspan><tspan class="st16">_</tspan><tspan
+							class="st19">-</tspan><tspan class="st19">&#62;</tspan><tspan class="st16">listenning</tspan><tspan
+							class="st19">())<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st16">  </tspan><tspan
+							class="st19">{<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st16">    </tspan><tspan
+							class="st16">loop</tspan><tspan class="st16">_</tspan><tspan class="st19">-</tspan><tspan class="st19">&#62;</tspan><tspan
+							class="st16">runInLoop</tspan><tspan class="st19">(<v:newlineChar/></tspan><tspan x="4" dy="1.215em"
+							class="st16">        </tspan><tspan class="st16">boost</tspan><tspan class="st19">::</tspan><tspan
+							class="st16">bind</tspan><tspan class="st19">(</tspan><tspan class="st19">&#38;</tspan><tspan
+							class="st16">Acceptor</tspan><tspan class="st19">::</tspan><tspan class="st16">listen</tspan><tspan
+							class="st19">,</tspan><tspan class="st16"> </tspan><tspan class="st16">get</tspan><tspan class="st16">_</tspan><tspan
+							class="st16">pointer</tspan><tspan class="st19">(</tspan><tspan class="st16">acceptor</tspan><tspan
+							class="st16">_</tspan><tspan class="st19">)))</tspan><tspan class="st19">;<v:newlineChar/></tspan><tspan
+							x="4" dy="1.215em" class="st16">  </tspan><tspan class="st19">}<v:newlineChar/></tspan><tspan x="4"
+							dy="1.384em" class="st19">}</tspan></text>			</g>
+			<g id="shape14-748" v:mID="14" v:groupContext="shape" transform="translate(736.409,-679.646)">
+				<title>工作表.14</title>
+				<desc>void EventLoopThreadPool::start(const ThreadInitCallback&#38; cb)...</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="191.071" cy="1536.48" width="382.15" height="222.598"/>
+				<rect x="0" y="1425.18" width="382.142" height="222.598" class="st1"/>
+				<text x="4" y="1435.62" class="st18" v:langID="1033"><v:paragraph v:bulletSize="0.166667"/><v:tabList/>void<tspan
+							class="st16"> </tspan><tspan class="st16">EventLoopThreadPool</tspan><tspan class="st19">::</tspan><tspan
+							class="st16">start</tspan><tspan class="st19">(</tspan>const<tspan class="st16"> </tspan><tspan
+							class="st16">ThreadInitCallback</tspan><tspan class="st19">&#38;</tspan><tspan class="st16"> </tspan><tspan
+							class="st16">cb</tspan><tspan class="st19">)<v:newlineChar/></tspan><tspan x="4" dy="1.215em"
+							class="st19">{<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st16">  </tspan><tspan
+							class="st16">assert</tspan><tspan class="st19">(!</tspan><tspan class="st16">started</tspan><tspan
+							class="st16">_</tspan><tspan class="st19">)</tspan><tspan class="st19">;<v:newlineChar/></tspan><tspan
+							x="4" dy="1.215em" class="st16">  </tspan><tspan class="st16">baseLoop</tspan><tspan class="st16">_</tspan><tspan
+							class="st19">-</tspan><tspan class="st19">&#62;</tspan><tspan class="st16">assertInLoopThread</tspan><tspan
+							class="st19">()</tspan><tspan class="st19">;<v:newlineChar/><v:newlineChar/></tspan><tspan x="4"
+							dy="2.416em" class="st16">  </tspan><tspan class="st16">started</tspan><tspan class="st16">_ </tspan><tspan
+							class="st19">=</tspan><tspan class="st16"> </tspan><tspan class="st21">true</tspan><tspan class="st19">;<v:newlineChar/></tspan><tspan
+							x="4" dy="1.204em" class="st16" v:langID="2052">  </tspan><tspan class="st23" v:langID="2052">//</tspan><tspan
+							class="st24" v:langID="2052">启动了</tspan><tspan class="st23" v:langID="2052">numThreads</tspan><tspan
+							class="st23" v:langID="2052">_</tspan><tspan class="st24" v:langID="2052">个线程</tspan><tspan
+							class="st24" v:langID="2052">，</tspan><tspan class="st24" v:langID="2052">每个线程中都有一个</tspan><tspan
+							class="st23" v:langID="2052">EventLoop</tspan><tspan class="st24" v:langID="2052">事件循环<v:newlineChar/></tspan><tspan
+							x="4" dy="1.2em" class="st25">  </tspan><tspan class="st21">for</tspan><tspan class="st25"> </tspan><tspan
+							class="st19">(</tspan><tspan class="st26">int</tspan><tspan class="st25"> </tspan><tspan class="st25">i </tspan><tspan
+							class="st19">=</tspan><tspan class="st25"> </tspan><tspan class="st27">0</tspan><tspan class="st19">;</tspan><tspan
+							class="st25"> </tspan><tspan class="st25">i </tspan><tspan class="st19">&#60;</tspan><tspan
+							class="st25"> </tspan><tspan class="st25">numThreads</tspan><tspan class="st25">_</tspan><tspan
+							class="st19">;</tspan><tspan class="st25"> </tspan><tspan class="st19">++</tspan><tspan class="st25">i</tspan><tspan
+							class="st19">)<v:newlineChar/></tspan><tspan x="4" dy="1.2em" class="st25">  </tspan><tspan
+							class="st19">{<v:newlineChar/></tspan><tspan x="4" dy="1.2em" class="st22">    </tspan><tspan
+							class="st22">EventLoopThread</tspan><tspan class="st22">* </tspan><tspan class="st22">t </tspan><tspan
+							class="st22">= </tspan><tspan class="st22">new EventLoopThread</tspan><tspan class="st22">(</tspan><tspan
+							class="st22">cb</tspan><tspan class="st22">)</tspan><tspan class="st22">;<v:newlineChar/></tspan><tspan
+							x="4" dy="1.2em" class="st22">    </tspan><tspan class="st22">threads</tspan><tspan class="st22">_</tspan><tspan
+							class="st22">.</tspan><tspan class="st22">push</tspan><tspan class="st22">_</tspan><tspan class="st22">back</tspan><tspan
+							class="st22">(</tspan><tspan class="st22">t</tspan><tspan class="st22">)</tspan><tspan class="st22">;<v:newlineChar/></tspan><tspan
+							x="4" dy="1.2em" class="st22">    </tspan><tspan class="st22">loops</tspan><tspan class="st22">_</tspan><tspan
+							class="st22">.</tspan><tspan class="st22">push</tspan><tspan class="st22">_</tspan><tspan class="st22">back</tspan><tspan
+							class="st22">(</tspan><tspan class="st22">t</tspan><tspan class="st22">-</tspan><tspan class="st22">&#62;</tspan><tspan
+							class="st22">startLoop</tspan><tspan class="st22">())</tspan><tspan class="st22">;<v:newlineChar/></tspan><tspan
+							x="4" dy="1.212em" class="st25">  </tspan><tspan class="st19">}<v:newlineChar/></tspan><tspan x="4"
+							dy="1.215em" class="st16">  </tspan><tspan class="st21">if</tspan><tspan class="st16"> </tspan><tspan
+							class="st19">(</tspan><tspan class="st16">numThreads</tspan><tspan class="st16">_ </tspan><tspan
+							class="st19">==</tspan><tspan class="st16"> </tspan><tspan class="st20">0</tspan><tspan class="st16"> </tspan><tspan
+							class="st19">&#38;&#38;</tspan><tspan class="st16"> </tspan><tspan class="st16">cb</tspan><tspan
+							class="st19">)<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st16">  </tspan><tspan
+							class="st19">{<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st16">    </tspan><tspan
+							class="st16">cb</tspan><tspan class="st19">(</tspan><tspan class="st16">baseLoop</tspan><tspan
+							class="st16">_</tspan><tspan class="st19">)</tspan><tspan class="st19">;<v:newlineChar/></tspan><tspan
+							x="4" dy="1.215em" class="st16">  </tspan><tspan class="st19">}<v:newlineChar/></tspan><tspan x="4"
+							dy="1.384em" class="st19">}</tspan></text>			</g>
+			<g id="shape17-882" v:mID="17" v:groupContext="shape" transform="translate(739.701,-270.48)">
+				<title>工作表.17</title>
+				<desc>void TcpServer::newConnection(int sockfd, const InetAddress&#38; ...</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="231.945" cy="1453.3" width="463.89" height="388.961"/>
+				<rect x="0" y="1258.82" width="463.89" height="388.961" class="st1"/>
+				<text x="4" y="1272.07" class="st18" v:langID="1033"><v:paragraph v:bulletSize="0.166667"/><v:tabList/>void<tspan
+							class="st16"> </tspan><tspan class="st16">TcpServer</tspan><tspan class="st19">::</tspan><tspan
+							class="st16">newConnection</tspan><tspan class="st19">(</tspan>int<tspan class="st16"> </tspan><tspan
+							class="st16">sockfd</tspan><tspan class="st19">,</tspan><tspan class="st16"> </tspan>const<tspan
+							class="st16"> </tspan><tspan class="st16">InetAddress</tspan><tspan class="st19">&#38;</tspan><tspan
+							class="st16"> </tspan><tspan class="st16">peerAddr</tspan><tspan class="st19">)<v:newlineChar/></tspan><tspan
+							x="4" dy="1.215em" class="st19">{<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st16">  </tspan><tspan
+							class="st16">loop</tspan><tspan class="st16">_</tspan><tspan class="st19">-</tspan><tspan class="st19">&#62;</tspan><tspan
+							class="st16">assertInLoopThread</tspan><tspan class="st19">()</tspan><tspan class="st19">;<v:newlineChar/></tspan><tspan
+							x="4" dy="1.505em" class="st23" v:langID="2052">  </tspan><tspan class="st23" v:langID="2052">//</tspan><tspan
+							class="st24" v:langID="2052">轮询获取线程池中的</tspan><tspan class="st23" v:langID="2052">EventLoop</tspan><tspan
+							class="st24" v:langID="2052">对象</tspan><tspan class="st24" v:langID="2052">，</tspan><tspan class="st24"
+							v:langID="2052">以此负载均衡</tspan><tspan class="st24" v:langID="2052">，</tspan><tspan class="st24"
+							v:langID="2052">将新的</tspan><tspan class="st23" v:langID="2052">Connection</tspan><tspan class="st24"
+							v:langID="2052">分摊到每一个</tspan><tspan class="st23" v:langID="2052">EventLoop</tspan><tspan class="st24"
+							v:langID="2052">对象中<v:newlineChar/></tspan><tspan x="4" dy="1.212em" class="st16">  </tspan><tspan
+							class="st22">EventLoop</tspan><tspan class="st22">* </tspan><tspan class="st22">ioLoop </tspan><tspan
+							class="st22">= </tspan><tspan class="st22">threadPool</tspan><tspan class="st22">_</tspan><tspan
+							class="st22">-</tspan><tspan class="st22">&#62;</tspan><tspan class="st22">getNextLoop</tspan><tspan
+							class="st22">()</tspan><tspan class="st22">;<v:newlineChar/></tspan><tspan x="4" dy="1.215em"
+							class="st16">  </tspan>char<tspan class="st16"> </tspan><tspan class="st16">buf</tspan><tspan
+							class="st19">[</tspan><tspan class="st20">32</tspan><tspan class="st19">]</tspan><tspan class="st19">;<v:newlineChar/></tspan><tspan
+							x="4" dy="1.215em" class="st16">  </tspan><tspan class="st16">snprintf</tspan><tspan class="st19">(</tspan><tspan
+							class="st16">buf</tspan><tspan class="st19">,</tspan><tspan class="st16"> </tspan><tspan class="st21">sizeof</tspan><tspan
+							class="st16"> </tspan><tspan class="st16">buf</tspan><tspan class="st19">,</tspan><tspan class="st16"> </tspan><tspan
+							class="st28">&#34;:%</tspan><tspan class="st28">s</tspan><tspan class="st28">#</tspan><tspan
+							class="st28">%</tspan><tspan class="st28">d</tspan><tspan class="st28">&#34;</tspan><tspan class="st19">,</tspan><tspan
+							class="st16"> </tspan><tspan class="st16">hostport</tspan><tspan class="st16">_</tspan><tspan
+							class="st19">.</tspan><tspan class="st16">c</tspan><tspan class="st16">_</tspan><tspan class="st16">str</tspan><tspan
+							class="st19">()</tspan><tspan class="st19">,</tspan><tspan class="st16"> </tspan><tspan class="st16">nextConnId</tspan><tspan
+							class="st16">_</tspan><tspan class="st19">)</tspan><tspan class="st19">;<v:newlineChar/></tspan><tspan
+							x="4" dy="1.215em" class="st16">  </tspan><tspan class="st19">++</tspan><tspan class="st16">nextConnId</tspan><tspan
+							class="st16">_</tspan><tspan class="st19">;<v:newlineChar/></tspan><tspan x="4" dy="1.215em"
+							class="st16">  </tspan><tspan class="st16">string connName </tspan><tspan class="st19">=</tspan><tspan
+							class="st16"> </tspan><tspan class="st16">name</tspan><tspan class="st16">_ </tspan><tspan class="st19">+</tspan><tspan
+							class="st16"> </tspan><tspan class="st16">buf</tspan><tspan class="st19">;<v:newlineChar/><v:newlineChar/></tspan><tspan
+							x="4" dy="2.416em" class="st16">  </tspan><tspan class="st16">LOG</tspan><tspan class="st16">_</tspan><tspan
+							class="st16">INFO </tspan><tspan class="st19">&#60;&#60;</tspan><tspan class="st16"> </tspan><tspan
+							class="st28">&#34;</tspan><tspan class="st28">TcpServer</tspan><tspan class="st28">::</tspan><tspan
+							class="st28">newConnection </tspan><tspan class="st28">[&#34;</tspan><tspan class="st16"> </tspan><tspan
+							class="st19">&#60;&#60;</tspan><tspan class="st16"> </tspan><tspan class="st16">name</tspan><tspan
+							class="st16">_<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st16">           </tspan><tspan
+							class="st19">&#60;&#60;</tspan><tspan class="st16"> </tspan><tspan class="st28">&#34;] </tspan><tspan
+							class="st28">-</tspan><tspan class="st28"> </tspan><tspan class="st28">new connection </tspan><tspan
+							class="st28">[&#34;</tspan><tspan class="st16"> </tspan><tspan class="st19">&#60;&#60;</tspan><tspan
+							class="st16"> </tspan><tspan class="st16">connName<v:newlineChar/></tspan><tspan x="4" dy="1.215em"
+							class="st16">           </tspan><tspan class="st19">&#60;&#60;</tspan><tspan class="st16"> </tspan><tspan
+							class="st28">&#34;] </tspan><tspan class="st28">from </tspan><tspan class="st28">&#34;</tspan><tspan
+							class="st16"> </tspan><tspan class="st19">&#60;&#60;</tspan><tspan class="st16"> </tspan><tspan
+							class="st16">peerAddr</tspan><tspan class="st19">.</tspan><tspan class="st16">toIpPort</tspan><tspan
+							class="st19">()</tspan><tspan class="st19">;<v:newlineChar/></tspan><tspan x="4" dy="1.215em"
+							class="st16">  </tspan><tspan class="st16">InetAddress localAddr</tspan><tspan class="st19">(</tspan><tspan
+							class="st16">sockets</tspan><tspan class="st19">::</tspan><tspan class="st16">getLocalAddr</tspan><tspan
+							class="st19">(</tspan><tspan class="st16">sockfd</tspan><tspan class="st19">))</tspan><tspan
+							class="st19">;<v:newlineChar/></tspan><tspan x="4" dy="1.204em" class="st16">  </tspan><tspan
+							class="st29">// </tspan><tspan class="st29">FIXME poll with zero timeout to double confirm the new connection<v:newlineChar/></tspan><tspan
+							x="4" dy="1.2em" class="st16">  </tspan><tspan class="st29">// </tspan><tspan class="st29">FIXME use make</tspan><tspan
+							class="st29">_</tspan><tspan class="st29">shared if necessary<v:newlineChar/></tspan><tspan x="4"
+							dy="1.297em" class="st19" v:langID="2052">  </tspan><tspan class="st19" v:langID="2052">//</tspan><tspan
+							class="st30" v:langID="2052">每一个</tspan><tspan class="st19" v:langID="2052">EventLoop</tspan><tspan
+							class="st30" v:langID="2052">对象轮</tspan><tspan class="st31" v:langID="2052">流处理一个</tspan><tspan
+							class="st19" v:langID="2052">TcpConnection<v:newlineChar/></tspan><tspan x="4" dy="1.244em"
+							class="st16">  </tspan><tspan class="st16">TcpConnectionPtr conn</tspan><tspan class="st19">(</tspan><tspan
+							class="st21">new</tspan><tspan class="st16"> </tspan><tspan class="st16">TcpConnection</tspan><tspan
+							class="st19">(</tspan><tspan class="st22">ioLoop</tspan><tspan class="st19">,<v:newlineChar/></tspan><tspan
+							x="4" dy="1.215em" class="st16">                                          </tspan><tspan class="st16">connName</tspan><tspan
+							class="st19">,<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st16">                                          </tspan><tspan
+							class="st16">sockfd</tspan><tspan class="st19">,<v:newlineChar/></tspan><tspan x="4" dy="1.215em"
+							class="st16">                                          </tspan><tspan class="st16">localAddr</tspan><tspan
+							class="st19">,<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st16">                                          </tspan><tspan
+							class="st16">peerAddr</tspan><tspan class="st19">))</tspan><tspan class="st19">;<v:newlineChar/></tspan><tspan
+							x="4" dy="1.215em" class="st16">  </tspan><tspan class="st16">connections</tspan><tspan class="st16">_</tspan><tspan
+							class="st19">[</tspan><tspan class="st16">connName</tspan><tspan class="st19">]</tspan><tspan
+							class="st16"> </tspan><tspan class="st19">=</tspan><tspan class="st16"> </tspan><tspan class="st16">conn</tspan><tspan
+							class="st19">;<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st16">  </tspan><tspan
+							class="st16">conn</tspan><tspan class="st19">-</tspan><tspan class="st19">&#62;</tspan><tspan
+							class="st16">setConnectionCallback</tspan><tspan class="st19">(</tspan><tspan class="st16">connectionCallback</tspan><tspan
+							class="st16">_</tspan><tspan class="st19">)</tspan><tspan class="st19">;<v:newlineChar/></tspan><tspan
+							x="4" dy="1.215em" class="st16">  </tspan><tspan class="st16">conn</tspan><tspan class="st19">-</tspan><tspan
+							class="st19">&#62;</tspan><tspan class="st16">setMessageCallback</tspan><tspan class="st19">(</tspan><tspan
+							class="st16">messageCallback</tspan><tspan class="st16">_</tspan><tspan class="st19">)</tspan><tspan
+							class="st19">;<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st16">  </tspan><tspan
+							class="st16">conn</tspan><tspan class="st19">-</tspan><tspan class="st19">&#62;</tspan><tspan
+							class="st16">setWriteCompleteCallback</tspan><tspan class="st19">(</tspan><tspan class="st16">writeCompleteCallback</tspan><tspan
+							class="st16">_</tspan><tspan class="st19">)</tspan><tspan class="st19">;<v:newlineChar/></tspan><tspan
+							x="4" dy="1.215em" class="st16">  </tspan><tspan class="st16">conn</tspan><tspan class="st19">-</tspan><tspan
+							class="st19">&#62;</tspan><tspan class="st16">setCloseCallback</tspan><tspan class="st19">(<v:newlineChar/></tspan><tspan
+							x="4" dy="1.215em" class="st16">  </tspan><tspan class="st16">boost</tspan><tspan class="st19">::</tspan><tspan
+							class="st16">bind</tspan><tspan class="st19">(</tspan><tspan class="st19">&#38;</tspan><tspan
+							class="st16">TcpServer</tspan><tspan class="st19">::</tspan><tspan class="st16">removeConnection</tspan><tspan
+							class="st19">,</tspan><tspan class="st16"> </tspan><tspan class="st21">this</tspan><tspan class="st19">,</tspan><tspan
+							class="st16"> </tspan><tspan class="st16">_</tspan><tspan class="st16">1</tspan><tspan class="st19">))</tspan><tspan
+							class="st19">;</tspan><tspan class="st16"> </tspan><tspan class="st29">// </tspan><tspan class="st29">FIXME</tspan><tspan
+							class="st29">: </tspan><tspan class="st29">unsafe<v:newlineChar/><v:paragraph v:bulletSize="0.166667"/></tspan><tspan
+							x="4" dy="1.301em" class="st29" v:langID="2052">  </tspan><tspan class="st19" v:langID="2052">//</tspan><tspan
+							class="st31" v:langID="2052">每一个</tspan><tspan class="st19" v:langID="2052">EventLoop</tspan><tspan
+							class="st31" v:langID="2052">都在一个线程中</tspan><tspan class="st31" v:langID="2052">，</tspan><tspan
+							class="st31" v:langID="2052">每个线程处理一个</tspan><tspan class="st19" v:langID="2052">TcpConnection</tspan><tspan
+							class="st31" v:langID="2052">对象<v:newlineChar/><v:paragraph v:bulletSize="0.166667"/></tspan><tspan
+							x="4" dy="1.244em" class="st16">  </tspan><tspan class="st22">ioLoop</tspan><tspan class="st19">-</tspan><tspan
+							class="st19">&#62;</tspan><tspan class="st16">runInLoop</tspan><tspan class="st19">(</tspan><tspan
+							class="st16">boost</tspan><tspan class="st19">::</tspan><tspan class="st16">bind</tspan><tspan
+							class="st19">(</tspan><tspan class="st19">&#38;</tspan><tspan class="st16">TcpConnection</tspan><tspan
+							class="st19">::</tspan><tspan class="st16">connectEstablished</tspan><tspan class="st19">,</tspan><tspan
+							class="st16"> </tspan><tspan class="st16">conn</tspan><tspan class="st19">))</tspan><tspan class="st19">;<v:newlineChar/></tspan><tspan
+							x="4" dy="1.384em" class="st19">}</tspan></text>			</g>
+			<g id="shape20-1176" v:mID="20" v:groupContext="shape" transform="translate(739.701,0)">
+				<title>工作表.20</title>
+				<desc>//以轮询的方式来获取EventLoop线程池中的EventLoop,一次循环轮询numThreads_个EventLoo...</desc>
+				<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+				<v:textRect cx="170" cy="1525.14" width="340.01" height="245.276"/>
+				<rect x="0" y="1402.5" width="340" height="245.276" class="st1"/>
+				<text x="4" y="1417.53" class="st32" v:langID="2052"><v:paragraph v:bulletSize="0.166667"/><v:tabList/>//<tspan
+							class="st33">以轮询的方式来获取</tspan>EventLoop<tspan class="st33">线程池中的</tspan>EventLoop,<tspan class="st33">一次循环轮询</tspan><tspan
+							x="4" dy="1.329em" class="st4">numThreads</tspan>_<tspan class="st33">个</tspan>EventLoop<v:newlineChar/><tspan
+							x="4" dy="1.244em" class="st34" v:langID="1033">EventLoop</tspan><tspan class="st35" v:langID="1033">*</tspan><tspan
+							class="st34" v:langID="1033"> </tspan><tspan class="st34" v:langID="1033">EventLoopThreadPool</tspan><tspan
+							class="st35" v:langID="1033">::</tspan><tspan class="st34" v:langID="1033">getNextLoop</tspan><tspan
+							class="st35" v:langID="1033">()<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st35"
+							v:langID="1033">{<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st34" v:langID="1033">  </tspan><tspan
+							class="st34" v:langID="1033">baseLoop</tspan><tspan class="st34" v:langID="1033">_</tspan><tspan
+							class="st35" v:langID="1033">-</tspan><tspan class="st35" v:langID="1033">&#62;</tspan><tspan
+							class="st34" v:langID="1033">assertInLoopThread</tspan><tspan class="st35" v:langID="1033">()</tspan><tspan
+							class="st35" v:langID="1033">;<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st34"
+							v:langID="1033">  </tspan><tspan class="st34" v:langID="1033">EventLoop</tspan><tspan class="st35"
+							v:langID="1033">*</tspan><tspan class="st34" v:langID="1033"> </tspan><tspan class="st34"
+							v:langID="1033">loop </tspan><tspan class="st35" v:langID="1033">=</tspan><tspan class="st34"
+							v:langID="1033"> </tspan><tspan class="st34" v:langID="1033">baseLoop</tspan><tspan class="st34"
+							v:langID="1033">_</tspan><tspan class="st35" v:langID="1033">;<v:newlineChar/><v:newlineChar/></tspan><tspan
+							x="4" dy="2.416em" class="st34" v:langID="1033">  </tspan><tspan class="st36" v:langID="1033">if</tspan><tspan
+							class="st34" v:langID="1033"> </tspan><tspan class="st35" v:langID="1033">(!</tspan><tspan class="st34"
+							v:langID="1033">loops</tspan><tspan class="st34" v:langID="1033">_</tspan><tspan class="st35"
+							v:langID="1033">.</tspan><tspan class="st34" v:langID="1033">empty</tspan><tspan class="st35"
+							v:langID="1033">())<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st34" v:langID="1033">  </tspan><tspan
+							class="st35" v:langID="1033">{<v:newlineChar/></tspan><tspan x="4" dy="1.204em" class="st34"
+							v:langID="1033">    </tspan><tspan class="st37" v:langID="1033">// </tspan><tspan class="st37"
+							v:langID="1033">round</tspan><tspan class="st37" v:langID="1033">-</tspan><tspan class="st37"
+							v:langID="1033">robin<v:newlineChar/></tspan><tspan x="4" dy="1.212em" class="st34" v:langID="1033">    </tspan><tspan
+							class="st34" v:langID="1033">loop </tspan><tspan class="st35" v:langID="1033">=</tspan><tspan
+							class="st34" v:langID="1033"> </tspan><tspan class="st34" v:langID="1033">loops</tspan><tspan
+							class="st34" v:langID="1033">_</tspan><tspan class="st35" v:langID="1033">[</tspan><tspan class="st34"
+							v:langID="1033">next</tspan><tspan class="st34" v:langID="1033">_</tspan><tspan class="st35"
+							v:langID="1033">]</tspan><tspan class="st35" v:langID="1033">;<v:newlineChar/></tspan><tspan x="4"
+							dy="1.215em" class="st34" v:langID="1033">    </tspan><tspan class="st35" v:langID="1033">++</tspan><tspan
+							class="st34" v:langID="1033">next</tspan><tspan class="st34" v:langID="1033">_</tspan><tspan
+							class="st35" v:langID="1033">;<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st34"
+							v:langID="1033">    </tspan><tspan class="st36" v:langID="1033">if</tspan><tspan class="st34"
+							v:langID="1033"> </tspan><tspan class="st35" v:langID="1033">(</tspan><tspan class="st34"
+							v:langID="1033">implicit</tspan><tspan class="st34" v:langID="1033">_</tspan><tspan class="st34"
+							v:langID="1033">cast</tspan><tspan class="st35" v:langID="1033">&#60;</tspan><tspan class="st38"
+							v:langID="1033">size</tspan><tspan class="st38" v:langID="1033">_</tspan><tspan class="st38"
+							v:langID="1033">t</tspan><tspan class="st35" v:langID="1033">&#62;</tspan><tspan class="st35"
+							v:langID="1033">(</tspan><tspan class="st34" v:langID="1033">next</tspan><tspan class="st34"
+							v:langID="1033">_</tspan><tspan class="st35" v:langID="1033">)</tspan><tspan class="st34"
+							v:langID="1033"> </tspan><tspan class="st35" v:langID="1033">&#62;</tspan><tspan class="st35"
+							v:langID="1033">=</tspan><tspan class="st34" v:langID="1033"> </tspan><tspan class="st34"
+							v:langID="1033">loops</tspan><tspan class="st34" v:langID="1033">_</tspan><tspan class="st35"
+							v:langID="1033">.</tspan><tspan class="st34" v:langID="1033">size</tspan><tspan class="st35"
+							v:langID="1033">())<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st34" v:langID="1033">    </tspan><tspan
+							class="st35" v:langID="1033">{<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st34"
+							v:langID="1033">      </tspan><tspan class="st34" v:langID="1033">next</tspan><tspan class="st34"
+							v:langID="1033">_ </tspan><tspan class="st35" v:langID="1033">=</tspan><tspan class="st34"
+							v:langID="1033"> </tspan><tspan class="st39" v:langID="1033">0</tspan><tspan class="st35"
+							v:langID="1033">;<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st34" v:langID="1033">    </tspan><tspan
+							class="st35" v:langID="1033">}<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st34"
+							v:langID="1033">  </tspan><tspan class="st35" v:langID="1033">}<v:newlineChar/></tspan><tspan x="4"
+							dy="1.215em" class="st34" v:langID="1033">  </tspan><tspan class="st36" v:langID="1033">return</tspan><tspan
+							class="st34" v:langID="1033"> </tspan><tspan class="st34" v:langID="1033">loop</tspan><tspan
+							class="st35" v:langID="1033">;<v:newlineChar/></tspan><tspan x="4" dy="1.384em" class="st35"
+							v:langID="1033">}</tspan></text>			</g>
+			<g id="shape36-1286" v:mID="36" v:groupContext="shape" v:layerMember="0" transform="translate(739.701,-1207.35)">
+				<title>动态连接线</title>
+				<path d="M0 1653.17 L-106.3 1653.17 L-106.3 1656.57" class="st40"/>
+			</g>
+			<g id="shape37-1292" v:mID="37" v:groupContext="shape" v:layerMember="0" transform="translate(994.819,-1165.69)">
+				<title>动态连接线.37</title>
+				<path d="M0 1647.78 L56.69 1647.78 L56.69 1672.36" class="st42"/>
+			</g>
+			<g id="shape38-1298" v:mID="38" v:groupContext="shape" v:layerMember="0" transform="translate(555.449,-1109.84)">
+				<title>动态连接线.38</title>
+				<path d="M0 1647.78 L212.6 1647.78 L212.6 1662.58" class="st42"/>
+			</g>
+			<g id="shape40-1303" v:mID="40" v:groupContext="shape" v:layerMember="0" transform="translate(1016.08,-1021.12)">
+				<title>动态连接线.40</title>
+				<path d="M0 1647.78 L134.65 1647.78 L134.65 1665.35" class="st43"/>
+			</g>
+			<g id="shape41-1306" v:mID="41" v:groupContext="shape" v:layerMember="0" transform="translate(1150.72,-1003.54)">
+				<title>动态连接线.41</title>
+				<path d="M0 1647.78 L0 1755.5 L-42.52 1755.5" class="st42"/>
+			</g>
+			<g id="shape42-1311" v:mID="42" v:groupContext="shape" v:layerMember="0" transform="translate(718.441,-980.866)">
+				<title>动态连接线.42</title>
+				<path d="M0 1647.78 L0 1979.43 L21.26 1979.43" class="st42"/>
+			</g>
+			<g id="shape43-1316" v:mID="43" v:groupContext="shape" v:layerMember="0" transform="translate(718.441,-980.512)">
+				<title>动态连接线.43</title>
+				<path d="M0 1647.78 L0 1619.43 L-48.99 1619.43" class="st43"/>
+			</g>
+		</g>
+	</g>
+</svg>
