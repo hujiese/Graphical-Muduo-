@@ -1,6 +1,6 @@
 ## 图解Muduo网络库
 
-通过一些例子来分析muduo网络库的运作原理，需要使用viso画图软件打开。
+通过一些例子来分析muduo网络库的运作原理，需要使用viso画图软件打开（src目录下是一个截取的muduo核心代码）。
 
 这部分主打muduo的net部分代码，也是最为核心的部分，至于一些基础部分的base文件夹下的代码分析可见：
 
@@ -27,3 +27,7 @@
 ### levle5--TcpServer、EventLoopThreadPool（多线程）
 
 ![](level5/TcpServer_EventLoopThreadPool.svg)
+
+### levle6--TcpClient
+
+![](level6/2.TcpClient.svg)

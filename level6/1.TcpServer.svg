@@ -1,0 +1,712 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 生成 1.TcpServer.svg Page-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="16.0354in" height="34.0787in"
+		viewBox="0 0 1154.55 2453.67" xml:space="preserve" color-interpolation-filters="sRGB" class="st39">
+	<v:documentProperties v:langID="2052" v:metric="true" v:viewMarkup="false">
+		<v:userDefs>
+			<v:ud v:nameU="msvNoAutoConnect" v:val="VT0(1):26"/>
+		</v:userDefs>
+	</v:documentProperties>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st2 {fill:#ff0000;font-family:宋体;font-size:1.00001em;font-weight:bold}
+		.st3 {font-size:1em}
+		.st4 {fill:#804000;font-family:Courier New;font-size:0.833336em}
+		.st5 {fill:#0000ff;font-size:1em;font-weight:bold}
+		.st6 {fill:#000000;font-size:1em}
+		.st7 {fill:#000080;font-size:1em;font-weight:bold}
+		.st8 {fill:#8000ff;font-size:1em}
+		.st9 {fill:#808080;font-size:1em}
+		.st10 {fill:#ff0000;font-size:1em;font-weight:bold}
+		.st11 {fill:#ff0000;font-family:微软雅黑;font-size:1em;font-weight:bold}
+		.st12 {fill:#ff8000;font-size:1em}
+		.st13 {fill:#000000;font-family:微软雅黑;font-size:1em}
+		.st14 {fill:#000000;font-family:Microsoft Sans Serif;font-size:1em}
+		.st15 {fill:#000000;font-family:Courier New;font-size:0.83333em;font-weight:normal}
+		.st16 {fill:#8000ff;font-family:Courier New;font-size:0.83333em;font-weight:normal}
+		.st17 {fill:#000080;font-family:Courier New;font-size:0.83333em}
+		.st18 {fill:#808080;font-family:Courier New;font-size:0.83333em;font-weight:normal}
+		.st19 {font-family:Courier New;font-size:0.83333em}
+		.st20 {font-family:微软雅黑;font-size:0.83333em}
+		.st21 {fill:#0000ff;font-family:Courier New;font-size:0.83333em}
+		.st22 {fill:#ff0000;font-family:宋体;font-size:0.833336em;font-weight:bold}
+		.st23 {font-family:Courier New;font-size:1em}
+		.st24 {fill:#8000ff;font-family:Courier New;font-size:1em;font-weight:normal}
+		.st25 {fill:#000000;font-family:Courier New;font-size:1em;font-weight:normal}
+		.st26 {fill:#000080;font-family:Courier New;font-size:1em}
+		.st27 {fill:#0000ff;font-family:Courier New;font-size:1em}
+		.st28 {fill:#008000;font-family:Courier New;font-size:1em;font-weight:normal}
+		.st29 {fill:#ff8000;font-family:Courier New;font-size:1em;font-weight:normal}
+		.st30 {fill:#808080;font-family:Courier New;font-size:1em;font-weight:normal}
+		.st31 {font-family:微软雅黑;font-size:1em}
+		.st32 {fill:#000080;font-family:微软雅黑;font-size:1em}
+		.st33 {marker-end:url(#mrkr1-1360);stroke:#00b0f0;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st34 {fill:#00b0f0;fill-opacity:1;stroke:#00b0f0;stroke-opacity:1;stroke-width:0.22935779816514}
+		.st35 {stroke:#00b0f0;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st36 {marker-start:url(#mrkr1-1369);stroke:#00b0f0;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st37 {fill:#ffffff;stroke:none;stroke-linecap:butt;stroke-width:7.2}
+		.st38 {fill:#ff0000;font-family:宋体;font-size:0.666664em;font-weight:bold}
+		.st39 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Markers">
+		<g id="lend1">
+			<path d="M 1 -1 L 0 0 L 1 1 " style="stroke-linecap:round;stroke-linejoin:round;fill:none"/>
+		</g>
+		<marker id="mrkr1-1360" class="st34" v:arrowType="1" v:arrowSize="2" orient="auto" markerUnits="strokeWidth"
+				overflow="visible">
+			<use xlink:href="#lend1" transform="scale(-4.36,-4.36) "/>
+		</marker>
+		<marker id="mrkr1-1369" class="st34" v:arrowType="1" v:arrowSize="2" orient="auto" markerUnits="strokeWidth"
+				overflow="visible">
+			<use xlink:href="#lend1" transform="scale(4.36) "/>
+		</marker>
+	</defs>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>页-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<v:layer v:name="连接线" v:index="0"/>
+		<g id="shape1-1" v:mID="1" v:groupContext="shape" transform="translate(18,-2382.65)">
+			<title>工作表.1</title>
+			<desc>这一部分将通过一个回射服务器的案例来分析muduo网络库中的TcpClient以及TcpServer的发送函数因为在之前的...</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="274.49" cy="2435.17" width="548.99" height="37.0079"/>
+			<rect x="0" y="2416.66" width="548.981" height="37.0079" class="st1"/>
+			<text x="4" y="2431.46" class="st2" v:langID="2052"><v:paragraph/><v:tabList/>这一部分将通过一个回射服务器的案例来分析muduo网络库中的TcpClient以及TcpServer的发送函数，<tspan
+						x="4" dy="1.2em" class="st3">因为在之前的分析中</tspan>TcpServer只是关注了连接和获取消息事件，并没有向连接客户端发送任何信息。</text>		</g>
+		<g id="shape3-5" v:mID="3" v:groupContext="shape" transform="translate(56.126,-1445.8)">
+			<title>工作表.3</title>
+			<desc>#include &#60;muduo/net/TcpServer.h&#62; #include &#60;muduo/net/EventLoo...</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="237.402" cy="1995.87" width="474.81" height="915.591"/>
+			<rect x="0" y="1538.08" width="474.803" height="915.591" class="st1"/>
+			<text x="4" y="1549.41" class="st4" v:langID="1033"><v:paragraph v:bulletSize="0.166667"/><v:tabList/>#include &#60;muduo/net/TcpServer.h&#62;<v:newlineChar/><tspan
+						x="4" dy="1.2em" class="st3">#</tspan>include &#60;muduo/net/EventLoop.h&#62;<v:newlineChar/><tspan x="4"
+						dy="1.2em" class="st3">#</tspan>include &#60;muduo/net/InetAddress.h&#62;<v:newlineChar/><v:newlineChar/><tspan
+						x="4" dy="2.4em" class="st3">#</tspan>include &#60;boost/bind.hpp&#62;<v:newlineChar/><v:newlineChar/><tspan
+						x="4" dy="2.4em" class="st3">#</tspan>include &#60;stdio.h&#62;<v:newlineChar/><v:newlineChar/><tspan x="4"
+						dy="2.412em" class="st5">using</tspan><tspan class="st6"> </tspan><tspan class="st5">namespace</tspan><tspan
+						class="st6"> </tspan><tspan class="st6">muduo</tspan><tspan class="st7">;<v:newlineChar/></tspan><tspan
+						x="4" dy="1.215em" class="st5">using</tspan><tspan class="st6"> </tspan><tspan class="st5">namespace</tspan><tspan
+						class="st6"> </tspan><tspan class="st6">muduo</tspan><tspan class="st7">::</tspan><tspan class="st6">net</tspan><tspan
+						class="st7">;<v:newlineChar/><v:newlineChar/></tspan><tspan x="4" dy="2.404em" class="st8">class</tspan><tspan
+						class="st6"> </tspan><tspan class="st6">TestServer<v:newlineChar/></tspan><tspan x="4" dy="1.212em"
+						class="st7">{<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st6"> </tspan><tspan class="st8">public</tspan><tspan
+						class="st7">:<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st6">  </tspan><tspan class="st6">TestServer</tspan><tspan
+						class="st7">(</tspan><tspan class="st6">EventLoop</tspan><tspan class="st7">*</tspan><tspan class="st6"> </tspan><tspan
+						class="st6">loop</tspan><tspan class="st7">,<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st6">             </tspan><tspan
+						class="st8">const</tspan><tspan class="st6"> </tspan><tspan class="st6">InetAddress</tspan><tspan
+						class="st7">&#38;</tspan><tspan class="st6"> </tspan><tspan class="st6">listenAddr</tspan><tspan
+						class="st7">)<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st6">    </tspan><tspan class="st7">:</tspan><tspan
+						class="st6"> </tspan><tspan class="st6">loop</tspan><tspan class="st6">_</tspan><tspan class="st7">(</tspan><tspan
+						class="st6">loop</tspan><tspan class="st7">)</tspan><tspan class="st7">,<v:newlineChar/></tspan><tspan
+						x="4" dy="1.215em" class="st6">      </tspan><tspan class="st6">server</tspan><tspan class="st6">_</tspan><tspan
+						class="st7">(</tspan><tspan class="st6">loop</tspan><tspan class="st7">,</tspan><tspan class="st6"> </tspan><tspan
+						class="st6">listenAddr</tspan><tspan class="st7">,</tspan><tspan class="st6"> </tspan><tspan class="st9">&#34;</tspan><tspan
+						class="st9">TestServer</tspan><tspan class="st9">&#34;</tspan><tspan class="st7">)<v:newlineChar/></tspan><tspan
+						x="4" dy="1.215em" class="st6">  </tspan><tspan class="st7">{<v:newlineChar/></tspan><tspan x="4"
+						dy="1.215em" class="st6">    </tspan><tspan class="st6">server</tspan><tspan class="st6">_</tspan><tspan
+						class="st7">.</tspan><tspan class="st6">setConnectionCallback</tspan><tspan class="st7">(<v:newlineChar/></tspan><tspan
+						x="4" dy="1.215em" class="st6">        </tspan><tspan class="st6">boost</tspan><tspan class="st7">::</tspan><tspan
+						class="st6">bind</tspan><tspan class="st7">(</tspan><tspan class="st7">&#38;</tspan><tspan class="st6">TestServer</tspan><tspan
+						class="st7">::</tspan><tspan class="st6">onConnection</tspan><tspan class="st7">,</tspan><tspan class="st6"> </tspan><tspan
+						class="st5">this</tspan><tspan class="st7">,</tspan><tspan class="st6"> </tspan><tspan class="st6">_</tspan><tspan
+						class="st6">1</tspan><tspan class="st7">))</tspan><tspan class="st7">;<v:newlineChar/></tspan><tspan x="4"
+						dy="1.215em" class="st6">    </tspan><tspan class="st6">server</tspan><tspan class="st6">_</tspan><tspan
+						class="st7">.</tspan><tspan class="st6">setMessageCallback</tspan><tspan class="st7">(<v:newlineChar/></tspan><tspan
+						x="4" dy="1.215em" class="st6">        </tspan><tspan class="st6">boost</tspan><tspan class="st7">::</tspan><tspan
+						class="st6">bind</tspan><tspan class="st7">(</tspan><tspan class="st7">&#38;</tspan><tspan class="st6">TestServer</tspan><tspan
+						class="st7">::</tspan><tspan class="st6">onMessage</tspan><tspan class="st7">,</tspan><tspan class="st6"> </tspan><tspan
+						class="st5">this</tspan><tspan class="st7">,</tspan><tspan class="st6"> </tspan><tspan class="st6">_</tspan><tspan
+						class="st6">1</tspan><tspan class="st7">,</tspan><tspan class="st6"> </tspan><tspan class="st6">_</tspan><tspan
+						class="st6">2</tspan><tspan class="st7">,</tspan><tspan class="st6"> </tspan><tspan class="st6">_</tspan><tspan
+						class="st6">3</tspan><tspan class="st7">))</tspan><tspan class="st7">;<v:newlineChar/></tspan><tspan x="4"
+						dy="1.215em" class="st6">  </tspan><tspan class="st7">}<v:newlineChar/><v:newlineChar/></tspan><tspan x="4"
+						dy="2.416em" class="st6">  </tspan><tspan class="st8">void</tspan><tspan class="st6"> </tspan><tspan
+						class="st6">start</tspan><tspan class="st7">()<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st6">  </tspan><tspan
+						class="st7">{<v:newlineChar/><v:tabChar/></tspan><tspan x="46.52" dy="1.215em" class="st6">  </tspan><tspan
+						class="st6">server</tspan><tspan class="st6">_</tspan><tspan class="st7">.</tspan><tspan class="st6">start</tspan><tspan
+						class="st7">()</tspan><tspan class="st7">;</tspan><tspan x="4" dy="1.215em" class="st6">  </tspan><tspan
+						class="st7">}<v:newlineChar/></tspan><tspan x="4" dy="2.416em" class="st6"> </tspan><tspan class="st8">private</tspan><tspan
+						class="st7">:<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st6">  </tspan><tspan class="st8">void</tspan><tspan
+						class="st6"> </tspan><tspan class="st6">onConnection</tspan><tspan class="st7">(</tspan><tspan class="st8">const</tspan><tspan
+						class="st6"> </tspan><tspan class="st6">TcpConnectionPtr</tspan><tspan class="st7">&#38;</tspan><tspan
+						class="st6"> </tspan><tspan class="st6">conn</tspan><tspan class="st7">) </tspan><tspan x="4" dy="1.215em"
+						class="st6">  </tspan><tspan class="st7">{</tspan><tspan x="4" dy="1.215em" class="st6">    </tspan><tspan
+						class="st5">if</tspan><tspan class="st6"> </tspan><tspan class="st7">(</tspan><tspan class="st6">conn</tspan><tspan
+						class="st7">-<v:space/></tspan><tspan class="st7">&#62;</tspan><tspan class="st6">connected</tspan><tspan
+						class="st7">())</tspan><tspan x="4" dy="1.215em" class="st6">    </tspan><tspan class="st7">{</tspan><tspan
+						x="4" dy="1.215em" class="st6">      </tspan><tspan class="st6">printf</tspan><tspan class="st7">(</tspan><tspan
+						class="st9">&#34;<v:space/></tspan><tspan class="st9">onConnection</tspan><tspan class="st9">(): </tspan><tspan
+						class="st9">new connection </tspan><tspan class="st9">[%</tspan><tspan class="st9">s</tspan><tspan
+						class="st9">] </tspan><tspan class="st9">from </tspan><tspan class="st9">%</tspan><tspan class="st9">s</tspan><tspan
+						class="st9">\</tspan><tspan class="st9">n</tspan><tspan class="st9">&#34;</tspan><tspan class="st7">,</tspan><tspan
+						x="4" dy="1.215em" class="st6">             </tspan><tspan class="st6">conn</tspan><tspan class="st7">-</tspan><tspan
+						class="st7">&#62;</tspan><tspan class="st6">name</tspan><tspan class="st7">().</tspan><tspan class="st6">c</tspan><tspan
+						class="st6">_</tspan><tspan class="st6">str</tspan><tspan class="st7">()</tspan><tspan class="st7">,</tspan><tspan
+						x="4" dy="1.215em" class="st6">             </tspan><tspan class="st6">conn</tspan><tspan class="st7">-</tspan><tspan
+						class="st7">&#62;</tspan><tspan class="st6">peerAddress</tspan><tspan class="st7">().</tspan><tspan
+						class="st6">toIpPort</tspan><tspan class="st7">().</tspan><tspan class="st6">c</tspan><tspan class="st6">_</tspan><tspan
+						class="st6">str</tspan><tspan class="st7">())</tspan><tspan class="st7">;</tspan><tspan x="4" dy="1.215em"
+						class="st6">    </tspan><tspan class="st7">}</tspan><tspan x="4" dy="1.215em" class="st6">    </tspan><tspan
+						class="st5">else</tspan><tspan x="4" dy="1.215em" class="st6">    </tspan><tspan class="st7">{</tspan><tspan
+						x="4" dy="1.215em" class="st6">      </tspan><tspan class="st6">printf</tspan><tspan class="st7">(</tspan><tspan
+						class="st9">&#34;</tspan><tspan class="st9">onConnection</tspan><tspan class="st9">(): <v:space/></tspan><tspan
+						class="st9">connection </tspan><tspan class="st9">[%</tspan><tspan class="st9">s</tspan><tspan class="st9">] </tspan><tspan
+						class="st9">is down</tspan><tspan class="st9">\</tspan><tspan class="st9">n</tspan><tspan class="st9">&#34;</tspan><tspan
+						class="st7">,</tspan><tspan x="4" dy="1.215em" class="st6">             </tspan><tspan class="st6">conn</tspan><tspan
+						class="st7">-</tspan><tspan class="st7">&#62;</tspan><tspan class="st6">name</tspan><tspan class="st7">().</tspan><tspan
+						class="st6">c</tspan><tspan class="st6">_</tspan><tspan class="st6">str</tspan><tspan class="st7">())</tspan><tspan
+						class="st7">;</tspan><tspan x="4" dy="1.215em" class="st6">    </tspan><tspan class="st7">}</tspan><tspan
+						x="4" dy="1.215em" class="st6">  </tspan><tspan class="st7">}</tspan><tspan x="4" dy="2.415em" class="st6">  </tspan><tspan
+						class="st8">void</tspan><tspan class="st6"> </tspan><tspan class="st6">onMessage</tspan><tspan class="st7">(</tspan><tspan
+						class="st8">const</tspan><tspan class="st6"> </tspan><tspan class="st6">TcpConnectionPtr<v:space/></tspan><tspan
+						class="st7">&#38;<v:newlineChar/></tspan><tspan class="st6"> </tspan><tspan class="st6">conn</tspan><tspan
+						class="st7">,</tspan><tspan x="4" dy="1.215em" class="st6">                 </tspan><tspan class="st6">Buffer</tspan><tspan
+						class="st7">*</tspan><tspan class="st6"> </tspan><tspan class="st6">buf</tspan><tspan class="st7">,</tspan><tspan
+						x="4" dy="1.215em" class="st6">                 </tspan><tspan class="st6">Timestamp receiveTime</tspan><tspan
+						class="st7">)</tspan><tspan x="4" dy="1.215em" class="st6">  </tspan><tspan class="st7">{</tspan><tspan
+						x="4" dy="1.215em" class="st6">    </tspan><tspan class="st6">string msg</tspan><tspan class="st7">(<v:space/></tspan><tspan
+						class="st6">buf</tspan><tspan class="st7">-</tspan><tspan class="st7">&#62;</tspan><tspan class="st6">retrieveAllAsString</tspan><tspan
+						class="st7">())</tspan><tspan class="st7">;</tspan><tspan x="4" dy="1.215em" class="st6">    </tspan><tspan
+						class="st6">printf</tspan><tspan class="st7">(</tspan><tspan class="st9">&#34;</tspan><tspan class="st9">onMessage</tspan><tspan
+						class="st9">(): </tspan><tspan class="st9">received </tspan><tspan class="st9">%</tspan><tspan class="st9">zd bytes from connection </tspan><tspan
+						class="st9">[%</tspan><tspan class="st9">s</tspan><tspan class="st9">] </tspan><tspan class="st9">at </tspan><tspan
+						class="st9">%</tspan><tspan class="st9">s<v:space/></tspan><tspan class="st9">\</tspan><tspan class="st9">n</tspan><tspan
+						class="st9">&#34;</tspan><tspan class="st7">,</tspan><tspan x="4" dy="1.215em" class="st6">           </tspan><tspan
+						class="st6">msg</tspan><tspan class="st7">.</tspan><tspan class="st6">size</tspan><tspan class="st7">()</tspan><tspan
+						class="st7">,</tspan><tspan x="4" dy="1.215em" class="st6">           </tspan><tspan class="st6">conn</tspan><tspan
+						class="st7">-</tspan><tspan class="st7">&#62;</tspan><tspan class="st6">name</tspan><tspan class="st7">().</tspan><tspan
+						class="st6">c</tspan><tspan class="st6">_</tspan><tspan class="st6">str</tspan><tspan class="st7">()</tspan><tspan
+						class="st7">,</tspan><tspan x="4" dy="1.215em" class="st6">           </tspan><tspan class="st6">receiveTime</tspan><tspan
+						class="st7">.</tspan><tspan class="st6">toFormattedString</tspan><tspan class="st7">().<v:space/></tspan><tspan
+						class="st6">c</tspan><tspan class="st6">_</tspan><tspan class="st6">str</tspan><tspan class="st7">())</tspan><tspan
+						class="st7">;</tspan><tspan x="4" dy="1.215em" class="st6">    </tspan><tspan class="st10">conn</tspan><tspan
+						class="st10">-</tspan><tspan class="st10">&#62;</tspan><tspan class="st10">send</tspan><tspan class="st10">(</tspan><tspan
+						class="st10">msg</tspan><tspan class="st10">)</tspan><tspan class="st10">;</tspan><tspan class="st10"
+						v:langID="2052">//</tspan><tspan class="st11" v:langID="2052">将客户端发来的数据全部返回给客户端</tspan><tspan class="st11"
+						v:langID="2052">（</tspan><tspan class="st11" v:langID="2052">回射</tspan><tspan class="st11" v:langID="2052">）</tspan><tspan
+						x="4" dy="1.215em" class="st6">  </tspan><tspan class="st7">}</tspan><tspan x="4" dy="2.416em" class="st6">  </tspan><tspan
+						class="st6">EventLoop</tspan><tspan class="st7">*</tspan><tspan class="st6"> </tspan><tspan class="st6">loop</tspan><tspan
+						class="st6">_</tspan><tspan class="st7">;</tspan><tspan x="4" dy="1.215em" class="st6">  </tspan><tspan
+						class="st6">TcpServer server</tspan><tspan class="st6">_</tspan><tspan class="st7">;</tspan><tspan x="4"
+						dy="1.215em" class="st7">}; </tspan><tspan x="4" dy="3.615em" class="st8">int</tspan><tspan class="st6"> </tspan><tspan
+						class="st6">main</tspan><tspan class="st7">()</tspan><tspan x="4" dy="1.215em" class="st7">{</tspan><tspan
+						x="4" dy="1.215em" class="st6">  </tspan><tspan class="st6">printf</tspan><tspan class="st7">(</tspan><tspan
+						class="st9">&#34;</tspan><tspan class="st9">main</tspan><tspan class="st9">(): </tspan><tspan class="st9">pid </tspan><tspan
+						class="st9">= %</tspan><tspan class="st9">d</tspan><tspan class="st9">\</tspan><tspan class="st9">n</tspan><tspan
+						class="st9">&#34;</tspan><tspan class="st7">,</tspan><tspan class="st6"> </tspan><tspan class="st6">getpid<v:space/></tspan><tspan
+						class="st7">())</tspan><tspan class="st7">;</tspan><tspan x="4" dy="2.415em" class="st6">  </tspan><tspan
+						class="st6">InetAddress listenAddr</tspan><tspan class="st7">(</tspan><tspan class="st12">8888</tspan><tspan
+						class="st7">)</tspan><tspan class="st7">;</tspan><tspan x="4" dy="1.215em" class="st6">  </tspan><tspan
+						class="st6">EventLoop loop</tspan><tspan class="st7">;</tspan><tspan x="4" dy="2.416em" class="st6">  </tspan><tspan
+						class="st6">TestServer server</tspan><tspan class="st7">(</tspan><tspan class="st7">&#38;</tspan><tspan
+						class="st6">loop</tspan><tspan class="st7">,</tspan><tspan class="st6"> </tspan><tspan class="st6">listenAddr</tspan><tspan
+						class="st7">)</tspan><tspan class="st7">;</tspan><tspan x="4" dy="1.215em" class="st6">  </tspan><tspan
+						class="st6">server</tspan><tspan class="st7">.</tspan><tspan class="st6">start</tspan><tspan class="st7">()<v:space/></tspan><tspan
+						class="st7">;</tspan><tspan x="4" dy="2.416em" class="st6">  </tspan><tspan class="st6">loop</tspan><tspan
+						class="st7">.</tspan><tspan class="st6">loop</tspan><tspan class="st7">()</tspan><tspan class="st7">;</tspan><tspan
+						x="4" dy="1.384em" class="st7">}</tspan></text>		</g>
+		<g id="shape5-413" v:mID="5" v:groupContext="shape" transform="translate(587.622,-2100.76)">
+			<title>工作表.5</title>
+			<desc>1、先从TcpServer的测试代码开始 其他的部分在前面的level中都分析过了这里直接看发送部分当然前提是已经建立连接...</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197" v:verticalAlign="0"/>
+			<v:textRect cx="257.244" cy="2313.48" width="514.49" height="280.386"/>
+			<rect x="0" y="2173.28" width="514.488" height="280.386" class="st1"/>
+			<text x="4" y="2188.08" class="st2" v:langID="2052"><v:paragraph/><v:tabList/>1、先从TcpServer的测试代码开始<v:newlineChar/><v:newlineChar/><tspan
+						x="4" dy="2.412em" class="st13">其他的部分在前面的</tspan><tspan class="st14">level</tspan><tspan class="st13">中都分析过了</tspan><tspan
+						class="st13">，</tspan><tspan class="st13">这里直接看发送部分</tspan><tspan class="st13">，</tspan><tspan class="st13">当然前提是已经建立连接了</tspan><tspan
+						class="st13">：<v:newlineChar/><v:newlineChar/><v:paragraph v:bulletSize="0.166667"/></tspan><tspan x="4"
+						dy="2.716em" class="st15" v:langID="1033">  </tspan><tspan class="st16" v:langID="1033">void</tspan><tspan
+						class="st15" v:langID="1033"> </tspan><tspan class="st15" v:langID="1033">onMessage</tspan><tspan
+						class="st17" v:langID="1033">(</tspan><tspan class="st16" v:langID="1033">const</tspan><tspan class="st15"
+						v:langID="1033"> </tspan><tspan class="st15" v:langID="1033">TcpConnectionPtr</tspan><tspan class="st17"
+						v:langID="1033">&#38;</tspan><tspan class="st15" v:langID="1033"> </tspan><tspan class="st15"
+						v:langID="1033">conn</tspan><tspan class="st17" v:langID="1033">,<v:newlineChar/></tspan><tspan x="4"
+						dy="1.215em" class="st15" v:langID="1033">                 </tspan><tspan class="st15" v:langID="1033">Buffer</tspan><tspan
+						class="st17" v:langID="1033">*</tspan><tspan class="st15" v:langID="1033"> </tspan><tspan class="st15"
+						v:langID="1033">buf</tspan><tspan class="st17" v:langID="1033">,<v:newlineChar/></tspan><tspan x="4"
+						dy="1.215em" class="st15" v:langID="1033">                 </tspan><tspan class="st15" v:langID="1033">Timestamp receiveTime</tspan><tspan
+						class="st17" v:langID="1033">)<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st15"
+						v:langID="1033">  </tspan><tspan class="st17" v:langID="1033">{<v:newlineChar/></tspan><tspan x="4"
+						dy="1.215em" class="st15" v:langID="1033">    </tspan><tspan class="st15" v:langID="1033">string msg</tspan><tspan
+						class="st17" v:langID="1033">(</tspan><tspan class="st15" v:langID="1033">buf</tspan><tspan class="st17"
+						v:langID="1033">-</tspan><tspan class="st17" v:langID="1033">&#62;</tspan><tspan class="st15"
+						v:langID="1033">retrieveAllAsString</tspan><tspan class="st17" v:langID="1033">())</tspan><tspan
+						class="st17" v:langID="1033">;<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st15"
+						v:langID="1033">    </tspan><tspan class="st15" v:langID="1033">printf</tspan><tspan class="st17"
+						v:langID="1033">(</tspan><tspan class="st18" v:langID="1033">&#34;</tspan><tspan class="st18"
+						v:langID="1033">onMessage</tspan><tspan class="st18" v:langID="1033">(): </tspan><tspan class="st18"
+						v:langID="1033">received </tspan><tspan class="st18" v:langID="1033">%</tspan><tspan class="st18"
+						v:langID="1033">zd bytes from connection </tspan><tspan class="st18" v:langID="1033">[%</tspan><tspan
+						class="st18" v:langID="1033">s</tspan><tspan class="st18" v:langID="1033">] </tspan><tspan class="st18"
+						v:langID="1033">at </tspan><tspan class="st18" v:langID="1033">%</tspan><tspan class="st18" v:langID="1033">s</tspan><tspan
+						class="st18" v:langID="1033">\</tspan><tspan class="st18" v:langID="1033">n</tspan><tspan class="st18"
+						v:langID="1033">&#34;</tspan><tspan class="st17" v:langID="1033">,<v:newlineChar/></tspan><tspan x="4"
+						dy="1.215em" class="st15" v:langID="1033">           </tspan><tspan class="st15" v:langID="1033">msg</tspan><tspan
+						class="st17" v:langID="1033">.</tspan><tspan class="st15" v:langID="1033">size</tspan><tspan class="st17"
+						v:langID="1033">()</tspan><tspan class="st17" v:langID="1033">,<v:newlineChar/></tspan><tspan x="4"
+						dy="1.215em" class="st15" v:langID="1033">           </tspan><tspan class="st15" v:langID="1033">conn</tspan><tspan
+						class="st17" v:langID="1033">-</tspan><tspan class="st17" v:langID="1033">&#62;</tspan><tspan class="st15"
+						v:langID="1033">name</tspan><tspan class="st17" v:langID="1033">().</tspan><tspan class="st15"
+						v:langID="1033">c</tspan><tspan class="st15" v:langID="1033">_</tspan><tspan class="st15" v:langID="1033">str</tspan><tspan
+						class="st17" v:langID="1033">()</tspan><tspan class="st17" v:langID="1033">,<v:newlineChar/></tspan><tspan
+						x="4" dy="1.215em" class="st15" v:langID="1033">           </tspan><tspan class="st15" v:langID="1033">receiveTime</tspan><tspan
+						class="st17" v:langID="1033">.</tspan><tspan class="st15" v:langID="1033">toFormattedString</tspan><tspan
+						class="st17" v:langID="1033">().</tspan><tspan class="st15" v:langID="1033">c</tspan><tspan class="st15"
+						v:langID="1033">_</tspan><tspan class="st15" v:langID="1033">str</tspan><tspan class="st17" v:langID="1033">())</tspan><tspan
+						class="st17" v:langID="1033">;<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st15"
+						v:langID="1033">    </tspan><tspan class="st19" v:langID="1033">conn</tspan><tspan class="st19"
+						v:langID="1033">-</tspan><tspan class="st19" v:langID="1033">&#62;</tspan><tspan class="st19"
+						v:langID="1033">send</tspan><tspan class="st19" v:langID="1033">(</tspan><tspan class="st19"
+						v:langID="1033">msg</tspan><tspan class="st19" v:langID="1033">)</tspan><tspan class="st19" v:langID="1033">;</tspan><tspan
+						class="st19">//</tspan><tspan class="st20">将客户端发来的数据全部返回给客户端</tspan><tspan class="st20">（</tspan><tspan
+						class="st20">回射</tspan><tspan class="st20">）<v:newlineChar/><v:paragraph/></tspan><tspan x="4" dy="1.215em"
+						class="st15" v:langID="1033">  </tspan><tspan class="st17" v:langID="1033">}<v:newlineChar/><v:newlineChar/><v:paragraph
+							v:bulletSize="0.166667"/></tspan><tspan x="4" dy="2.655em" class="st15" v:langID="1033">server</tspan><tspan
+						class="st15" v:langID="1033">_</tspan><tspan class="st17" v:langID="1033">.</tspan><tspan class="st15"
+						v:langID="1033">setMessageCallback</tspan><tspan class="st17" v:langID="1033">(<v:newlineChar/><v:paragraph/></tspan><tspan
+						x="4" dy="1.215em" class="st15" v:langID="1033">        </tspan><tspan class="st15" v:langID="1033">boost</tspan><tspan
+						class="st17" v:langID="1033">::</tspan><tspan class="st15" v:langID="1033">bind</tspan><tspan class="st17"
+						v:langID="1033">(</tspan><tspan class="st17" v:langID="1033">&#38;</tspan><tspan class="st15"
+						v:langID="1033">TestServer</tspan><tspan class="st17" v:langID="1033">::</tspan><tspan class="st15"
+						v:langID="1033">onMessage</tspan><tspan class="st17" v:langID="1033">,</tspan><tspan class="st15"
+						v:langID="1033"> </tspan><tspan class="st21" v:langID="1033">this</tspan><tspan class="st17"
+						v:langID="1033">,</tspan><tspan class="st15" v:langID="1033"> </tspan><tspan class="st15" v:langID="1033">_</tspan><tspan
+						class="st15" v:langID="1033">1</tspan><tspan class="st17" v:langID="1033">,</tspan><tspan class="st15"
+						v:langID="1033"> </tspan><tspan class="st15" v:langID="1033">_</tspan><tspan class="st15" v:langID="1033">2</tspan><tspan
+						class="st17" v:langID="1033">,</tspan><tspan class="st15" v:langID="1033"> </tspan><tspan class="st15"
+						v:langID="1033">_</tspan><tspan class="st15" v:langID="1033">3</tspan><tspan class="st17" v:langID="1033">))</tspan><tspan
+						class="st17" v:langID="1033">;<v:newlineChar/><v:newlineChar/><v:paragraph/></tspan><tspan x="4"
+						dy="2.353em" class="st6">当</tspan><tspan class="st6">TcpServer</tspan><tspan class="st6">收到来自客户端发来的消息时</tspan><tspan
+						class="st6">，</tspan><tspan class="st6">先将这些消息取出</tspan><tspan class="st6">，</tspan><tspan class="st6">然后将客户端发来的数据全部</tspan><tspan
+						x="4" dy="1.2em" class="st6">返回给客户端</tspan><tspan class="st6">（</tspan><tspan class="st6">回射</tspan><tspan
+						class="st6">）</tspan></text>		</g>
+		<g id="shape11-560" v:mID="11" v:groupContext="shape" transform="translate(587.622,-611.717)">
+			<title>工作表.11</title>
+			<desc>这三个send函数其实到最后都是调用了sendInLoop函数而且都可以跨线程调用 void TcpConnection:...</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="268.091" cy="1715.24" width="536.19" height="1476.85"/>
+			<rect x="0" y="976.819" width="536.181" height="1476.85" class="st1"/>
+			<text x="85.54" y="988.84" class="st22" v:langID="2052"><v:paragraph v:horizAlign="1" v:bulletSize="0.166667"/><v:tabList/>这三个<tspan
+						class="st23">send</tspan>函数其实到最后都是调用了<tspan class="st23">sendInLoop</tspan>函数，而且都可以跨线程调用<v:newlineChar/><v:paragraph
+						v:bulletSize="0.166667"/><tspan x="4" dy="1.244em" class="st24" v:langID="1033">void</tspan><tspan
+						class="st25" v:langID="1033"> </tspan><tspan class="st25" v:langID="1033">TcpConnection</tspan><tspan
+						class="st26" v:langID="1033">::</tspan><tspan class="st25" v:langID="1033">send</tspan><tspan class="st26"
+						v:langID="1033">(</tspan><tspan class="st24" v:langID="1033">const</tspan><tspan class="st25"
+						v:langID="1033"> </tspan><tspan class="st24" v:langID="1033">void</tspan><tspan class="st26"
+						v:langID="1033">*</tspan><tspan class="st25" v:langID="1033"> </tspan><tspan class="st25" v:langID="1033">data</tspan><tspan
+						class="st26" v:langID="1033">,</tspan><tspan class="st25" v:langID="1033"> </tspan><tspan class="st24"
+						v:langID="1033">size</tspan><tspan class="st24" v:langID="1033">_</tspan><tspan class="st24"
+						v:langID="1033">t</tspan><tspan class="st25" v:langID="1033"> </tspan><tspan class="st25" v:langID="1033">len</tspan><tspan
+						class="st26" v:langID="1033">)<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st26"
+						v:langID="1033">{<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st25" v:langID="1033">  </tspan><tspan
+						class="st27" v:langID="1033">if</tspan><tspan class="st25" v:langID="1033"> </tspan><tspan class="st26"
+						v:langID="1033">(</tspan><tspan class="st25" v:langID="1033">state</tspan><tspan class="st25"
+						v:langID="1033">_ </tspan><tspan class="st26" v:langID="1033">==</tspan><tspan class="st25" v:langID="1033"> </tspan><tspan
+						class="st25" v:langID="1033">kConnected</tspan><tspan class="st26" v:langID="1033">)<v:newlineChar/></tspan><tspan
+						x="4" dy="1.215em" class="st25" v:langID="1033">  </tspan><tspan class="st26" v:langID="1033">{<v:newlineChar/></tspan><tspan
+						x="4" dy="1.215em" class="st25" v:langID="1033">    </tspan><tspan class="st27" v:langID="1033">if</tspan><tspan
+						class="st25" v:langID="1033"> </tspan><tspan class="st26" v:langID="1033">(</tspan><tspan class="st25"
+						v:langID="1033">loop</tspan><tspan class="st25" v:langID="1033">_</tspan><tspan class="st26"
+						v:langID="1033">-</tspan><tspan class="st26" v:langID="1033">&#62;</tspan><tspan class="st25"
+						v:langID="1033">isInLoopThread</tspan><tspan class="st26" v:langID="1033">())<v:newlineChar/></tspan><tspan
+						x="4" dy="1.215em" class="st25" v:langID="1033">    </tspan><tspan class="st26" v:langID="1033">{<v:newlineChar/></tspan><tspan
+						x="4" dy="1.215em" class="st25" v:langID="1033">      </tspan><tspan class="st25" v:langID="1033">sendInLoop</tspan><tspan
+						class="st26" v:langID="1033">(</tspan><tspan class="st25" v:langID="1033">data</tspan><tspan class="st26"
+						v:langID="1033">,</tspan><tspan class="st25" v:langID="1033"> </tspan><tspan class="st25" v:langID="1033">len</tspan><tspan
+						class="st26" v:langID="1033">)</tspan><tspan class="st26" v:langID="1033">;<v:newlineChar/></tspan><tspan
+						x="4" dy="1.215em" class="st25" v:langID="1033">    </tspan><tspan class="st26" v:langID="1033">}<v:newlineChar/></tspan><tspan
+						x="4" dy="1.215em" class="st25" v:langID="1033">    </tspan><tspan class="st27" v:langID="1033">else<v:newlineChar/></tspan><tspan
+						x="4" dy="1.215em" class="st25" v:langID="1033">    </tspan><tspan class="st26" v:langID="1033">{<v:newlineChar/></tspan><tspan
+						x="4" dy="1.215em" class="st25" v:langID="1033">      </tspan><tspan class="st25" v:langID="1033">string message</tspan><tspan
+						class="st26" v:langID="1033">(</tspan><tspan class="st27" v:langID="1033">static</tspan><tspan class="st27"
+						v:langID="1033">_</tspan><tspan class="st27" v:langID="1033">cast</tspan><tspan class="st26"
+						v:langID="1033">&#60;</tspan><tspan class="st24" v:langID="1033">const</tspan><tspan class="st25"
+						v:langID="1033"> </tspan><tspan class="st24" v:langID="1033">char</tspan><tspan class="st26"
+						v:langID="1033">*</tspan><tspan class="st26" v:langID="1033">&#62;</tspan><tspan class="st26"
+						v:langID="1033">(</tspan><tspan class="st25" v:langID="1033">data</tspan><tspan class="st26"
+						v:langID="1033">)</tspan><tspan class="st26" v:langID="1033">,</tspan><tspan class="st25" v:langID="1033"> </tspan><tspan
+						class="st25" v:langID="1033">len</tspan><tspan class="st26" v:langID="1033">)</tspan><tspan class="st26"
+						v:langID="1033">;<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st25" v:langID="1033">      </tspan><tspan
+						class="st25" v:langID="1033">loop</tspan><tspan class="st25" v:langID="1033">_</tspan><tspan class="st26"
+						v:langID="1033">-</tspan><tspan class="st26" v:langID="1033">&#62;</tspan><tspan class="st25"
+						v:langID="1033">runInLoop</tspan><tspan class="st26" v:langID="1033">(<v:newlineChar/></tspan><tspan x="4"
+						dy="1.215em" class="st25" v:langID="1033">          </tspan><tspan class="st25" v:langID="1033">boost</tspan><tspan
+						class="st26" v:langID="1033">::</tspan><tspan class="st25" v:langID="1033">bind</tspan><tspan class="st26"
+						v:langID="1033">(</tspan><tspan class="st26" v:langID="1033">&#38;</tspan><tspan class="st25"
+						v:langID="1033">TcpConnection</tspan><tspan class="st26" v:langID="1033">::</tspan><tspan class="st25"
+						v:langID="1033">sendInLoop</tspan><tspan class="st26" v:langID="1033">,<v:newlineChar/></tspan><tspan x="4"
+						dy="1.215em" class="st25" v:langID="1033">                      </tspan><tspan class="st27" v:langID="1033">this</tspan><tspan
+						class="st26" v:langID="1033">,</tspan><tspan class="st25" v:langID="1033">     </tspan><tspan class="st28"
+						v:langID="1033">// </tspan><tspan class="st28" v:langID="1033">FIXME<v:newlineChar/></tspan><tspan x="4"
+						dy="1.215em" class="st25" v:langID="1033">                      </tspan><tspan class="st25" v:langID="1033">message</tspan><tspan
+						class="st26" v:langID="1033">))</tspan><tspan class="st26" v:langID="1033">;<v:newlineChar/></tspan><tspan
+						x="4" dy="1.215em" class="st25" v:langID="1033">    </tspan><tspan class="st26" v:langID="1033">}<v:newlineChar/></tspan><tspan
+						x="4" dy="1.215em" class="st25" v:langID="1033">  </tspan><tspan class="st26" v:langID="1033">}<v:newlineChar/></tspan><tspan
+						x="4" dy="1.215em" class="st26" v:langID="1033">}<v:newlineChar/><v:newlineChar/></tspan><tspan x="4"
+						dy="2.415em" class="st24" v:langID="1033">void</tspan><tspan class="st25" v:langID="1033"> </tspan><tspan
+						class="st25" v:langID="1033">TcpConnection</tspan><tspan class="st26" v:langID="1033">::</tspan><tspan
+						class="st25" v:langID="1033">send</tspan><tspan class="st26" v:langID="1033">(</tspan><tspan class="st24"
+						v:langID="1033">const</tspan><tspan class="st25" v:langID="1033"> </tspan><tspan class="st25"
+						v:langID="1033">StringPiece</tspan><tspan class="st26" v:langID="1033">&#38;</tspan><tspan class="st25"
+						v:langID="1033"> </tspan><tspan class="st25" v:langID="1033">message</tspan><tspan class="st26"
+						v:langID="1033">)<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st26" v:langID="1033">{<v:newlineChar/></tspan><tspan
+						x="4" dy="1.215em" class="st25" v:langID="1033">  </tspan><tspan class="st27" v:langID="1033">if</tspan><tspan
+						class="st25" v:langID="1033"> </tspan><tspan class="st26" v:langID="1033">(</tspan><tspan class="st25"
+						v:langID="1033">state</tspan><tspan class="st25" v:langID="1033">_ </tspan><tspan class="st26"
+						v:langID="1033">==</tspan><tspan class="st25" v:langID="1033"> </tspan><tspan class="st25" v:langID="1033">kConnected</tspan><tspan
+						class="st26" v:langID="1033">)<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st25"
+						v:langID="1033">  </tspan><tspan class="st26" v:langID="1033">{<v:newlineChar/></tspan><tspan x="4"
+						dy="1.215em" class="st25" v:langID="1033">    </tspan><tspan class="st27" v:langID="1033">if</tspan><tspan
+						class="st25" v:langID="1033"> </tspan><tspan class="st26" v:langID="1033">(</tspan><tspan class="st25"
+						v:langID="1033">loop</tspan><tspan class="st25" v:langID="1033">_</tspan><tspan class="st26"
+						v:langID="1033">-</tspan><tspan class="st26" v:langID="1033">&#62;</tspan><tspan class="st25"
+						v:langID="1033">isInLoopThread</tspan><tspan class="st26" v:langID="1033">())<v:newlineChar/></tspan><tspan
+						x="4" dy="1.215em" class="st25" v:langID="1033">    </tspan><tspan class="st26" v:langID="1033">{<v:newlineChar/></tspan><tspan
+						x="4" dy="1.215em" class="st25" v:langID="1033">      </tspan><tspan class="st25" v:langID="1033">sendInLoop</tspan><tspan
+						class="st26" v:langID="1033">(</tspan><tspan class="st25" v:langID="1033">message</tspan><tspan
+						class="st26" v:langID="1033">)</tspan><tspan class="st26" v:langID="1033">;<v:newlineChar/></tspan><tspan
+						x="4" dy="1.215em" class="st25" v:langID="1033">    </tspan><tspan class="st26" v:langID="1033">}<v:newlineChar/></tspan><tspan
+						x="4" dy="1.215em" class="st25" v:langID="1033">    </tspan><tspan class="st27" v:langID="1033">else<v:newlineChar/></tspan><tspan
+						x="4" dy="1.215em" class="st25" v:langID="1033">    </tspan><tspan class="st26" v:langID="1033">{<v:newlineChar/></tspan><tspan
+						x="4" dy="1.215em" class="st25" v:langID="1033">      </tspan><tspan class="st25" v:langID="1033">loop</tspan><tspan
+						class="st25" v:langID="1033">_</tspan><tspan class="st26" v:langID="1033">-</tspan><tspan class="st26"
+						v:langID="1033">&#62;</tspan><tspan class="st25" v:langID="1033">runInLoop</tspan><tspan class="st26"
+						v:langID="1033">(<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st25" v:langID="1033">          </tspan><tspan
+						class="st25" v:langID="1033">boost</tspan><tspan class="st26" v:langID="1033">::</tspan><tspan class="st25"
+						v:langID="1033">bind</tspan><tspan class="st26" v:langID="1033">(</tspan><tspan class="st26"
+						v:langID="1033">&#38;</tspan><tspan class="st25" v:langID="1033">TcpConnection</tspan><tspan class="st26"
+						v:langID="1033">::</tspan><tspan class="st25" v:langID="1033">sendInLoop</tspan><tspan class="st26"
+						v:langID="1033">,<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st25" v:langID="1033">                      </tspan><tspan
+						class="st27" v:langID="1033">this</tspan><tspan class="st26" v:langID="1033">,</tspan><tspan class="st25"
+						v:langID="1033">     </tspan><tspan class="st28" v:langID="1033">// </tspan><tspan class="st28"
+						v:langID="1033">FIXME<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st25" v:langID="1033">                      </tspan><tspan
+						class="st25" v:langID="1033">message</tspan><tspan class="st26" v:langID="1033">.</tspan><tspan
+						class="st25" v:langID="1033">as</tspan><tspan class="st25" v:langID="1033">_</tspan><tspan class="st25"
+						v:langID="1033">string</tspan><tspan class="st26" v:langID="1033">()))</tspan><tspan class="st26"
+						v:langID="1033">;<v:newlineChar/></tspan><tspan x="4" dy="1.204em" class="st25" v:langID="1033">                    </tspan><tspan
+						class="st28" v:langID="1033">//</tspan><tspan class="st28" v:langID="1033">std</tspan><tspan class="st28"
+						v:langID="1033">::</tspan><tspan class="st28" v:langID="1033">forward</tspan><tspan class="st28"
+						v:langID="1033">&#60;</tspan><tspan class="st28" v:langID="1033">string</tspan><tspan class="st28"
+						v:langID="1033">&#62;</tspan><tspan class="st28" v:langID="1033">(</tspan><tspan class="st28"
+						v:langID="1033">message</tspan><tspan class="st28" v:langID="1033">)))</tspan><tspan class="st28"
+						v:langID="1033">;<v:newlineChar/></tspan><tspan x="4" dy="1.212em" class="st25" v:langID="1033">    </tspan><tspan
+						class="st26" v:langID="1033">}<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st25"
+						v:langID="1033">  </tspan><tspan class="st26" v:langID="1033">}<v:newlineChar/></tspan><tspan x="4"
+						dy="1.215em" class="st26" v:langID="1033">}<v:newlineChar/><v:newlineChar/></tspan><tspan x="4"
+						dy="2.404em" class="st28" v:langID="1033">// </tspan><tspan class="st28" v:langID="1033">FIXME efficiency</tspan><tspan
+						class="st28" v:langID="1033">!!!<v:newlineChar/></tspan><tspan x="4" dy="1.212em" class="st24"
+						v:langID="1033">void</tspan><tspan class="st25" v:langID="1033"> </tspan><tspan class="st25"
+						v:langID="1033">TcpConnection</tspan><tspan class="st26" v:langID="1033">::</tspan><tspan class="st25"
+						v:langID="1033">send</tspan><tspan class="st26" v:langID="1033">(</tspan><tspan class="st25"
+						v:langID="1033">Buffer</tspan><tspan class="st26" v:langID="1033">*</tspan><tspan class="st25"
+						v:langID="1033"> </tspan><tspan class="st25" v:langID="1033">buf</tspan><tspan class="st26" v:langID="1033">)<v:newlineChar/></tspan><tspan
+						x="4" dy="1.215em" class="st26" v:langID="1033">{<v:newlineChar/></tspan><tspan x="4" dy="1.215em"
+						class="st25" v:langID="1033">  </tspan><tspan class="st27" v:langID="1033">if</tspan><tspan class="st25"
+						v:langID="1033"> </tspan><tspan class="st26" v:langID="1033">(</tspan><tspan class="st25" v:langID="1033">state</tspan><tspan
+						class="st25" v:langID="1033">_ </tspan><tspan class="st26" v:langID="1033">==</tspan><tspan class="st25"
+						v:langID="1033"> </tspan><tspan class="st25" v:langID="1033">kConnected</tspan><tspan class="st26"
+						v:langID="1033">)<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st25" v:langID="1033">  </tspan><tspan
+						class="st26" v:langID="1033">{<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st25"
+						v:langID="1033">    </tspan><tspan class="st27" v:langID="1033">if</tspan><tspan class="st25"
+						v:langID="1033"> </tspan><tspan class="st26" v:langID="1033">(</tspan><tspan class="st25" v:langID="1033">loop</tspan><tspan
+						class="st25" v:langID="1033">_</tspan><tspan class="st26" v:langID="1033">-</tspan><tspan class="st26"
+						v:langID="1033">&#62;</tspan><tspan class="st25" v:langID="1033">isInLoopThread</tspan><tspan class="st26"
+						v:langID="1033">())<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st25" v:langID="1033">    </tspan><tspan
+						class="st26" v:langID="1033">{<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st25"
+						v:langID="1033">      </tspan><tspan class="st25" v:langID="1033">sendInLoop</tspan><tspan class="st26"
+						v:langID="1033">(</tspan><tspan class="st25" v:langID="1033">buf</tspan><tspan class="st26" v:langID="1033">-</tspan><tspan
+						class="st26" v:langID="1033">&#62;</tspan><tspan class="st25" v:langID="1033">peek</tspan><tspan
+						class="st26" v:langID="1033">()</tspan><tspan class="st26" v:langID="1033">,</tspan><tspan class="st25"
+						v:langID="1033"> </tspan><tspan class="st25" v:langID="1033">buf</tspan><tspan class="st26" v:langID="1033">-</tspan><tspan
+						class="st26" v:langID="1033">&#62;</tspan><tspan class="st25" v:langID="1033">readableBytes</tspan><tspan
+						class="st26" v:langID="1033">())</tspan><tspan class="st26" v:langID="1033">;<v:newlineChar/></tspan><tspan
+						x="4" dy="1.215em" class="st25" v:langID="1033">      </tspan><tspan class="st25" v:langID="1033">buf</tspan><tspan
+						class="st26" v:langID="1033">-</tspan><tspan class="st26" v:langID="1033">&#62;</tspan><tspan class="st25"
+						v:langID="1033">retrieveAll</tspan><tspan class="st26" v:langID="1033">()</tspan><tspan class="st26"
+						v:langID="1033">;<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st25" v:langID="1033">    </tspan><tspan
+						class="st26" v:langID="1033">}<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st25"
+						v:langID="1033">    </tspan><tspan class="st27" v:langID="1033">else<v:newlineChar/></tspan><tspan x="4"
+						dy="1.215em" class="st25" v:langID="1033">    </tspan><tspan class="st26" v:langID="1033">{<v:newlineChar/></tspan><tspan
+						x="4" dy="1.215em" class="st25" v:langID="1033">      </tspan><tspan class="st25" v:langID="1033">loop</tspan><tspan
+						class="st25" v:langID="1033">_</tspan><tspan class="st26" v:langID="1033">-</tspan><tspan class="st26"
+						v:langID="1033">&#62;</tspan><tspan class="st25" v:langID="1033">runInLoop</tspan><tspan class="st26"
+						v:langID="1033">(<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st25" v:langID="1033">          </tspan><tspan
+						class="st25" v:langID="1033">boost</tspan><tspan class="st26" v:langID="1033">::</tspan><tspan class="st25"
+						v:langID="1033">bind</tspan><tspan class="st26" v:langID="1033">(</tspan><tspan class="st26"
+						v:langID="1033">&#38;</tspan><tspan class="st25" v:langID="1033">TcpConnection</tspan><tspan class="st26"
+						v:langID="1033">::</tspan><tspan class="st25" v:langID="1033">sendInLoop</tspan><tspan class="st26"
+						v:langID="1033">,<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st25" v:langID="1033">                      </tspan><tspan
+						class="st27" v:langID="1033">this</tspan><tspan class="st26" v:langID="1033">,</tspan><tspan class="st25"
+						v:langID="1033">     </tspan><tspan class="st28" v:langID="1033">// </tspan><tspan class="st28"
+						v:langID="1033">FIXME<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st25" v:langID="1033">                      </tspan><tspan
+						class="st25" v:langID="1033">buf</tspan><tspan class="st26" v:langID="1033">-</tspan><tspan class="st26"
+						v:langID="1033">&#62;</tspan><tspan class="st25" v:langID="1033">retrieveAllAsString</tspan><tspan
+						class="st26" v:langID="1033">()))</tspan><tspan class="st26" v:langID="1033">;<v:newlineChar/></tspan><tspan
+						x="4" dy="1.204em" class="st25" v:langID="1033">                    </tspan><tspan class="st28"
+						v:langID="1033">//</tspan><tspan class="st28" v:langID="1033">std</tspan><tspan class="st28"
+						v:langID="1033">::</tspan><tspan class="st28" v:langID="1033">forward</tspan><tspan class="st28"
+						v:langID="1033">&#60;</tspan><tspan class="st28" v:langID="1033">string</tspan><tspan class="st28"
+						v:langID="1033">&#62;</tspan><tspan class="st28" v:langID="1033">(</tspan><tspan class="st28"
+						v:langID="1033">message</tspan><tspan class="st28" v:langID="1033">)))</tspan><tspan class="st28"
+						v:langID="1033">;<v:newlineChar/></tspan><tspan x="4" dy="1.212em" class="st25" v:langID="1033">    </tspan><tspan
+						class="st26" v:langID="1033">}<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st25"
+						v:langID="1033">  </tspan><tspan class="st26" v:langID="1033">}<v:newlineChar/></tspan><tspan x="4"
+						dy="1.215em" class="st26" v:langID="1033">}<v:newlineChar/><v:newlineChar/></tspan><tspan x="4"
+						dy="2.415em" class="st24" v:langID="1033">void</tspan><tspan class="st25" v:langID="1033"> </tspan><tspan
+						class="st25" v:langID="1033">TcpConnection</tspan><tspan class="st26" v:langID="1033">::</tspan><tspan
+						class="st25" v:langID="1033">sendInLoop</tspan><tspan class="st26" v:langID="1033">(</tspan><tspan
+						class="st24" v:langID="1033">const</tspan><tspan class="st25" v:langID="1033"> </tspan><tspan class="st25"
+						v:langID="1033">StringPiece</tspan><tspan class="st26" v:langID="1033">&#38;</tspan><tspan class="st25"
+						v:langID="1033"> </tspan><tspan class="st25" v:langID="1033">message</tspan><tspan class="st26"
+						v:langID="1033">)<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st26" v:langID="1033">{<v:newlineChar/></tspan><tspan
+						x="4" dy="1.215em" class="st25" v:langID="1033">  </tspan><tspan class="st25" v:langID="1033">sendInLoop</tspan><tspan
+						class="st26" v:langID="1033">(</tspan><tspan class="st25" v:langID="1033">message</tspan><tspan
+						class="st26" v:langID="1033">.</tspan><tspan class="st25" v:langID="1033">data</tspan><tspan class="st26"
+						v:langID="1033">()</tspan><tspan class="st26" v:langID="1033">,</tspan><tspan class="st25" v:langID="1033"> </tspan><tspan
+						class="st25" v:langID="1033">message</tspan><tspan class="st26" v:langID="1033">.</tspan><tspan
+						class="st25" v:langID="1033">size</tspan><tspan class="st26" v:langID="1033">())</tspan><tspan class="st26"
+						v:langID="1033">;<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st26" v:langID="1033">}<v:newlineChar/><v:newlineChar/></tspan><tspan
+						x="4" dy="2.415em" class="st24" v:langID="1033">void</tspan><tspan class="st25" v:langID="1033"> </tspan><tspan
+						class="st25" v:langID="1033">TcpConnection</tspan><tspan class="st26" v:langID="1033">::</tspan><tspan
+						class="st25" v:langID="1033">sendInLoop</tspan><tspan class="st26" v:langID="1033">(</tspan><tspan
+						class="st24" v:langID="1033">const</tspan><tspan class="st25" v:langID="1033"> </tspan><tspan class="st24"
+						v:langID="1033">void</tspan><tspan class="st26" v:langID="1033">*</tspan><tspan class="st25"
+						v:langID="1033"> </tspan><tspan class="st25" v:langID="1033">data</tspan><tspan class="st26"
+						v:langID="1033">,</tspan><tspan class="st25" v:langID="1033"> </tspan><tspan class="st24" v:langID="1033">size</tspan><tspan
+						class="st24" v:langID="1033">_</tspan><tspan class="st24" v:langID="1033">t</tspan><tspan class="st25"
+						v:langID="1033"> </tspan><tspan class="st25" v:langID="1033">len</tspan><tspan class="st26" v:langID="1033">)<v:newlineChar/></tspan><tspan
+						x="4" dy="1.215em" class="st26" v:langID="1033">{<v:newlineChar/></tspan><tspan x="4" dy="1.215em"
+						class="st25" v:langID="1033">  </tspan><tspan class="st25" v:langID="1033">loop</tspan><tspan class="st25"
+						v:langID="1033">_</tspan><tspan class="st26" v:langID="1033">-</tspan><tspan class="st26" v:langID="1033">&#62;</tspan><tspan
+						class="st25" v:langID="1033">assertInLoopThread</tspan><tspan class="st26" v:langID="1033">()</tspan><tspan
+						class="st26" v:langID="1033">;<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st25"
+						v:langID="1033">  </tspan><tspan class="st24" v:langID="1033">ssize</tspan><tspan class="st24"
+						v:langID="1033">_</tspan><tspan class="st24" v:langID="1033">t</tspan><tspan class="st25" v:langID="1033"> </tspan><tspan
+						class="st25" v:langID="1033">nwrote </tspan><tspan class="st26" v:langID="1033">=</tspan><tspan
+						class="st25" v:langID="1033"> </tspan><tspan class="st29" v:langID="1033">0</tspan><tspan class="st26"
+						v:langID="1033">;<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st25" v:langID="1033">  </tspan><tspan
+						class="st24" v:langID="1033">size</tspan><tspan class="st24" v:langID="1033">_</tspan><tspan class="st24"
+						v:langID="1033">t</tspan><tspan class="st25" v:langID="1033"> </tspan><tspan class="st25" v:langID="1033">remaining </tspan><tspan
+						class="st26" v:langID="1033">=</tspan><tspan class="st25" v:langID="1033"> </tspan><tspan class="st25"
+						v:langID="1033">len</tspan><tspan class="st26" v:langID="1033">;<v:newlineChar/></tspan><tspan x="4"
+						dy="1.215em" class="st25" v:langID="1033">  </tspan><tspan class="st24" v:langID="1033">bool</tspan><tspan
+						class="st25" v:langID="1033"> </tspan><tspan class="st25" v:langID="1033">error </tspan><tspan class="st26"
+						v:langID="1033">=</tspan><tspan class="st25" v:langID="1033"> </tspan><tspan class="st27" v:langID="1033">false</tspan><tspan
+						class="st26" v:langID="1033">;<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st25"
+						v:langID="1033">  </tspan><tspan class="st27" v:langID="1033">if</tspan><tspan class="st25" v:langID="1033"> </tspan><tspan
+						class="st26" v:langID="1033">(</tspan><tspan class="st25" v:langID="1033">state</tspan><tspan class="st25"
+						v:langID="1033">_ </tspan><tspan class="st26" v:langID="1033">==</tspan><tspan class="st25" v:langID="1033"> </tspan><tspan
+						class="st25" v:langID="1033">kDisconnected</tspan><tspan class="st26" v:langID="1033">)<v:newlineChar/></tspan><tspan
+						x="4" dy="1.215em" class="st25" v:langID="1033">  </tspan><tspan class="st26" v:langID="1033">{<v:newlineChar/></tspan><tspan
+						x="4" dy="1.215em" class="st25" v:langID="1033">    </tspan><tspan class="st25" v:langID="1033">LOG</tspan><tspan
+						class="st25" v:langID="1033">_</tspan><tspan class="st25" v:langID="1033">WARN </tspan><tspan class="st26"
+						v:langID="1033">&#60;&#60;</tspan><tspan class="st25" v:langID="1033"> </tspan><tspan class="st30"
+						v:langID="1033">&#34;</tspan><tspan class="st30" v:langID="1033">disconnected</tspan><tspan class="st30"
+						v:langID="1033">, </tspan><tspan class="st30" v:langID="1033">give up writing</tspan><tspan class="st30"
+						v:langID="1033">&#34;</tspan><tspan class="st26" v:langID="1033">;<v:newlineChar/></tspan><tspan x="4"
+						dy="1.215em" class="st25" v:langID="1033">    </tspan><tspan class="st27" v:langID="1033">return</tspan><tspan
+						class="st26" v:langID="1033">;<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st25"
+						v:langID="1033">  </tspan><tspan class="st26" v:langID="1033">}<v:newlineChar/></tspan><tspan x="4"
+						dy="1.204em" class="st25" v:langID="1033">  </tspan><tspan class="st28" v:langID="1033">// </tspan><tspan
+						class="st28" v:langID="1033">if no thing in output queue</tspan><tspan class="st28" v:langID="1033">, </tspan><tspan
+						class="st28" v:langID="1033">try writing directly<v:newlineChar/></tspan><tspan x="4" dy="1.212em"
+						class="st25" v:langID="1033">  </tspan><tspan class="st27" v:langID="1033">if</tspan><tspan class="st25"
+						v:langID="1033"> </tspan><tspan class="st26" v:langID="1033">(!</tspan><tspan class="st25" v:langID="1033">channel</tspan><tspan
+						class="st25" v:langID="1033">_</tspan><tspan class="st26" v:langID="1033">-</tspan><tspan class="st26"
+						v:langID="1033">&#62;</tspan><tspan class="st25" v:langID="1033">isWriting</tspan><tspan class="st26"
+						v:langID="1033">()</tspan><tspan class="st25" v:langID="1033"> </tspan><tspan class="st26" v:langID="1033">&#38;&#38;</tspan><tspan
+						class="st25" v:langID="1033"> </tspan><tspan class="st25" v:langID="1033">outputBuffer</tspan><tspan
+						class="st25" v:langID="1033">_</tspan><tspan class="st26" v:langID="1033">.</tspan><tspan class="st25"
+						v:langID="1033">readableBytes</tspan><tspan class="st26" v:langID="1033">()</tspan><tspan class="st25"
+						v:langID="1033"> </tspan><tspan class="st26" v:langID="1033">==</tspan><tspan class="st25" v:langID="1033"> </tspan><tspan
+						class="st29" v:langID="1033">0</tspan><tspan class="st26" v:langID="1033">)<v:newlineChar/></tspan><tspan
+						x="4" dy="1.215em" class="st25" v:langID="1033">  </tspan><tspan class="st26" v:langID="1033">{<v:newlineChar/></tspan><tspan
+						x="4" dy="1.215em" class="st25" v:langID="1033">    </tspan><tspan class="st23" v:langID="1033">nwrote </tspan><tspan
+						class="st23" v:langID="1033">= </tspan><tspan class="st23" v:langID="1033">sockets</tspan><tspan
+						class="st23" v:langID="1033">::</tspan><tspan class="st23" v:langID="1033">write</tspan><tspan class="st23"
+						v:langID="1033">(</tspan><tspan class="st23" v:langID="1033">channel</tspan><tspan class="st23"
+						v:langID="1033">_</tspan><tspan class="st23" v:langID="1033">-</tspan><tspan class="st23" v:langID="1033">&#62;</tspan><tspan
+						class="st23" v:langID="1033">fd</tspan><tspan class="st23" v:langID="1033">()</tspan><tspan class="st23"
+						v:langID="1033">, </tspan><tspan class="st23" v:langID="1033">data</tspan><tspan class="st23"
+						v:langID="1033">, </tspan><tspan class="st23" v:langID="1033">len</tspan><tspan class="st23"
+						v:langID="1033">)</tspan><tspan class="st23" v:langID="1033">;</tspan><tspan class="st23">//</tspan><tspan
+						class="st31">直接写入<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st25" v:langID="1033">    </tspan><tspan
+						class="st27" v:langID="1033">if</tspan><tspan class="st25" v:langID="1033"> </tspan><tspan class="st26"
+						v:langID="1033">(</tspan><tspan class="st25" v:langID="1033">nwrote </tspan><tspan class="st26"
+						v:langID="1033">&#62;</tspan><tspan class="st26" v:langID="1033">=</tspan><tspan class="st25"
+						v:langID="1033"> </tspan><tspan class="st29" v:langID="1033">0</tspan><tspan class="st26" v:langID="1033">)<v:newlineChar/></tspan><tspan
+						x="4" dy="1.215em" class="st25" v:langID="1033">    </tspan><tspan class="st26" v:langID="1033">{<v:newlineChar/></tspan><tspan
+						x="4" dy="1.215em" class="st25" v:langID="1033">      </tspan><tspan class="st25" v:langID="1033">remaining </tspan><tspan
+						class="st26" v:langID="1033">=</tspan><tspan class="st25" v:langID="1033"> </tspan><tspan class="st25"
+						v:langID="1033">len </tspan><tspan class="st26" v:langID="1033">-</tspan><tspan class="st25"
+						v:langID="1033"> </tspan><tspan class="st25" v:langID="1033">nwrote</tspan><tspan class="st26"
+						v:langID="1033">;<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st25" v:langID="1033">      </tspan><tspan
+						class="st27" v:langID="1033">if</tspan><tspan class="st25" v:langID="1033"> </tspan><tspan class="st26"
+						v:langID="1033">(</tspan><tspan class="st25" v:langID="1033">remaining </tspan><tspan class="st26"
+						v:langID="1033">==</tspan><tspan class="st25" v:langID="1033"> </tspan><tspan class="st29" v:langID="1033">0</tspan><tspan
+						class="st25" v:langID="1033"> </tspan><tspan class="st26" v:langID="1033">&#38;&#38;</tspan><tspan
+						class="st25" v:langID="1033"> </tspan><tspan class="st25" v:langID="1033">writeCompleteCallback</tspan><tspan
+						class="st25" v:langID="1033">_</tspan><tspan class="st26" v:langID="1033">)</tspan><tspan class="st26">//</tspan><tspan
+						class="st32">缓冲区全部写完调用回调函数</tspan><tspan class="st32">，</tspan><tspan class="st32">这里不管<v:newlineChar/></tspan><tspan
+						x="4" dy="1.215em" class="st25" v:langID="1033">      </tspan><tspan class="st26" v:langID="1033">{<v:newlineChar/></tspan><tspan
+						x="4" dy="1.215em" class="st25" v:langID="1033">        </tspan><tspan class="st25" v:langID="1033">loop</tspan><tspan
+						class="st25" v:langID="1033">_</tspan><tspan class="st26" v:langID="1033">-</tspan><tspan class="st26"
+						v:langID="1033">&#62;</tspan><tspan class="st25" v:langID="1033">queueInLoop</tspan><tspan class="st26"
+						v:langID="1033">(</tspan><tspan class="st25" v:langID="1033">boost</tspan><tspan class="st26"
+						v:langID="1033">::</tspan><tspan class="st25" v:langID="1033">bind</tspan><tspan class="st26"
+						v:langID="1033">(</tspan><tspan class="st25" v:langID="1033">writeCompleteCallback</tspan><tspan
+						class="st25" v:langID="1033">_</tspan><tspan class="st26" v:langID="1033">,</tspan><tspan class="st25"
+						v:langID="1033"> </tspan><tspan class="st25" v:langID="1033">shared</tspan><tspan class="st25"
+						v:langID="1033">_</tspan><tspan class="st25" v:langID="1033">from</tspan><tspan class="st25"
+						v:langID="1033">_</tspan><tspan class="st25" v:langID="1033">this</tspan><tspan class="st26"
+						v:langID="1033">()))</tspan><tspan class="st26" v:langID="1033">;<v:newlineChar/></tspan><tspan x="4"
+						dy="1.215em" class="st25" v:langID="1033">      </tspan><tspan class="st26" v:langID="1033">}<v:newlineChar/></tspan><tspan
+						x="4" dy="1.215em" class="st25" v:langID="1033">    </tspan><tspan class="st26" v:langID="1033">}<v:newlineChar/></tspan><tspan
+						x="4" dy="1.215em" class="st25" v:langID="1033">    </tspan><tspan class="st27" v:langID="1033">else</tspan><tspan
+						class="st25" v:langID="1033"> </tspan><tspan class="st28" v:langID="1033">// </tspan><tspan class="st28"
+						v:langID="1033">nwrote </tspan><tspan class="st28" v:langID="1033">&#60; </tspan><tspan class="st28"
+						v:langID="1033">0<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st25" v:langID="1033">    </tspan><tspan
+						class="st26" v:langID="1033">{<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st25"
+						v:langID="1033">      </tspan><tspan class="st25" v:langID="1033">nwrote </tspan><tspan class="st26"
+						v:langID="1033">=</tspan><tspan class="st25" v:langID="1033"> </tspan><tspan class="st29" v:langID="1033">0</tspan><tspan
+						class="st26" v:langID="1033">;<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st25"
+						v:langID="1033">      </tspan><tspan class="st27" v:langID="1033">if</tspan><tspan class="st25"
+						v:langID="1033"> </tspan><tspan class="st26" v:langID="1033">(</tspan><tspan class="st25" v:langID="1033">errno </tspan><tspan
+						class="st26" v:langID="1033">!=</tspan><tspan class="st25" v:langID="1033"> </tspan><tspan class="st25"
+						v:langID="1033">EWOULDBLOCK</tspan><tspan class="st26" v:langID="1033">)<v:newlineChar/></tspan><tspan
+						x="4" dy="1.215em" class="st25" v:langID="1033">      </tspan><tspan class="st26" v:langID="1033">{<v:newlineChar/></tspan><tspan
+						x="4" dy="1.215em" class="st25" v:langID="1033">        </tspan><tspan class="st25" v:langID="1033">LOG</tspan><tspan
+						class="st25" v:langID="1033">_</tspan><tspan class="st25" v:langID="1033">SYSERR </tspan><tspan
+						class="st26" v:langID="1033">&#60;&#60;</tspan><tspan class="st25" v:langID="1033"> </tspan><tspan
+						class="st30" v:langID="1033">&#34;</tspan><tspan class="st30" v:langID="1033">TcpConnection</tspan><tspan
+						class="st30" v:langID="1033">::</tspan><tspan class="st30" v:langID="1033">sendInLoop</tspan><tspan
+						class="st30" v:langID="1033">&#34;</tspan><tspan class="st26" v:langID="1033">;<v:newlineChar/></tspan><tspan
+						x="4" dy="1.215em" class="st25" v:langID="1033">        </tspan><tspan class="st27" v:langID="1033">if</tspan><tspan
+						class="st25" v:langID="1033"> </tspan><tspan class="st26" v:langID="1033">(</tspan><tspan class="st25"
+						v:langID="1033">errno </tspan><tspan class="st26" v:langID="1033">==</tspan><tspan class="st25"
+						v:langID="1033"> </tspan><tspan class="st25" v:langID="1033">EPIPE</tspan><tspan class="st26"
+						v:langID="1033">)</tspan><tspan class="st25" v:langID="1033"> </tspan><tspan class="st28" v:langID="1033">// </tspan><tspan
+						class="st28" v:langID="1033">FIXME</tspan><tspan class="st28" v:langID="1033">: </tspan><tspan class="st28"
+						v:langID="1033">any others</tspan><tspan class="st28" v:langID="1033">?<v:newlineChar/></tspan><tspan x="4"
+						dy="1.215em" class="st25" v:langID="1033">        </tspan><tspan class="st26" v:langID="1033">{<v:newlineChar/></tspan><tspan
+						x="4" dy="1.215em" class="st25" v:langID="1033">          </tspan><tspan class="st25" v:langID="1033">error </tspan><tspan
+						class="st26" v:langID="1033">=</tspan><tspan class="st25" v:langID="1033"> </tspan><tspan class="st27"
+						v:langID="1033">true</tspan><tspan class="st26" v:langID="1033">;<v:newlineChar/></tspan><tspan x="4"
+						dy="1.215em" class="st25" v:langID="1033">        </tspan><tspan class="st26" v:langID="1033">}<v:newlineChar/></tspan><tspan
+						x="4" dy="1.215em" class="st25" v:langID="1033">      </tspan><tspan class="st26" v:langID="1033">}<v:newlineChar/></tspan><tspan
+						x="4" dy="1.215em" class="st25" v:langID="1033">    </tspan><tspan class="st26" v:langID="1033">}<v:newlineChar/></tspan><tspan
+						x="4" dy="1.215em" class="st25" v:langID="1033">  </tspan><tspan class="st26" v:langID="1033">}<v:newlineChar/><v:newlineChar/></tspan><tspan
+						x="4" dy="2.416em" class="st25" v:langID="1033">  </tspan><tspan class="st25" v:langID="1033">assert</tspan><tspan
+						class="st26" v:langID="1033">(</tspan><tspan class="st25" v:langID="1033">remaining </tspan><tspan
+						class="st26" v:langID="1033">&#60;</tspan><tspan class="st26" v:langID="1033">=</tspan><tspan class="st25"
+						v:langID="1033"> </tspan><tspan class="st25" v:langID="1033">len</tspan><tspan class="st26" v:langID="1033">)</tspan><tspan
+						class="st26" v:langID="1033">;</tspan><tspan class="st26">//</tspan><tspan class="st32">数据量太大</tspan><tspan
+						class="st32">，</tspan><tspan class="st32">一次性没有发送完</tspan><tspan class="st32">，</tspan><tspan class="st32">而且没有发送的数据达到一定阈值<v:newlineChar/></tspan><tspan
+						x="4" dy="1.215em" class="st25" v:langID="1033">  </tspan><tspan class="st27" v:langID="1033">if</tspan><tspan
+						class="st25" v:langID="1033"> </tspan><tspan class="st26" v:langID="1033">(!</tspan><tspan class="st25"
+						v:langID="1033">error </tspan><tspan class="st26" v:langID="1033">&#38;&#38;</tspan><tspan class="st25"
+						v:langID="1033"> </tspan><tspan class="st25" v:langID="1033">remaining </tspan><tspan class="st26"
+						v:langID="1033">&#62;</tspan><tspan class="st25" v:langID="1033"> </tspan><tspan class="st29"
+						v:langID="1033">0</tspan><tspan class="st26" v:langID="1033">)<v:newlineChar/></tspan><tspan x="4"
+						dy="1.215em" class="st25" v:langID="1033">  </tspan><tspan class="st26" v:langID="1033">{<v:newlineChar/></tspan><tspan
+						x="4" dy="1.215em" class="st25" v:langID="1033">    </tspan><tspan class="st25" v:langID="1033">LOG</tspan><tspan
+						class="st25" v:langID="1033">_</tspan><tspan class="st25" v:langID="1033">TRACE </tspan><tspan class="st26"
+						v:langID="1033">&#60;&#60;</tspan><tspan class="st25" v:langID="1033"> </tspan><tspan class="st30"
+						v:langID="1033">&#34;</tspan><tspan class="st30" v:langID="1033">I am going to write more data</tspan><tspan
+						class="st30" v:langID="1033">&#34;</tspan><tspan class="st26" v:langID="1033">;<v:newlineChar/></tspan><tspan
+						x="4" dy="1.215em" class="st25" v:langID="1033">    </tspan><tspan class="st24" v:langID="1033">size</tspan><tspan
+						class="st24" v:langID="1033">_</tspan><tspan class="st24" v:langID="1033">t</tspan><tspan class="st25"
+						v:langID="1033"> </tspan><tspan class="st25" v:langID="1033">oldLen </tspan><tspan class="st26"
+						v:langID="1033">=</tspan><tspan class="st25" v:langID="1033"> </tspan><tspan class="st25" v:langID="1033">outputBuffer</tspan><tspan
+						class="st25" v:langID="1033">_</tspan><tspan class="st26" v:langID="1033">.</tspan><tspan class="st25"
+						v:langID="1033">readableBytes</tspan><tspan class="st26" v:langID="1033">()</tspan><tspan class="st26"
+						v:langID="1033">;<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st25" v:langID="1033">    </tspan><tspan
+						class="st27" v:langID="1033">if</tspan><tspan class="st25" v:langID="1033"> </tspan><tspan class="st26"
+						v:langID="1033">(</tspan><tspan class="st25" v:langID="1033">oldLen </tspan><tspan class="st26"
+						v:langID="1033">+</tspan><tspan class="st25" v:langID="1033"> </tspan><tspan class="st25" v:langID="1033">remaining </tspan><tspan
+						class="st26" v:langID="1033">&#62;</tspan><tspan class="st26" v:langID="1033">=</tspan><tspan class="st25"
+						v:langID="1033"> </tspan><tspan class="st25" v:langID="1033">highWaterMark</tspan><tspan class="st25"
+						v:langID="1033">_<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st25" v:langID="1033">        </tspan><tspan
+						class="st26" v:langID="1033">&#38;&#38;</tspan><tspan class="st25" v:langID="1033"> </tspan><tspan
+						class="st25" v:langID="1033">oldLen </tspan><tspan class="st26" v:langID="1033">&#60;</tspan><tspan
+						class="st25" v:langID="1033"> </tspan><tspan class="st25" v:langID="1033">highWaterMark</tspan><tspan
+						class="st25" v:langID="1033">_<v:newlineChar/></tspan><tspan x="4" dy="1.215em" class="st25"
+						v:langID="1033">        </tspan><tspan class="st26" v:langID="1033">&#38;&#38;</tspan><tspan class="st25"
+						v:langID="1033"> </tspan><tspan class="st25" v:langID="1033">highWaterMarkCallback</tspan><tspan
+						class="st25" v:langID="1033">_</tspan><tspan class="st26" v:langID="1033">)<v:newlineChar/></tspan><tspan
+						x="4" dy="1.215em" class="st25" v:langID="1033">    </tspan><tspan class="st26" v:langID="1033">{<v:newlineChar/></tspan><tspan
+						x="4" dy="1.215em" class="st25" v:langID="1033">      </tspan><tspan class="st25" v:langID="1033">loop</tspan><tspan
+						class="st25" v:langID="1033">_</tspan><tspan class="st26" v:langID="1033">-</tspan><tspan class="st26"
+						v:langID="1033">&#62;</tspan><tspan class="st25" v:langID="1033">queueInLoop</tspan><tspan class="st26"
+						v:langID="1033">(</tspan><tspan class="st25" v:langID="1033">boost</tspan><tspan class="st26"
+						v:langID="1033">::</tspan><tspan class="st25" v:langID="1033">bind</tspan><tspan class="st26"
+						v:langID="1033">(</tspan><tspan class="st25" v:langID="1033">highWaterMarkCallback</tspan><tspan
+						class="st25" v:langID="1033">_</tspan><tspan class="st26" v:langID="1033">,</tspan><tspan class="st25"
+						v:langID="1033"> </tspan><tspan class="st25" v:langID="1033">shared</tspan><tspan class="st25"
+						v:langID="1033">_</tspan><tspan class="st25" v:langID="1033">from</tspan><tspan class="st25"
+						v:langID="1033">_</tspan><tspan class="st25" v:langID="1033">this</tspan><tspan class="st26"
+						v:langID="1033">()</tspan><tspan class="st26" v:langID="1033">,</tspan><tspan class="st25" v:langID="1033"> </tspan><tspan
+						class="st25" v:langID="1033">oldLen </tspan><tspan x="4" dy="1.215em" class="st26" v:langID="1033">+</tspan><tspan
+						class="st25" v:langID="1033"> </tspan><tspan class="st25" v:langID="1033">remaining</tspan><tspan
+						class="st26" v:langID="1033">))</tspan><tspan class="st26" v:langID="1033">;<v:newlineChar/></tspan><tspan
+						x="4" dy="1.215em" class="st25" v:langID="1033">    </tspan><tspan class="st26" v:langID="1033">}<v:newlineChar/></tspan><tspan
+						x="4" dy="1.215em" class="st25" v:langID="1033">    </tspan><tspan class="st25" v:langID="1033">outputBuffer</tspan><tspan
+						class="st25" v:langID="1033">_</tspan><tspan class="st26" v:langID="1033">.</tspan><tspan class="st25"
+						v:langID="1033">append</tspan><tspan class="st26" v:langID="1033">(</tspan><tspan class="st27"
+						v:langID="1033">static</tspan><tspan class="st27" v:langID="1033">_</tspan><tspan class="st27"
+						v:langID="1033">cast</tspan><tspan class="st26" v:langID="1033">&#60;</tspan><tspan class="st24"
+						v:langID="1033">const</tspan><tspan class="st25" v:langID="1033"> </tspan><tspan class="st24"
+						v:langID="1033">char</tspan><tspan class="st26" v:langID="1033">*</tspan><tspan class="st26"
+						v:langID="1033">&#62;</tspan><tspan class="st26" v:langID="1033">(</tspan><tspan class="st25"
+						v:langID="1033">data</tspan><tspan class="st26" v:langID="1033">)+</tspan><tspan class="st25"
+						v:langID="1033">nwrote</tspan><tspan class="st26" v:langID="1033">,</tspan><tspan class="st25"
+						v:langID="1033"> </tspan><tspan class="st25" v:langID="1033">remaining</tspan><tspan class="st26"
+						v:langID="1033">)</tspan><tspan class="st26" v:langID="1033">;<v:newlineChar/></tspan><tspan x="4"
+						dy="1.215em" class="st25" v:langID="1033">    </tspan><tspan class="st27" v:langID="1033">if</tspan><tspan
+						class="st25" v:langID="1033"> </tspan><tspan class="st26" v:langID="1033">(!</tspan><tspan class="st25"
+						v:langID="1033">channel</tspan><tspan class="st25" v:langID="1033">_</tspan><tspan class="st26"
+						v:langID="1033">-</tspan><tspan class="st26" v:langID="1033">&#62;</tspan><tspan class="st25"
+						v:langID="1033">isWriting</tspan><tspan class="st26" v:langID="1033">())<v:newlineChar/></tspan><tspan
+						x="4" dy="1.215em" class="st25" v:langID="1033">    </tspan><tspan class="st26" v:langID="1033">{<v:newlineChar/></tspan><tspan
+						x="4" dy="1.215em" class="st25" v:langID="1033">      </tspan><tspan class="st25" v:langID="1033">channel</tspan><tspan
+						class="st25" v:langID="1033">_</tspan><tspan class="st26" v:langID="1033">-</tspan><tspan class="st26"
+						v:langID="1033">&#62;</tspan><tspan class="st25" v:langID="1033">enableWriting</tspan><tspan class="st26"
+						v:langID="1033">()</tspan><tspan class="st26" v:langID="1033">;<v:newlineChar/></tspan><tspan x="4"
+						dy="1.215em" class="st25" v:langID="1033">    </tspan><tspan class="st26" v:langID="1033">}<v:newlineChar/></tspan><tspan
+						x="4" dy="1.215em" class="st25" v:langID="1033">  </tspan><tspan class="st26" v:langID="1033">}<v:newlineChar/></tspan><tspan
+						x="4" dy="1.384em" class="st26" v:langID="1033">}</tspan></text>		</g>
+		<g id="shape13-1355" v:mID="13" v:groupContext="shape" v:layerMember="0" transform="translate(576.992,-2207.06)">
+			<title>动态连接线</title>
+			<path d="M3.54 2453.67 L3.54 2822.17 L10.63 2822.17" class="st33"/>
+		</g>
+		<g id="shape14-1361" v:mID="14" v:groupContext="shape" v:layerMember="0" transform="translate(580.535,-2199.97)">
+			<title>动态连接线.14</title>
+			<path d="M0 2446.58 L32.03 2446.58" class="st35"/>
+		</g>
+		<g id="shape16-1364" v:mID="16" v:groupContext="shape" v:layerMember="0" transform="translate(587.622,-1350.43)">
+			<title>动态连接线.16</title>
+			<path d="M0 2453.67 L0 2040.66 L42.52 2040.66" class="st36"/>
+		</g>
+		<g id="shape17-1370" v:mID="17" v:groupContext="shape" v:layerMember="0" transform="translate(587.622,-1689.73)">
+			<title>动态连接线.17</title>
+			<desc>TcpServer多线程 走这条路线</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="63.7795" cy="2457.21" width="72.41" height="27.2035"/>
+			<path d="M0 2446.58 L0 2457.21 L127.56 2457.21 L127.56 2446.58" class="st35"/>
+			<rect v:rectContext="textBkgnd" x="33.5925" y="2447.61" width="60.3743" height="19.1997" class="st37"/>
+			<text x="33.59" y="2454.81" class="st38" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>TcpServer多线程<v:newlineChar/><tspan
+						x="43.7" dy="1.2em" class="st3">走这条路线</tspan></text>		</g>
+		<g id="shape19-1376" v:mID="19" v:groupContext="shape" v:layerMember="0" transform="translate(856.913,-1328.31)">
+			<title>动态连接线.19</title>
+			<path d="M0 2453.67 L85.04 2453.67 L85.04 2482.02" class="st33"/>
+		</g>
+	</g>
+</svg>
